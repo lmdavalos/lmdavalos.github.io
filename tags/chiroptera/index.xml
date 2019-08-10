@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chiroptera on Dávalos Lab</title>
+    <link>/tags/chiroptera/</link>
+    <description>Recent content in Chiroptera on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019</copyright>
+    <lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/chiroptera/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Records of the cave-dwelling bats (Mammalia: Chiroptera) of Hispaniola with an examination of seasonal variation in diversity</title>
+      <link>/publication/journal_records_of_the_cave-dwelling/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_records_of_the_cave-dwelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Incomplete Fossils by Isolating Conflicting Signal in Saturated and Non-Independent Morphological Characters</title>
+      <link>/publication/journal_integrating_incomplete_fossils/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_integrating_incomplete_fossils/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cluster of Olfactory Receptor Genes Linked to Frugivory in Bats</title>
+      <link>/publication/journal_a_cluster_of_olfactory_receptor_genes/</link>
+      <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_a_cluster_of_olfactory_receptor_genes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ornithological observations from Reserva Natural Tambito, Cauca, south-west Colombia</title>
+      <link>/publication/journal_ornithological_observations_reserva_natural_tambito/</link>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_ornithological_observations_reserva_natural_tambito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The bat fauna of Tambito, Colombia</title>
+      <link>/publication/journal_bat_fauna_tambito_colombia/</link>
+      <pubDate>Tue, 01 Jun 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_bat_fauna_tambito_colombia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

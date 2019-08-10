@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maximum likelihood models on Dávalos Lab</title>
+    <link>/tags/maximum-likelihood-models/</link>
+    <description>Recent content in Maximum likelihood models on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019</copyright>
+    <lastBuildDate>Thu, 01 May 2008 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/maximum-likelihood-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Saturation and base composition bias explain phylogenomic conflict in Plasmodium</title>
+      <link>/publication/journal_saturation_and_base_composition/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_saturation_and_base_composition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

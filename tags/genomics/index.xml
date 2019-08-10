@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>genomics on Dávalos Lab</title>
+    <link>/tags/genomics/</link>
+    <description>Recent content in genomics on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019</copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/genomics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Regrowing the brain; evolution and mechanisms of seasonal reversible size changes in a mammal</title>
+      <link>/project/regrowing_the_brain/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/regrowing_the_brain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Targeted sequence capture outperforms RNA-Seq and degenerate-primer PCR cloning for sequencing the largest mammalian multi-gene family</title>
+      <link>/publication/preprint_targeted_sequence_capture_outperforms_rna-seq/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/preprint_targeted_sequence_capture_outperforms_rna-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Very Extended Phenotype; connecting genetics and evolution to ecological function</title>
+      <link>/project/very_extended_phenotype/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/very_extended_phenotype/</guid>
+      <description>&lt;p&gt;Two major recent trends in funding in biology have been integrative research that focuses on general principles that operate across levels and scales of biological systems; and research that integrates genetic, phylogenetic, and functional dimensions of the diversity of life on Earth. These two research approaches offer much promise to address not only many of the fundamental questions about life, but also many of the problems facing humanity, including the irreversible, ongoing, and rapid loss of biodiversity.&lt;/p&gt;
+
+&lt;p&gt;Conservation biologists have so far focused on risks of extinction, decline and collapse of species and ecosystems, while recognizing how just avoiding loss is not enough. Until recently, the ultimate goals of biodiversity conservation—recovery and restoration—have remained difficult, elusive, and vaguely defined. Earlier this year, a new framework for assessing species recovery and conservation success has been proposed. A central concept of this framework is the ecological functionality of populations, based on the idea that conserving species requires not only avoiding extinction, but also maintaining their contributions to ecosystem processes.&lt;/p&gt;
+
+&lt;p&gt;The practical application of this framework requires fundamental research about the relationships between ecological function and other organismal and genetic dimensions of biodiversity. We propose to develop a cross-scale research program that focuses on the relationships between phylogenetic diversity, genetic diversity and functional diversity of a biologically and economically
+important taxonomic group: bees.&lt;/p&gt;
+
+&lt;p&gt;The overall goal of the proposed research is to test hypotheses on the relationships among multiple dimensions of biological diversity, and their relevance for functioning of ecological communities. Our specific objectives for this OVPR Seed Proposal focus on preparing a strong initial proposal for
+NSF, potentially followed by additional proposals. We aim to
+1. Obtain preliminary genomic data via RNA transcripts and hybridization baits,
+2. Start developing a database of ecological functionality to relate species to their molecular and ecological function,
+3. Recruit collaborators to strengthen specific aspects of the planned proposal.&lt;/p&gt;
+
+&lt;p&gt;We have extensive experience in both the general subject area of the proposal, and the specific methodological and conceptual advances that underlie the proposed research program. However, we have never collaborated before, and we lack preliminary data on the system we propose to focus on. In order to build the collaboration and establish the preliminary data to successfully compete, we need the internal support provided by the OVPR seed funding. With funding from the OVPR Seed Grant Program, we plan to develop a new collaboration and a new research program that will likely lead to several externally funded projects over the coming 5-10 years. Our initial target will be the NSF program on Dimensions of Biodiversity ($2M total), but we expect that we will have multiple opportunities for external funding in the next year or so..&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genomics of exceptions to scaling of longevity to body size</title>
+      <link>/project/genomics_of_exceptions_to_scaling/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/genomics_of_exceptions_to_scaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering genomic and developmental mechanisms that underlie sensory innovations critical to adaptive diversification</title>
+      <link>/project/discovering_genomic_and_developmental_mechanisms/</link>
+      <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/project/discovering_genomic_and_developmental_mechanisms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Nature and Dynamics of Bacterial Genomes</title>
+      <link>/publication/journal_nature_dynamics_bacterial_genomes/</link>
+      <pubDate>Fri, 24 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_nature_dynamics_bacterial_genomes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

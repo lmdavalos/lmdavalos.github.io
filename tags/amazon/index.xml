@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon on Dávalos Lab</title>
+    <link>/tags/amazon/</link>
+    <description>Recent content in Amazon on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019</copyright>
+    <lastBuildDate>Tue, 23 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/amazon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spatial autocorrelation reduces model precision and predictive power in deforestation analyses</title>
+      <link>/publication/journal_spatial_autocorrelation_reduces/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_spatial_autocorrelation_reduces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deforestation and Coca Cultivation Rooted in Twentieth-Century Development Projects</title>
+      <link>/publication/journal_deforestation_and_coca_cultivation/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_deforestation_and_coca_cultivation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demand for beef is unrelated to pasture expansion in northwestern Amazonia</title>
+      <link>/publication/journal_demand_for_beef/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_demand_for_beef/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
