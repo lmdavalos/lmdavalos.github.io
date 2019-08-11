@@ -1606,6 +1606,24 @@
     </item>
     
     <item>
+      <title>Miocene</title>
+      <link>/tags/miocene/</link>
+      <pubDate>Mon, 15 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/miocene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dispersal</title>
+      <link>/tags/dispersal/</link>
+      <pubDate>Mon, 15 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dispersal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>earth and environment</title>
       <link>/tags/earth-and-environment/</link>
       <pubDate>Mon, 15 Mar 2010 00:00:00 +0000</pubDate>
@@ -1615,11 +1633,20 @@
     </item>
     
     <item>
-      <title>island biogeography dispersal vicariance Miocene</title>
-      <link>/tags/island-biogeography-dispersal-vicariance-miocene/</link>
+      <title>island biogeography</title>
+      <link>/tags/island-biogeography/</link>
       <pubDate>Mon, 15 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>/tags/island-biogeography-dispersal-vicariance-miocene/</guid>
+      <guid>/tags/island-biogeography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vicariance</title>
+      <link>/tags/vicariance/</link>
+      <pubDate>Mon, 15 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vicariance/</guid>
       <description></description>
     </item>
     
@@ -2137,15 +2164,6 @@
     </item>
     
     <item>
-      <title>dispersal</title>
-      <link>/tags/dispersal/</link>
-      <pubDate>Wed, 10 Mar 2004 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/dispersal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ground sloths</title>
       <link>/tags/ground-sloths/</link>
       <pubDate>Wed, 10 Mar 2004 00:00:00 +0000</pubDate>
@@ -2169,15 +2187,6 @@
       <pubDate>Wed, 10 Mar 2004 00:00:00 +0000</pubDate>
       
       <guid>/tags/hutia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vicariance</title>
-      <link>/tags/vicariance/</link>
-      <pubDate>Wed, 10 Mar 2004 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/vicariance/</guid>
       <description></description>
     </item>
     

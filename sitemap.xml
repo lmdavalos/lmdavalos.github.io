@@ -2925,13 +2925,31 @@
   </url>
   
   <url>
+    <loc>/tags/miocene/</loc>
+    <lastmod>2010-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dispersal/</loc>
+    <lastmod>2010-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/earth-and-environment/</loc>
     <lastmod>2010-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/island-biogeography-dispersal-vicariance-miocene/</loc>
+    <loc>/tags/island-biogeography/</loc>
+    <lastmod>2010-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vicariance/</loc>
     <lastmod>2010-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3447,12 +3465,6 @@
   </url>
   
   <url>
-    <loc>/tags/dispersal/</loc>
-    <lastmod>2004-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/ground-sloths/</loc>
     <lastmod>2004-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3466,12 +3478,6 @@
   
   <url>
     <loc>/tags/hutia/</loc>
-    <lastmod>2004-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/vicariance/</loc>
     <lastmod>2004-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
