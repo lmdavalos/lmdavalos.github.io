@@ -211,6 +211,15 @@
     </item>
     
     <item>
+      <title>chemosensation</title>
+      <link>/tags/chemosensation/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/chemosensation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>tropical biology</title>
       <link>/tags/tropical-biology/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
@@ -234,6 +243,15 @@
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/phylogenetic-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pseudogene</title>
+      <link>/tags/pseudogene/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pseudogene/</guid>
       <description></description>
     </item>
     
@@ -544,15 +562,6 @@
     </item>
     
     <item>
-      <title>chemosensation</title>
-      <link>/tags/chemosensation/</link>
-      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/chemosensation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>main olfactory system</title>
       <link>/tags/main-olfactory-system/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
@@ -580,11 +589,11 @@
     </item>
     
     <item>
-      <title>evolutionary biology</title>
-      <link>/tags/evolutionary-biology/</link>
+      <title>Laurasiatheria</title>
+      <link>/tags/laurasiatheria/</link>
       <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/evolutionary-biology/</guid>
+      <guid>/tags/laurasiatheria/</guid>
       <description></description>
     </item>
     
@@ -652,11 +661,11 @@
     </item>
     
     <item>
-      <title>guerrilla violence</title>
-      <link>/tags/guerrilla-violence/</link>
+      <title>guerrillas</title>
+      <link>/tags/guerrillas/</link>
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/guerrilla-violence/</guid>
+      <guid>/tags/guerrillas/</guid>
       <description></description>
     </item>
     
@@ -715,11 +724,11 @@
     </item>
     
     <item>
-      <title>mammals</title>
-      <link>/tags/mammals/</link>
+      <title>mammal</title>
+      <link>/tags/mammal/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/mammals/</guid>
+      <guid>/tags/mammal/</guid>
       <description></description>
     </item>
     
@@ -747,6 +756,15 @@
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/caribbean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codon models</title>
+      <link>/tags/codon-models/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/codon-models/</guid>
       <description></description>
     </item>
     
@@ -792,6 +810,15 @@
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/dispersal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fossils</title>
+      <link>/tags/fossils/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fossils/</guid>
       <description></description>
     </item>
     
@@ -895,15 +922,6 @@
     </item>
     
     <item>
-      <title>mammal</title>
-      <link>/tags/mammal/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mammal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>megafauna</title>
       <link>/tags/megafauna/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
@@ -931,11 +949,11 @@
     </item>
     
     <item>
-      <title>land protection</title>
-      <link>/tags/land-protection/</link>
+      <title>error rates</title>
+      <link>/tags/error-rates/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/land-protection/</guid>
+      <guid>/tags/error-rates/</guid>
       <description></description>
     </item>
     
@@ -963,24 +981,6 @@
       <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/edge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fire</title>
-      <link>/tags/fire/</link>
-      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/fire/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>forest loss</title>
-      <link>/tags/forest-loss/</link>
-      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/forest-loss/</guid>
       <description></description>
     </item>
     
@@ -1183,15 +1183,6 @@
     </item>
     
     <item>
-      <title>fossils</title>
-      <link>/tags/fossils/</link>
-      <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/fossils/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>geographic range evolution</title>
       <link>/tags/geographic-range-evolution/</link>
       <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
@@ -1237,11 +1228,11 @@
     </item>
     
     <item>
-      <title>Andean forests</title>
-      <link>/tags/andean-forests/</link>
+      <title>Andean forest</title>
+      <link>/tags/andean-forest/</link>
       <pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/andean-forests/</guid>
+      <guid>/tags/andean-forest/</guid>
       <description></description>
     </item>
     
@@ -1269,6 +1260,15 @@
       <pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>/tags/underlying-factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aphid</title>
+      <link>/tags/aphid/</link>
+      <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/aphid/</guid>
       <description></description>
     </item>
     
@@ -1399,15 +1399,6 @@
     </item>
     
     <item>
-      <title>error rates</title>
-      <link>/tags/error-rates/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/error-rates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>mitochondrial DNA</title>
       <link>/tags/mitochondrial-dna/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
@@ -1431,6 +1422,15 @@
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>/tags/species-delimitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notonycteris</title>
+      <link>/tags/notonycteris/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/notonycteris/</guid>
       <description></description>
     </item>
     
@@ -1485,15 +1485,6 @@
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>/tags/systematic-error/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>aphid</title>
-      <link>/tags/aphid/</link>
-      <pubDate>Sun, 16 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/aphid/</guid>
       <description></description>
     </item>
     
@@ -1849,15 +1840,6 @@
     </item>
     
     <item>
-      <title>character</title>
-      <link>/tags/character/</link>
-      <pubDate>Wed, 16 Nov 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/character/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>complex leaves</title>
       <link>/tags/complex-leaves/</link>
       <pubDate>Wed, 16 Nov 2011 00:00:00 +0000</pubDate>
@@ -1867,11 +1849,11 @@
     </item>
     
     <item>
-      <title>maximum likelihood</title>
-      <link>/tags/maximum-likelihood/</link>
+      <title>maximum likelihood models</title>
+      <link>/tags/maximum-likelihood-models/</link>
       <pubDate>Wed, 16 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>/tags/maximum-likelihood/</guid>
+      <guid>/tags/maximum-likelihood-models/</guid>
       <description></description>
     </item>
     
@@ -2002,15 +1984,6 @@
     </item>
     
     <item>
-      <title>Codon models</title>
-      <link>/tags/codon-models/</link>
-      <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/codon-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DNA barcoding</title>
       <link>/tags/dna-barcoding/</link>
       <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
@@ -2101,15 +2074,6 @@
     </item>
     
     <item>
-      <title>Maximum likelihood models</title>
-      <link>/tags/maximum-likelihood-models/</link>
-      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/maximum-likelihood-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Nonhomogeneous molecular evolution</title>
       <link>/tags/nonhomogeneous-molecular-evolution/</link>
       <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
@@ -2128,29 +2092,11 @@
     </item>
     
     <item>
-      <title>Short‐faced bats</title>
-      <link>/tags/shortfaced-bats/</link>
-      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/shortfaced-bats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>mitochondrial</title>
       <link>/tags/mitochondrial/</link>
       <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
       
       <guid>/tags/mitochondrial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Andean forest</title>
-      <link>/tags/andean-forest/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/andean-forest/</guid>
       <description></description>
     </item>
     
@@ -2259,24 +2205,6 @@
       <pubDate>Fri, 24 Mar 2006 00:00:00 +0000</pubDate>
       
       <guid>/tags/escherichia-coli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pseudogene</title>
-      <link>/tags/pseudogene/</link>
-      <pubDate>Fri, 24 Mar 2006 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pseudogene/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biogeography</title>
-      <link>/tags/biogeography/</link>
-      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/biogeography/</guid>
       <description></description>
     </item>
     
@@ -2592,15 +2520,6 @@
       <pubDate>Mon, 13 Oct 2003 00:00:00 +0000</pubDate>
       
       <guid>/tags/forest-policy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>guerrillas</title>
-      <link>/tags/guerrillas/</link>
-      <pubDate>Mon, 13 Oct 2003 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/guerrillas/</guid>
       <description></description>
     </item>
     
