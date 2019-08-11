@@ -1085,6 +1085,12 @@
   </url>
   
   <url>
+    <loc>/tags/codon-models/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/journal_genetic_function_of_trpc2/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -1109,12 +1115,6 @@
   
   <url>
     <loc>/tags/phylogenetic-logistic-regression/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/vestigial-structure/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1269,12 +1269,6 @@
   
   <url>
     <loc>/authors/carlos-a.-mancina/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/codon-models/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1978,6 +1972,12 @@
   
   <url>
     <loc>/authors/thomas-pietschmann/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/united-nations/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3580,7 +3580,7 @@
   </url>
   
   <url>
-    <loc>/tags/lesser-antilless/</loc>
+    <loc>/tags/lesser-antilles/</loc>
     <lastmod>2004-08-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3943,12 +3943,6 @@
   <url>
     <loc>/publication/journal_missing_the_forest_for_the_profits/</loc>
     <lastmod>2001-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/united-nations/</loc>
-    <lastmod>2001-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
