@@ -925,6 +925,47 @@
   </url>
   
   <url>
+    <loc>/authors/abigail-curtis/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/simone-hoffmann/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_vomeronasal_and_olfactory_structures/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/chemosensation/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/main-olfactory-system/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vestigial/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vomeronasal-organ/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/preprint_expressed_vomeronasal_type-1_receptors/</loc>
     <lastmod>2018-04-05T00:00:00+00:00</lastmod>
   </url>
@@ -1972,41 +2013,6 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/alex-c.c.-wilson/</loc>
     <lastmod>2015-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2119,6 +2125,83 @@
   <url>
     <loc>/tags/transmembrane-domains/</loc>
     <lastmod>2014-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/hoang-minh-duc/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jonathan-flanders/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/long-vu/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/maxent/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/quang-hao-nguyen/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sushma-reddy/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/thinh-ba-phung/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/timalidae/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_unveiling_the_impact_of_human/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vietnam/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/babblers/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/human-influence-index/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/species-distribution-modeling/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2517,12 +2600,6 @@
   
   <url>
     <loc>/tags/phylogeography/</loc>
-    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/species-distribution-modeling/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3516,12 +3593,6 @@
   </url>
   
   <url>
-    <loc>/authors/sushma-reddy/</loc>
-    <lastmod>2003-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/biodiversity-surveys/</loc>
     <lastmod>2003-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4086,6 +4157,11 @@
   <url>
     <loc>/authors/thomas-m.-donegan/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   

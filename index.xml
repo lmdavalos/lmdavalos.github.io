@@ -1047,7 +1047,57 @@ NSF, potentially followed by additional proposals. We aim to
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       
       <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;Privacy Notice&lt;/p&gt;
+
+&lt;p&gt;Effective Date:  August 31, 2019&lt;/p&gt;
+
+&lt;p&gt;This privacy notice discloses the privacy practices for the Dávalos Lab and our website; &lt;a href=&#34;https://lmdavalos.github.io&#34; target=&#34;_blank&#34;&gt;https://lmdavalos.github.io&lt;/a&gt;. This privacy notice applies solely to information collected by this website, except where stated otherwise. It will notify you of the following:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;What information we collect;
+With whom it is shared;
+How it can be corrected;
+How it is secured;
+How policy changes will be communicated; and
+How to address concerns over misuse of personal data. 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Information Collection, Use, and Sharing&lt;/p&gt;
+
+&lt;p&gt;We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.&lt;/p&gt;
+
+&lt;p&gt;We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization.&lt;/p&gt;
+
+&lt;p&gt;Your Access to and Control Over Information&lt;/p&gt;
+
+&lt;p&gt;You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number provided on our website:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;See what data we have about you, if any.
+Change/correct any data we have about you.
+Have us delete any data we have about you.
+Express any concern you have about our use of your data 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Security&lt;/p&gt;
+
+&lt;p&gt;We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.&lt;/p&gt;
+
+&lt;p&gt;Wherever we collect sensitive information (such as your message through the site), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for &amp;ldquo;https&amp;rdquo; at the beginning of the address of the web page.&lt;/p&gt;
+
+&lt;p&gt;While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only the PI who needs the information to perform a specific job (e.g., replying to your message) is granted access to personally identifiable information. The computers/servers on which we store personally identifiable information are kept in a secure environment.&lt;/p&gt;
+
+&lt;p&gt;Cookies&lt;/p&gt;
+
+&lt;p&gt;We do not use &amp;ldquo;cookies&amp;rdquo; on this site.
+Links&lt;/p&gt;
+
+&lt;p&gt;This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.&lt;/p&gt;
+
+&lt;p&gt;Other Provisions as Required by Law&lt;/p&gt;
+
+&lt;p&gt;Numerous other provisions and/or practices may be required as a result of laws, international treaties, or industry practices. It is up to you to determine what additional practices must be followed and/or what additional disclosures are required.&lt;/p&gt;
+
+&lt;p&gt;If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 631 632 1554 or via email at liliana.davalos@stonybrook.edu.
+&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
@@ -1084,6 +1134,15 @@ NSF, potentially followed by additional proposals. We aim to
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/journal_opposition_support/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vomeronasal and olfactory structures in bats revealed by diceCT clarify genetic evidence of function</title>
+      <link>/publication/journal_vomeronasal_and_olfactory_structures/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_vomeronasal_and_olfactory_structures/</guid>
       <description></description>
     </item>
     
@@ -1499,57 +1558,6 @@ NSF, potentially followed by additional proposals. We aim to
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Amino acid transporter expansions associated with the evolution of obligate endosymbiosis in sap-feeding insects (Hemiptera: sternorrhyncha)</title>
       <link>/publication/journal_amino_acid_transporters_expansion/</link>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
@@ -1582,6 +1590,15 @@ Figure 1: A fancy pie chart.
       <pubDate>Fri, 10 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>/publication/journal_molecular_evolution_of_growth_hormone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling the impact of human influence on species distributions in Vietnam: a case study using babblers (Aves: Timaliidae)</title>
+      <link>/publication/journal_unveiling_the_impact_of_human/</link>
+      <pubDate>Mon, 22 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_unveiling_the_impact_of_human/</guid>
       <description></description>
     </item>
     
