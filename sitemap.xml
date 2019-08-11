@@ -770,6 +770,24 @@
   </url>
   
   <url>
+    <loc>/tags/pteronotus/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pteronotus-portoricensis/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pteronotus-pusillus/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/winston-c.-lancaster/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3378,31 +3396,13 @@
   </url>
   
   <url>
-    <loc>/tags/pteronotus/</loc>
-    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/pteronotus-fulvus/</loc>
     <lastmod>2006-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/pteronotus-portoricensis/</loc>
-    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/pteronotus-psilotis/</loc>
-    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/pteronotus-pusillus/</loc>
     <lastmod>2006-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
