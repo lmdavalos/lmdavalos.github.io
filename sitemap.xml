@@ -538,6 +538,18 @@
   </url>
   
   <url>
+    <loc>/tags/dn/ds/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/phylogenetics/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication_types/3/</loc>
     <lastmod>2019-04-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -628,6 +640,36 @@
   </url>
   
   <url>
+    <loc>/tags/opsins/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/phylogenetic-regression/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/short-wave-opsin/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/transcription/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/translation/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication_types/6/</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -675,18 +717,18 @@
   </url>
   
   <url>
-    <loc>/tags/dn/ds/</loc>
-    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/journal_coalescent-based_estimator/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/amy-l.-russell/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bayesian/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -723,6 +765,18 @@
   
   <url>
     <loc>/authors/yolanda-m.-le%C3%B3n/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/coalescence/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mixed-models/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -875,12 +929,6 @@
   <url>
     <loc>/publication/journal_assessing_soft_tissue_shrinkage/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/bayesian/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1202,6 +1250,12 @@
   </url>
   
   <url>
+    <loc>/tags/biogeobears/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/caribbean/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1237,7 +1291,7 @@
   </url>
   
   <url>
-    <loc>/tags/short-face-bats/</loc>
+    <loc>/tags/short-faced-bats/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1267,6 +1321,12 @@
   </url>
   
   <url>
+    <loc>/tags/phylogeny/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/reverse-colonization/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1275,12 +1335,6 @@
   <url>
     <loc>/tags/vicariance/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/bayesian-phylogentic-mixed-models/</loc>
-    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1730,6 +1784,12 @@
   </url>
   
   <url>
+    <loc>/tags/dollos-law/</loc>
+    <lastmod>2017-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/ramatu-abubakar/</loc>
     <lastmod>2017-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2021,6 +2081,12 @@
   </url>
   
   <url>
+    <loc>/tags/diversification/</loc>
+    <lastmod>2016-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/fossils/</loc>
     <lastmod>2016-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2029,12 +2095,6 @@
   <url>
     <loc>/tags/geographic-range-evolution/</loc>
     <lastmod>2016-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/bayesian-hierarchical-models/</loc>
-    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2068,13 +2128,13 @@
   </url>
   
   <url>
-    <loc>/tags/nectarivory/</loc>
+    <loc>/tags/hierarchical-models/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/phylogenetic-regression/</loc>
+    <loc>/tags/nectarivory/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2151,12 +2211,6 @@
   
   <url>
     <loc>/tags/gene-family-evolution/</loc>
-    <lastmod>2015-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/phylogenetics/</loc>
     <lastmod>2015-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2547,6 +2601,12 @@
   </url>
   
   <url>
+    <loc>/tags/ornstein-uhlenbeck/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/sara-hayden/</loc>
     <lastmod>2014-01-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2555,12 +2615,6 @@
   <url>
     <loc>/publication/journal_selection_for_mechanical_advantage/</loc>
     <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/short-faced-bats/</loc>
-    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2595,6 +2649,12 @@
   
   <url>
     <loc>/tags/olfaction/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/phylogenetic-anova/</loc>
     <lastmod>2014-01-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2818,12 +2878,6 @@
   </url>
   
   <url>
-    <loc>/tags/phylogeny/</loc>
-    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/species-trees/</loc>
     <lastmod>2012-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2859,6 +2913,12 @@
   </url>
   
   <url>
+    <loc>/tags/inca/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/mario-bernaski/</loc>
     <lastmod>2012-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2866,6 +2926,24 @@
   
   <url>
     <loc>/authors/robert-rieger/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ancient-dna/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ancient-proteins/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/proteomics/</loc>
     <lastmod>2012-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2912,12 +2990,6 @@
   
   <url>
     <loc>/tags/stenodermatinae/</loc>
-    <lastmod>2011-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/diversification/</loc>
     <lastmod>2011-11-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2989,6 +3061,12 @@
   
   <url>
     <loc>/tags/complex-leaves/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/maximum-likelihood/</loc>
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

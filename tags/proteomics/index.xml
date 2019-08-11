@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>proteomics on Dávalos Lab</title>
+    <link>/tags/proteomics/</link>
+    <description>Recent content in proteomics on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019</copyright>
+    <lastBuildDate>Wed, 25 Jul 2012 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/proteomics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Detecting the Immune System Response of a 500 Year-Old Inca Mummy</title>
+      <link>/publication/journal_detecting_the_immune_system_response/</link>
+      <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_detecting_the_immune_system_response/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

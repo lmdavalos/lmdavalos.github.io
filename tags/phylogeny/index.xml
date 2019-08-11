@@ -7,10 +7,73 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019</copyright>
-    <lastBuildDate>Tue, 14 Aug 2012 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/phylogeny/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Out of the Antilles: Fossil Phylogenies Support Reverse Colonization of Bats to South America</title>
+      <link>/publication/journal_out_of_the_antilles/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_out_of_the_antilles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trpc2 pseudogenization dynamics in bats reveal ancestral vomeronasal signaling, then pervasive loss</title>
+      <link>/publication/journal_trpc2_pseudogenization_dynamics/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_trpc2_pseudogenization_dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent extinctions disturb path to equilibrium diversity in Caribbean bats</title>
+      <link>/publication/journal_recent_extinctions_disturb_path/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_recent_extinctions_disturb_path/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogeny and divergence times of lemurs inferred with recent and ancient fossils in the tree</title>
+      <link>/publication/journal_phylogeny_and_divergence_times/</link>
+      <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_phylogeny_and_divergence_times/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bats (Chiroptera: Noctilionoidea) Challenge a Recent Origin of Extant Neotropical Diversity</title>
+      <link>/publication/journal_bats_chiroptera_noctilionoidea/</link>
+      <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_bats_chiroptera_noctilionoidea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic recruitment of amino acid transporters to the insect/symbiont interface</title>
+      <link>/publication/journal_dynamic_recruitment_of_amino_acid_transporters/</link>
+      <pubDate>Sun, 16 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_dynamic_recruitment_of_amino_acid_transporters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selection for mechanical advantage underlies multiple cranial optima in new world leaf-nosed bats</title>
+      <link>/publication/journal_selection_for_mechanical_advantage/</link>
+      <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_selection_for_mechanical_advantage/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Understanding phylogenetic incongruence: lessons from phyllostomid bats</title>
@@ -22,11 +85,74 @@
     </item>
     
     <item>
+      <title>Detecting the Immune System Response of a 500 Year-Old Inca Mummy</title>
+      <link>/publication/journal_detecting_the_immune_system_response/</link>
+      <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_detecting_the_immune_system_response/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological innovation, diversification and invasion of a new adaptive zone</title>
+      <link>/publication/journal_morphological_innovation_diversification/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_morphological_innovation_diversification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earth history and the evolution of Caribbean bats</title>
+      <link>/publication/book_section_earth_history_evolution_caribbean_bats/</link>
+      <pubDate>Mon, 15 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/book_section_earth_history_evolution_caribbean_bats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short‐faced bats (Phyllostomidae: Stenodermatina): a Caribbean radiation of strict frugivores</title>
+      <link>/publication/journal_short_faced_bats/</link>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_short_faced_bats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The geography of diversification in the mormoopids (Chiroptera: Mormoopidae)</title>
+      <link>/publication/journal_geography_diversification_mormoopids/</link>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_geography_diversification_mormoopids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular phylogeny of funnel-eared bats (Chiroptera: Natalidae), with notes on biogeography and conservation</title>
+      <link>/publication/journal_molecular_phylogeny_funnel-eared_bats/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_molecular_phylogeny_funnel-eared_bats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Phylogeny of the Lonchophyllini (Chiroptera: Phyllostomidae)</title>
       <link>/publication/journal_phylogeny_of_lonchophyllini/</link>
       <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
       
       <guid>/publication/journal_phylogeny_of_lonchophyllini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogeny and biogeography of Caribbean mammals</title>
+      <link>/publication/journal_phylogeny_and_biogeography_caribbean/</link>
+      <pubDate>Wed, 10 Mar 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_phylogeny_and_biogeography_caribbean/</guid>
       <description></description>
     </item>
     

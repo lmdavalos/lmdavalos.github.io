@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019</copyright>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/bayesian/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A coalescent-based estimator of genetic drift, and acoustic divergence in the Pteronotus parnellii species complex</title>
+      <link>/publication/journal_coalescent-based_estimator/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_coalescent-based_estimator/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Opposition Support and the Experience of Violence Explain the Colombian Peace Referendum</title>
@@ -18,6 +27,24 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/journal_opposition_support/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eating down the food chain: generalism is not an evolutionary dead end for herbivores</title>
+      <link>/publication/journal_eating_down_the_food_chain/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_eating_down_the_food_chain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian hierarchical models suggest oldest known plant-visiting bat was omnivorous</title>
+      <link>/publication/journal_bayesian_hierarchical_models_suggest/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_bayesian_hierarchical_models_suggest/</guid>
       <description></description>
     </item>
     

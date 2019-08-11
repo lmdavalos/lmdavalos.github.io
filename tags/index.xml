@@ -184,6 +184,24 @@
     </item>
     
     <item>
+      <title>dN/dS</title>
+      <link>/tags/dn/ds/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dn/ds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylogenetics</title>
+      <link>/tags/phylogenetics/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/phylogenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>bait capture</title>
       <link>/tags/bait-capture/</link>
       <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
@@ -198,6 +216,51 @@
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/tropical-biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opsins</title>
+      <link>/tags/opsins/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/opsins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylogenetic regression</title>
+      <link>/tags/phylogenetic-regression/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/phylogenetic-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>short-wave opsin</title>
+      <link>/tags/short-wave-opsin/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/short-wave-opsin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transcription</title>
+      <link>/tags/transcription/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/transcription/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>translation</title>
+      <link>/tags/translation/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/translation/</guid>
       <description></description>
     </item>
     
@@ -238,11 +301,11 @@
     </item>
     
     <item>
-      <title>dN/dS</title>
-      <link>/tags/dn/ds/</link>
-      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <title>Bayesian</title>
+      <link>/tags/bayesian/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/dn/ds/</guid>
+      <guid>/tags/bayesian/</guid>
       <description></description>
     </item>
     
@@ -252,6 +315,24 @@
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/population-genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coalescence</title>
+      <link>/tags/coalescence/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/coalescence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mixed models</title>
+      <link>/tags/mixed-models/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mixed-models/</guid>
       <description></description>
     </item>
     
@@ -369,15 +450,6 @@
       <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/santa-cruz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian</title>
-      <link>/tags/bayesian/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/bayesian/</guid>
       <description></description>
     </item>
     
@@ -661,6 +733,15 @@
     </item>
     
     <item>
+      <title>BioGeoBEARS</title>
+      <link>/tags/biogeobears/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/biogeobears/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Caribbean</title>
       <link>/tags/caribbean/</link>
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
@@ -679,11 +760,11 @@
     </item>
     
     <item>
-      <title>Short-face bats</title>
-      <link>/tags/short-face-bats/</link>
+      <title>Short-faced bats</title>
+      <link>/tags/short-faced-bats/</link>
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/short-face-bats/</guid>
+      <guid>/tags/short-faced-bats/</guid>
       <description></description>
     </item>
     
@@ -715,6 +796,15 @@
     </item>
     
     <item>
+      <title>phylogeny</title>
+      <link>/tags/phylogeny/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/phylogeny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>reverse colonization</title>
       <link>/tags/reverse-colonization/</link>
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
@@ -729,15 +819,6 @@
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/vicariance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian phylogentic mixed models</title>
-      <link>/tags/bayesian-phylogentic-mixed-models/</link>
-      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/bayesian-phylogentic-mixed-models/</guid>
       <description></description>
     </item>
     
@@ -913,6 +994,15 @@
     </item>
     
     <item>
+      <title>Dollo&#39;s Law</title>
+      <link>/tags/dollos-law/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dollos-law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>pheromone</title>
       <link>/tags/pheromone/</link>
       <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
@@ -1084,6 +1174,15 @@
     </item>
     
     <item>
+      <title>diversification</title>
+      <link>/tags/diversification/</link>
+      <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/diversification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>fossils</title>
       <link>/tags/fossils/</link>
       <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
@@ -1098,15 +1197,6 @@
       <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/geographic-range-evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian hierarchical models</title>
-      <link>/tags/bayesian-hierarchical-models/</link>
-      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/bayesian-hierarchical-models/</guid>
       <description></description>
     </item>
     
@@ -1129,20 +1219,20 @@
     </item>
     
     <item>
+      <title>hierarchical models</title>
+      <link>/tags/hierarchical-models/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hierarchical-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>nectarivory</title>
       <link>/tags/nectarivory/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>/tags/nectarivory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>phylogenetic regression</title>
-      <link>/tags/phylogenetic-regression/</link>
-      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/phylogenetic-regression/</guid>
       <description></description>
     </item>
     
@@ -1197,15 +1287,6 @@
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>/tags/gene-family-evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>phylogenetics</title>
-      <link>/tags/phylogenetics/</link>
-      <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/phylogenetics/</guid>
       <description></description>
     </item>
     
@@ -1489,11 +1570,11 @@
     </item>
     
     <item>
-      <title>Short-faced bats</title>
-      <link>/tags/short-faced-bats/</link>
+      <title>Ornstein-Uhlenbeck</title>
+      <link>/tags/ornstein-uhlenbeck/</link>
       <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/short-faced-bats/</guid>
+      <guid>/tags/ornstein-uhlenbeck/</guid>
       <description></description>
     </item>
     
@@ -1539,6 +1620,15 @@
       <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>/tags/olfaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylogenetic ANOVA</title>
+      <link>/tags/phylogenetic-anova/</link>
+      <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/phylogenetic-anova/</guid>
       <description></description>
     </item>
     
@@ -1687,15 +1777,6 @@
     </item>
     
     <item>
-      <title>phylogeny</title>
-      <link>/tags/phylogeny/</link>
-      <pubDate>Tue, 14 Aug 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/phylogeny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>species trees</title>
       <link>/tags/species-trees/</link>
       <pubDate>Tue, 14 Aug 2012 00:00:00 +0000</pubDate>
@@ -1705,20 +1786,47 @@
     </item>
     
     <item>
+      <title>Inca</title>
+      <link>/tags/inca/</link>
+      <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/inca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ancient DNA</title>
+      <link>/tags/ancient-dna/</link>
+      <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ancient-dna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ancient proteins</title>
+      <link>/tags/ancient-proteins/</link>
+      <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ancient-proteins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proteomics</title>
+      <link>/tags/proteomics/</link>
+      <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/proteomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stenodermatinae</title>
       <link>/tags/stenodermatinae/</link>
       <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>/tags/stenodermatinae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diversification</title>
-      <link>/tags/diversification/</link>
-      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/diversification/</guid>
       <description></description>
     </item>
     
@@ -1755,6 +1863,15 @@
       <pubDate>Wed, 16 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>/tags/complex-leaves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maximum likelihood</title>
+      <link>/tags/maximum-likelihood/</link>
+      <pubDate>Wed, 16 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/maximum-likelihood/</guid>
       <description></description>
     </item>
     
