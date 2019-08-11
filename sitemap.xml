@@ -382,6 +382,12 @@
   </url>
   
   <url>
+    <loc>/tags/noctilionoidea/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/phyllostomidae/</loc>
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -791,8 +797,32 @@
   </url>
   
   <url>
+    <loc>/tags/bolivia/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/peru/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/book_section_ghosts_of_development_past/</loc>
     <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/illicit-crops/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -802,7 +832,31 @@
   </url>
   
   <url>
+    <loc>/tags/amazon-andes/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ariari/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/huallaga-valley/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/paul-gootenberg/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/santa-cruz/</loc>
     <lastmod>2018-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -901,13 +955,13 @@
   </url>
   
   <url>
-    <loc>/tags/plebiscite/</loc>
+    <loc>/tags/plebiscito/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/procesos-de-paz/</loc>
+    <loc>/tags/proceso-de-paz/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1036,6 +1090,12 @@
   </url>
   
   <url>
+    <loc>/tags/farc/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/journal_identifying_municipal_risk_factors/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url>
@@ -1136,7 +1196,25 @@
   </url>
   
   <url>
+    <loc>/tags/antilles/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/caribbean/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/carlos-a.-mancina/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cubanycteris/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1159,7 +1237,43 @@
   </url>
   
   <url>
+    <loc>/tags/short-face-bats/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/stenodermatina/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/val%C3%A9ria-da-c.-tavares/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/west-indies/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dispersal/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/reverse-colonization/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vicariance/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1173,12 +1287,6 @@
   <url>
     <loc>/publication/journal_eating_down_the_food_chain/</loc>
     <lastmod>2018-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/noctilionoidea/</loc>
-    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1486,12 +1594,6 @@
   </url>
   
   <url>
-    <loc>/tags/caribbean/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/holocene/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1517,12 +1619,6 @@
   
   <url>
     <loc>/authors/siobh%C3%A1n-b.-cooke/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/west-indies/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1680,6 +1776,12 @@
   </url>
   
   <url>
+    <loc>/tags/island-biogeography/</loc>
+    <lastmod>2017-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/journal_deforestation_and_coca_cultivation/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
@@ -1698,12 +1800,6 @@
   
   <url>
     <loc>/tags/illegal-drugs/</loc>
-    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/illicit-crops/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1781,6 +1877,12 @@
   
   <url>
     <loc>/authors/kamran-niaz/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/marginal-de-la-selva/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1954,6 +2056,12 @@
   </url>
   
   <url>
+    <loc>/tags/palynephyllum/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/pa%C3%BAl-m.-velazco/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1977,7 +2085,7 @@
   </url>
   
   <url>
-    <loc>/tags/anden-forests/</loc>
+    <loc>/tags/andean-forests/</loc>
     <lastmod>2015-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1995,7 +2103,7 @@
   </url>
   
   <url>
-    <loc>/tags/san-lucas-mountain-range/</loc>
+    <loc>/tags/san-lucas/</loc>
     <lastmod>2015-10-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2450,6 +2558,12 @@
   </url>
   
   <url>
+    <loc>/tags/short-faced-bats/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/william-j.-murphy/</loc>
     <lastmod>2014-01-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2463,6 +2577,12 @@
   
   <url>
     <loc>/tags/finite-element-analysis/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/frugivory/</loc>
     <lastmod>2014-01-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2791,13 +2911,13 @@
   </url>
   
   <url>
-    <loc>/tags/diversification/</loc>
+    <loc>/tags/stenodermatinae/</loc>
     <lastmod>2011-11-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/frugivory/</loc>
+    <loc>/tags/diversification/</loc>
     <lastmod>2011-11-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2869,12 +2989,6 @@
   
   <url>
     <loc>/tags/complex-leaves/</loc>
-    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/development/</loc>
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2979,12 +3093,6 @@
   </url>
   
   <url>
-    <loc>/tags/conservation-of-dynamics/</loc>
-    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/refugia/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2997,43 +3105,25 @@
   </url>
   
   <url>
+    <loc>/tags/brachyphylla/</loc>
+    <lastmod>2010-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/book_section_earth_history_evolution_caribbean_bats/</loc>
     <lastmod>2010-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/tags/gaarlandia/</loc>
+    <lastmod>2010-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/miocene/</loc>
     <lastmod>2010-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/dispersal/</loc>
-    <lastmod>2010-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/earth-and-environment/</loc>
-    <lastmod>2010-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/island-biogeography/</loc>
-    <lastmod>2010-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/vicariance/</loc>
-    <lastmod>2010-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/coca-crop/</loc>
-    <lastmod>2009-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3056,6 +3146,12 @@
   
   <url>
     <loc>/tags/social-crisis/</loc>
+    <lastmod>2009-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/coca/</loc>
     <lastmod>2009-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3193,12 +3289,6 @@
   </url>
   
   <url>
-    <loc>/tags/stenodermatinae/</loc>
-    <lastmod>2007-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/mitochondrial/</loc>
     <lastmod>2007-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3235,12 +3325,6 @@
   
   <url>
     <loc>/tags/environmental-damage/</loc>
-    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/timber-exploitation/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3322,12 +3406,6 @@
   </url>
   
   <url>
-    <loc>/tags/antilles/</loc>
-    <lastmod>2005-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/biogeography/</loc>
     <lastmod>2005-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3393,6 +3471,12 @@
   </url>
   
   <url>
+    <loc>/tags/ecuador/</loc>
+    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication/journal_illicit_crops_armed_conflict/</loc>
     <lastmod>2005-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -3440,6 +3524,12 @@
   <url>
     <loc>/publication/misc_guerrillas_in_the_midst/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/armed-conflict/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -3531,12 +3621,6 @@
   </url>
   
   <url>
-    <loc>/tags/gaarlandia/</loc>
-    <lastmod>2004-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/journal_phylogeny_and_biogeography_caribbean/</loc>
     <lastmod>2004-03-10T00:00:00+00:00</lastmod>
   </url>
@@ -3562,6 +3646,12 @@
   <url>
     <loc>/publication/journal_new_chocoan_species_of_lonchophylla/</loc>
     <lastmod>2004-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/choc%C3%B3/</loc>
+    <lastmod>2004-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -3619,18 +3709,6 @@
   <url>
     <loc>/publication/book_section_forests_in_time_of_violence/</loc>
     <lastmod>2003-10-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/armed-conflict/</loc>
-    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/coca/</loc>
-    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3952,7 +4030,7 @@
   </url>
   
   <url>
-    <loc>/tags/forest-conversion/</loc>
+    <loc>/tags/gold-mining/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
