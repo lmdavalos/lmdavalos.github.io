@@ -7,17 +7,44 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019</copyright>
-    <lastBuildDate>Wed, 25 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/gene-family-evolution/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Amino acid transporter expansions associated with the evolution of obligate endosymbiosis in sap-feeding insects (Hemiptera: sternorrhyncha)</title>
+      <title>Targeted sequence capture outperforms RNA-Seq and degenerate-primer PCR cloning for sequencing the largest mammalian multi-gene family</title>
+      <link>/publication/preprint_targeted_sequence_capture_outperforms_rna-seq/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/preprint_targeted_sequence_capture_outperforms_rna-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expressed vomeronasal type-1 receptors (V1rs) in bats uncover conserved mechanisms of social chemical signaling</title>
+      <link>/publication/preprint_expressed_vomeronasal_type-1_receptors/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/preprint_expressed_vomeronasal_type-1_receptors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amino acid transporter expansions associated with the evolution of obligate endosymbiosis in sap-feeding insects (Hemiptera: Sternorrhyncha)</title>
       <link>/publication/journal_amino_acid_transporters_expansion/</link>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>/publication/journal_amino_acid_transporters_expansion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cluster of Olfactory Receptor Genes Linked to Frugivory in Bats</title>
+      <link>/publication/journal_a_cluster_of_olfactory_receptor_genes/</link>
+      <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_a_cluster_of_olfactory_receptor_genes/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019</copyright>
-    <lastBuildDate>Fri, 01 Oct 1999 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jun 2001 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/nature-reserve/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Parc National La Visite, Haiti a last refuge for the country&#39;s montane birds</title>
+      <link>/publication/journal_parc_national_la_visite/</link>
+      <pubDate>Fri, 01 Jun 2001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_parc_national_la_visite/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ornithological observations from Reserva Natural Tambito, Cauca, south-west Colombia</title>
@@ -18,6 +27,15 @@
       <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
       
       <guid>/publication/journal_ornithological_observations_reserva_natural_tambito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The bat fauna of Tambito, Colombia</title>
+      <link>/publication/journal_bat_fauna_tambito_colombia/</link>
+      <pubDate>Tue, 01 Jun 1999 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_bat_fauna_tambito_colombia/</guid>
       <description></description>
     </item>
     

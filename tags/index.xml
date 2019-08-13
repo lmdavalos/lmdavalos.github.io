@@ -166,11 +166,11 @@
     </item>
     
     <item>
-      <title>Adaptation</title>
-      <link>/tags/adaptation/</link>
-      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      <title>peace process</title>
+      <link>/tags/peace-process/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/adaptation/</guid>
+      <guid>/tags/peace-process/</guid>
       <description></description>
     </item>
     
@@ -180,6 +180,24 @@
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/evolutionary-genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adaptation</title>
+      <link>/tags/adaptation/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>convergence</title>
+      <link>/tags/convergence/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/convergence/</guid>
       <description></description>
     </item>
     
@@ -220,11 +238,38 @@
     </item>
     
     <item>
+      <title>gene family evolution</title>
+      <link>/tags/gene-family-evolution/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gene-family-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>tropical biology</title>
       <link>/tags/tropical-biology/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/tropical-biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hierarchical models</title>
+      <link>/tags/hierarchical-models/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hierarchical-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mixed models</title>
+      <link>/tags/mixed-models/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mixed-models/</guid>
       <description></description>
     </item>
     
@@ -252,6 +297,15 @@
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/pseudogene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>relaxed selection</title>
+      <link>/tags/relaxed-selection/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/relaxed-selection/</guid>
       <description></description>
     </item>
     
@@ -373,15 +427,6 @@
     </item>
     
     <item>
-      <title>mixed models</title>
-      <link>/tags/mixed-models/</link>
-      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mixed-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Furipteridae</title>
       <link>/tags/furipteridae/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
@@ -418,6 +463,15 @@
     </item>
     
     <item>
+      <title>distribution and checklist</title>
+      <link>/tags/distribution-and-checklist/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/distribution-and-checklist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>extent of occurrence</title>
       <link>/tags/extent-of-occurrence/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
@@ -432,6 +486,15 @@
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/bolivia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marginal de la Selva</title>
+      <link>/tags/marginal-de-la-selva/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/marginal-de-la-selva/</guid>
       <description></description>
     </item>
     
@@ -508,15 +571,6 @@
     </item>
     
     <item>
-      <title>bayesiano</title>
-      <link>/tags/bayesiano/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/bayesiano/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>diceCT</title>
       <link>/tags/dicect/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -540,33 +594,6 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/microct/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>peace process</title>
-      <link>/tags/peace-process/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/peace-process/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plebiscito</title>
-      <link>/tags/plebiscito/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/plebiscito/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>proceso de paz</title>
-      <link>/tags/proceso-de-paz/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/proceso-de-paz/</guid>
       <description></description>
     </item>
     
@@ -688,6 +715,15 @@
     </item>
     
     <item>
+      <title>armed conflict</title>
+      <link>/tags/armed-conflict/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/armed-conflict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>guerrillas</title>
       <link>/tags/guerrillas/</link>
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
@@ -765,6 +801,15 @@
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/antilles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian phylogenetics</title>
+      <link>/tags/bayesian-phylogenetics/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bayesian-phylogenetics/</guid>
       <description></description>
     </item>
     
@@ -985,6 +1030,15 @@
     </item>
     
     <item>
+      <title>spatial autocorrelation</title>
+      <link>/tags/spatial-autocorrelation/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/spatial-autocorrelation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MODIS</title>
       <link>/tags/modis/</link>
       <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
@@ -1039,11 +1093,11 @@
     </item>
     
     <item>
-      <title>relaxed selection</title>
-      <link>/tags/relaxed-selection/</link>
-      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Neotropics</title>
+      <link>/tags/neotropics/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/relaxed-selection/</guid>
+      <guid>/tags/neotropics/</guid>
       <description></description>
     </item>
     
@@ -1080,15 +1134,6 @@
       <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/spatial-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marginal de la Selva</title>
-      <link>/tags/marginal-de-la-selva/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/marginal-de-la-selva/</guid>
       <description></description>
     </item>
     
@@ -1138,15 +1183,6 @@
     </item>
     
     <item>
-      <title>Bayesian phylogenetics</title>
-      <link>/tags/bayesian-phylogenetics/</link>
-      <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/bayesian-phylogenetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>calibration</title>
       <link>/tags/calibration/</link>
       <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
@@ -1192,15 +1228,6 @@
     </item>
     
     <item>
-      <title>Neotropics</title>
-      <link>/tags/neotropics/</link>
-      <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/neotropics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>diversification</title>
       <link>/tags/diversification/</link>
       <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
@@ -1228,20 +1255,20 @@
     </item>
     
     <item>
+      <title>Miocene</title>
+      <link>/tags/miocene/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/miocene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Palynephyllum</title>
       <link>/tags/palynephyllum/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
       <guid>/tags/palynephyllum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hierarchical models</title>
-      <link>/tags/hierarchical-models/</link>
-      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hierarchical-models/</guid>
       <description></description>
     </item>
     
@@ -1305,15 +1332,6 @@
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>/tags/endosymbiosis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gene family evolution</title>
-      <link>/tags/gene-family-evolution/</link>
-      <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/gene-family-evolution/</guid>
       <description></description>
     </item>
     
@@ -1458,15 +1476,6 @@
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>/tags/notonycteris/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>conflict</title>
-      <link>/tags/conflict/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/conflict/</guid>
       <description></description>
     </item>
     
@@ -1759,15 +1768,6 @@
     </item>
     
     <item>
-      <title>adaptive convergence</title>
-      <link>/tags/adaptive-convergence/</link>
-      <pubDate>Tue, 14 Aug 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/adaptive-convergence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>gene trees</title>
       <link>/tags/gene-trees/</link>
       <pubDate>Tue, 14 Aug 2012 00:00:00 +0000</pubDate>
@@ -1966,11 +1966,11 @@
     </item>
     
     <item>
-      <title>Miocene</title>
-      <link>/tags/miocene/</link>
+      <title>systematics</title>
+      <link>/tags/systematics/</link>
       <pubDate>Mon, 15 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>/tags/miocene/</guid>
+      <guid>/tags/systematics/</guid>
       <description></description>
     </item>
     
@@ -2061,6 +2061,15 @@
       <pubDate>Wed, 31 Dec 2008 00:00:00 +0000</pubDate>
       
       <guid>/tags/east-andes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lonchophylla</title>
+      <link>/tags/lonchophylla/</link>
+      <pubDate>Wed, 31 Dec 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lonchophylla/</guid>
       <description></description>
     </item>
     
@@ -2308,11 +2317,11 @@
     </item>
     
     <item>
-      <title>armed conflict</title>
-      <link>/tags/armed-conflict/</link>
+      <title>Puerto Rico</title>
+      <link>/tags/puerto-rico/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       
-      <guid>/tags/armed-conflict/</guid>
+      <guid>/tags/puerto-rico/</guid>
       <description></description>
     </item>
     
@@ -2353,15 +2362,6 @@
     </item>
     
     <item>
-      <title>Lonchophylla</title>
-      <link>/tags/lonchophylla/</link>
-      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/lonchophylla/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Platalina</title>
       <link>/tags/platalina/</link>
       <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
@@ -2376,15 +2376,6 @@
       <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
       
       <guid>/tags/archival-dna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>systemics</title>
-      <link>/tags/systemics/</link>
-      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/systemics/</guid>
       <description></description>
     </item>
     
@@ -2425,27 +2416,18 @@
     </item>
     
     <item>
-      <title>Lonchohylla</title>
-      <link>/tags/lonchohylla/</link>
-      <pubDate>Fri, 27 Feb 2004 00:00:00 +0000</pubDate>
+      <title>Jamaica</title>
+      <link>/tags/jamaica/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       
-      <guid>/tags/lonchohylla/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lonchohyllinae</title>
-      <link>/tags/lonchohyllinae/</link>
-      <pubDate>Fri, 27 Feb 2004 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/lonchohyllinae/</guid>
+      <guid>/tags/jamaica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>biodiversity surveys</title>
       <link>/tags/biodiversity-surveys/</link>
-      <pubDate>Thu, 23 Oct 2003 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
       
       <guid>/tags/biodiversity-surveys/</guid>
       <description></description>
@@ -2704,6 +2686,15 @@
     </item>
     
     <item>
+      <title>First faunal account</title>
+      <link>/tags/first-faunal-account/</link>
+      <pubDate>Fri, 01 Jun 2001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/first-faunal-account/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Haiti</title>
       <link>/tags/haiti/</link>
       <pubDate>Fri, 01 Jun 2001 00:00:00 +0000</pubDate>
@@ -2740,20 +2731,20 @@
     </item>
     
     <item>
+      <title>nature reserve</title>
+      <link>/tags/nature-reserve/</link>
+      <pubDate>Fri, 01 Jun 2001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nature-reserve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>new records and recent extirpations</title>
       <link>/tags/new-records-and-recent-extirpations/</link>
       <pubDate>Fri, 01 Jun 2001 00:00:00 +0000</pubDate>
       
       <guid>/tags/new-records-and-recent-extirpations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>biodiversity conservation</title>
-      <link>/tags/biodiversity-conservation/</link>
-      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/biodiversity-conservation/</guid>
       <description></description>
     </item>
     
@@ -2776,83 +2767,11 @@
     </item>
     
     <item>
-      <title>Community structure</title>
-      <link>/tags/community-structure/</link>
+      <title>Tambito</title>
+      <link>/tags/tambito/</link>
       <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
       
-      <guid>/tags/community-structure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Feeding guilds</title>
-      <link>/tags/feeding-guilds/</link>
-      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/feeding-guilds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>First faunal account</title>
-      <link>/tags/first-faunal-account/</link>
-      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/first-faunal-account/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Foraging</title>
-      <link>/tags/foraging/</link>
-      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/foraging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tambito nature reserve</title>
-      <link>/tags/tambito-nature-reserve/</link>
-      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tambito-nature-reserve/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nature reserve</title>
-      <link>/tags/nature-reserve/</link>
-      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/nature-reserve/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Checklists</title>
-      <link>/tags/checklists/</link>
-      <pubDate>Tue, 01 Jun 1999 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/checklists/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distribution and checklist</title>
-      <link>/tags/distribution-and-checklist/</link>
-      <pubDate>Tue, 01 Jun 1999 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/distribution-and-checklist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural Reserve Tambito</title>
-      <link>/tags/natural-reserve-tambito/</link>
-      <pubDate>Tue, 01 Jun 1999 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/natural-reserve-tambito/</guid>
+      <guid>/tags/tambito/</guid>
       <description></description>
     </item>
     
@@ -2934,6 +2853,42 @@
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
       
       <guid>/tags/song-characteristics-and-reproductive-behaviour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RFLP</title>
+      <link>/tags/rflp/</link>
+      <pubDate>Tue, 01 Jul 1997 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rflp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hoja blanca</title>
+      <link>/tags/hoja-blanca/</link>
+      <pubDate>Tue, 01 Jul 1997 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hoja-blanca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rice</title>
+      <link>/tags/rice/</link>
+      <pubDate>Tue, 01 Jul 1997 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virus resistance</title>
+      <link>/tags/virus-resistance/</link>
+      <pubDate>Tue, 01 Jul 1997 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/virus-resistance/</guid>
       <description></description>
     </item>
     

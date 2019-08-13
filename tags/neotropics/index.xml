@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019</copyright>
-    <lastBuildDate>Wed, 10 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/neotropics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Recent extinctions disturb path to equilibrium diversity in Caribbean bats</title>
+      <link>/publication/journal_recent_extinctions_disturb_path/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_recent_extinctions_disturb_path/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bats (Chiroptera: Noctilionoidea) Challenge a Recent Origin of Extant Neotropical Diversity</title>
@@ -18,6 +27,15 @@
       <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/journal_bats_chiroptera_noctilionoidea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Incomplete Fossils by Isolating Conflicting Signal in Saturated and Non-Independent Morphological Characters</title>
+      <link>/publication/journal_integrating_incomplete_fossils/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_integrating_incomplete_fossils/</guid>
       <description></description>
     </item>
     

@@ -503,8 +503,8 @@
   </url>
   
   <url>
-    <loc>/tags/adaptation/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <loc>/tags/peace-process/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -535,6 +535,18 @@
   <url>
     <loc>/publication/journal_parallel_molecular_evolution/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/adaptation/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/convergence/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -586,6 +598,12 @@
   
   <url>
     <loc>/tags/chemosensation/</loc>
+    <lastmod>2019-04-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gene-family-evolution/</loc>
     <lastmod>2019-04-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -646,6 +664,18 @@
   </url>
   
   <url>
+    <loc>/tags/hierarchical-models/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mixed-models/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/opsins/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -659,6 +689,12 @@
   
   <url>
     <loc>/tags/pseudogene/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/relaxed-selection/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -806,12 +842,6 @@
   </url>
   
   <url>
-    <loc>/tags/mixed-models/</loc>
-    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/carlos-fonseca/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -865,6 +895,12 @@
   </url>
   
   <url>
+    <loc>/tags/distribution-and-checklist/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/extent-of-occurrence/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -882,6 +918,12 @@
   
   <url>
     <loc>/tags/bolivia/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/marginal-de-la-selva/</loc>
     <lastmod>2018-06-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1003,12 +1045,6 @@
   </url>
   
   <url>
-    <loc>/tags/bayesiano/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/dicect/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1022,24 +1058,6 @@
   
   <url>
     <loc>/tags/microct/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/peace-process/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plebiscito/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/proceso-de-paz/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1179,6 +1197,12 @@
   </url>
   
   <url>
+    <loc>/tags/armed-conflict/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/guerrillas/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1269,6 +1293,12 @@
   
   <url>
     <loc>/tags/antilles/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bayesian-phylogenetics/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1755,6 +1785,12 @@
   </url>
   
   <url>
+    <loc>/tags/spatial-autocorrelation/</loc>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/cerian-gibbes/</loc>
     <lastmod>2017-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1825,13 +1861,13 @@
   </url>
   
   <url>
-    <loc>/tags/relaxed-selection/</loc>
-    <lastmod>2017-01-27T00:00:00+00:00</lastmod>
+    <loc>/authors/luis-valente/</loc>
+    <lastmod>2017-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/luis-valente/</loc>
+    <loc>/tags/neotropics/</loc>
     <lastmod>2017-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1954,12 +1990,6 @@
   </url>
   
   <url>
-    <loc>/tags/marginal-de-la-selva/</loc>
-    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/martin-raithelhuber/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2036,12 +2066,6 @@
   </url>
   
   <url>
-    <loc>/tags/bayesian-phylogenetics/</loc>
-    <lastmod>2016-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/james-p.-herrera/</loc>
     <lastmod>2016-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2093,12 +2117,6 @@
   </url>
   
   <url>
-    <loc>/tags/neotropics/</loc>
-    <lastmod>2016-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/diversification/</loc>
     <lastmod>2016-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2128,6 +2146,12 @@
   </url>
   
   <url>
+    <loc>/tags/miocene/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/palynephyllum/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -2135,12 +2159,6 @@
   
   <url>
     <loc>/authors/pa%C3%BAl-m.-velazco/</loc>
-    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/hierarchical-models/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2223,12 +2241,6 @@
   
   <url>
     <loc>/tags/endosymbiosis/</loc>
-    <lastmod>2015-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/gene-family-evolution/</loc>
     <lastmod>2015-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2444,12 +2456,6 @@
   
   <url>
     <loc>/authors/peter-d.-smits/</loc>
-    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/conflict/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2866,12 +2872,6 @@
   </url>
   
   <url>
-    <loc>/tags/adaptive-convergence/</loc>
-    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/gene-trees/</loc>
     <lastmod>2012-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3206,7 +3206,7 @@
   </url>
   
   <url>
-    <loc>/tags/miocene/</loc>
+    <loc>/tags/systematics/</loc>
     <lastmod>2010-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3294,6 +3294,12 @@
   
   <url>
     <loc>/tags/east-andes/</loc>
+    <lastmod>2008-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/lonchophylla/</loc>
     <lastmod>2008-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3557,7 +3563,7 @@
   </url>
   
   <url>
-    <loc>/tags/armed-conflict/</loc>
+    <loc>/tags/puerto-rico/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3616,12 +3622,6 @@
   </url>
   
   <url>
-    <loc>/tags/lonchophylla/</loc>
-    <lastmod>2004-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/journal_phylogeny_of_lonchophyllini/</loc>
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -3645,9 +3645,14 @@
   </url>
   
   <url>
-    <loc>/tags/systemics/</loc>
-    <lastmod>2004-06-01T00:00:00+00:00</lastmod>
+    <loc>/publication_types/7/</loc>
+    <lastmod>2004-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/thesis_historical_biogeography_antilles/</loc>
+    <lastmod>2004-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3685,20 +3690,14 @@
   </url>
   
   <url>
-    <loc>/tags/lonchohylla/</loc>
-    <lastmod>2004-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/lonchohyllinae/</loc>
-    <lastmod>2004-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/misc_epicrates_subflavus/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jamaica/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -3708,14 +3707,14 @@
   </url>
   
   <url>
-    <loc>/publication/journal_geographical_sampling_bias/</loc>
-    <lastmod>2003-10-23T00:00:00+00:00</lastmod>
+    <loc>/tags/biodiversity-surveys/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/biodiversity-surveys/</loc>
+    <loc>/publication/journal_geographical_sampling_bias/</loc>
     <lastmod>2003-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3976,6 +3975,12 @@
   </url>
   
   <url>
+    <loc>/tags/first-faunal-account/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/haiti/</loc>
     <lastmod>2001-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4016,6 +4021,12 @@
   </url>
   
   <url>
+    <loc>/tags/nature-reserve/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/new-records-and-recent-extirpations/</loc>
     <lastmod>2001-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4042,12 +4053,6 @@
   </url>
   
   <url>
-    <loc>/tags/biodiversity-conservation/</loc>
-    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/gold-mining/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4070,66 +4075,18 @@
   </url>
   
   <url>
-    <loc>/tags/community-structure/</loc>
-    <lastmod>1999-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/feeding-guilds/</loc>
-    <lastmod>1999-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/first-faunal-account/</loc>
-    <lastmod>1999-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/foraging/</loc>
-    <lastmod>1999-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/journal_ornithological_observations_reserva_natural_tambito/</loc>
     <lastmod>1999-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/tambito-nature-reserve/</loc>
+    <loc>/tags/tambito/</loc>
     <lastmod>1999-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/nature-reserve/</loc>
-    <lastmod>1999-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/checklists/</loc>
-    <lastmod>1999-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/distribution-and-checklist/</loc>
-    <lastmod>1999-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/jimmy-a.-guerrero/</loc>
-    <lastmod>1999-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/natural-reserve-tambito/</loc>
     <lastmod>1999-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4253,6 +4210,35 @@
   <url>
     <loc>/authors/thomas-m.-donegan/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/thesis_marcadores_moleculares/</loc>
+    <lastmod>1997-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rflp/</loc>
+    <lastmod>1997-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hoja-blanca/</loc>
+    <lastmod>1997-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rice/</loc>
+    <lastmod>1997-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/virus-resistance/</loc>
+    <lastmod>1997-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
