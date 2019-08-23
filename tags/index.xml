@@ -7,10 +7,73 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019</copyright>
-    <lastBuildDate>Sun, 21 Jul 2019 15:58:31 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Birth-death models</title>
+      <link>/tags/birth-death-models/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/birth-death-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary genetics</title>
+      <link>/tags/evolutionary-genetics/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/evolutionary-genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laurasiatheria</title>
+      <link>/tags/laurasiatheria/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/laurasiatheria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chemosensation</title>
+      <link>/tags/chemosensation/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/chemosensation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gene family evolution</title>
+      <link>/tags/gene-family-evolution/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gene-family-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pseudogene</title>
+      <link>/tags/pseudogene/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pseudogene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transcriptomics</title>
+      <link>/tags/transcriptomics/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/transcriptomics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AlumniHS</title>
@@ -103,24 +166,6 @@
     </item>
     
     <item>
-      <title>transcriptomics</title>
-      <link>/tags/transcriptomics/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/transcriptomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolutionary genetics</title>
-      <link>/tags/evolutionary-genetics/</link>
-      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/evolutionary-genetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>adaptation</title>
       <link>/tags/adaptation/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
@@ -162,24 +207,6 @@
       <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/bait-capture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chemosensation</title>
-      <link>/tags/chemosensation/</link>
-      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/chemosensation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gene family evolution</title>
-      <link>/tags/gene-family-evolution/</link>
-      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/gene-family-evolution/</guid>
       <description></description>
     </item>
     
@@ -292,15 +319,6 @@
     </item>
     
     <item>
-      <title>pseudogene</title>
-      <link>/tags/pseudogene/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pseudogene/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>relaxed selection</title>
       <link>/tags/relaxed-selection/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
@@ -369,15 +387,6 @@
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/hummingbirds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Birth-death models</title>
-      <link>/tags/birth-death-models/</link>
-      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/birth-death-models/</guid>
       <description></description>
     </item>
     
@@ -675,15 +684,6 @@
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/vomeronasal-organ/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laurasiatheria</title>
-      <link>/tags/laurasiatheria/</link>
-      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/laurasiatheria/</guid>
       <description></description>
     </item>
     

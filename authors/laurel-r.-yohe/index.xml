@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019</copyright>
-    <lastBuildDate>Sat, 13 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/laurel-r.-yohe/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Expressed vomeronasal type-1 receptors (V1rs) in bats uncover conserved sequences underlying social chemical signaling</title>
+      <link>/publication/journal_expressed_vomeronasal_type-1_receptors/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_expressed_vomeronasal_type-1_receptors/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Targeted sequence capture outperforms RNA-Seq and degenerate-primer PCR cloning for sequencing the largest mammalian multi-gene family</title>
@@ -45,15 +54,6 @@
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/journal_vomeronasal_and_olfactory_structures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Expressed vomeronasal type-1 receptors (V1rs) in bats uncover conserved mechanisms of social chemical signaling</title>
-      <link>/publication/preprint_expressed_vomeronasal_type-1_receptors/</link>
-      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/preprint_expressed_vomeronasal_type-1_receptors/</guid>
       <description></description>
     </item>
     

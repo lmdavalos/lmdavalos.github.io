@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019</copyright>
-    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Expressed vomeronasal type-1 receptors (V1rs) in bats uncover conserved sequences underlying social chemical signaling</title>
+      <link>/publication/journal_expressed_vomeronasal_type-1_receptors/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_expressed_vomeronasal_type-1_receptors/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Morphological Diversification under High Integration in a Hyper Diverse Mammal Clade</title>
@@ -180,15 +189,6 @@ rm Untitled.md
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/journal_opposition_support/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Expressed vomeronasal type-1 receptors (V1rs) in bats uncover conserved mechanisms of social chemical signaling</title>
-      <link>/publication/preprint_expressed_vomeronasal_type-1_receptors/</link>
-      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/preprint_expressed_vomeronasal_type-1_receptors/</guid>
       <description></description>
     </item>
     
@@ -1063,7 +1063,7 @@ rm Untitled.md
     </item>
     
     <item>
-      <title>Marcadores moleculares asociados a resistencia al virus de la hoja blanca de arroz (*Oryza sativa* L.)</title>
+      <title>Marcadores moleculares asociados a resistencia al virus de la hoja blanca de arroz (Oryza sativa L.)</title>
       <link>/publication/thesis_marcadores_moleculares/</link>
       <pubDate>Tue, 01 Jul 1997 00:00:00 +0000</pubDate>
       
@@ -1074,7 +1074,7 @@ rm Untitled.md
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Liliana M. Dávalos is Professor of conservation biology at Stony Brook University&amp;rsquo;s Department of Ecology and Evolution. Her research interests include molecular evolution, phylogenetics and tropical biology. She leads the Tropical Biology group, which studies extinction and survival in deep time, functional genetics in non-model mammals, and deforestation.&lt;/p&gt;
