@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019</copyright>
-    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/</link>
-      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/</guid>
       <description></description>
@@ -24,11 +24,20 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Liliana M. Dávalos is Professor of conservation biology at Stony Brook University&amp;rsquo;s Department of Ecology and Evolution. Her research interests include molecular evolution, phylogenetics and tropical biology. She leads the Tropical Biology group, which studies extinction and survival in deep time, functional genetics in non-model mammals, and deforestation.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Eleonora Dávalos</title>
+      <link>/authors/eleonora-d%C3%A1valos/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/eleonora-d%C3%A1valos/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -334,15 +343,6 @@
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/abby-vander-linden/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eleonora Dávalos</title>
-      <link>/authors/eleonora-d%C3%A1valos/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/eleonora-d%C3%A1valos/</guid>
       <description></description>
     </item>
     

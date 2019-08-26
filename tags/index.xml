@@ -7,10 +7,55 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019</copyright>
-    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Andes</title>
+      <link>/tags/andes/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/andes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colombia</title>
+      <link>/tags/colombia/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/colombia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coca</title>
+      <link>/tags/coca/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/coca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>credit</title>
+      <link>/tags/credit/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/credit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electrification</title>
+      <link>/tags/electrification/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/electrification/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Birth-death models</title>
@@ -216,15 +261,6 @@
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/tropical-biology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Colombia</title>
-      <link>/tags/colombia/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/colombia/</guid>
       <description></description>
     </item>
     
@@ -1035,15 +1071,6 @@
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/amazon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Andes</title>
-      <link>/tags/andes/</link>
-      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/andes/</guid>
       <description></description>
     </item>
     
@@ -2025,15 +2052,6 @@
       <pubDate>Sat, 10 Oct 2009 00:00:00 +0000</pubDate>
       
       <guid>/tags/social-crisis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>coca</title>
-      <link>/tags/coca/</link>
-      <pubDate>Sat, 10 Oct 2009 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/coca/</guid>
       <description></description>
     </item>
     
