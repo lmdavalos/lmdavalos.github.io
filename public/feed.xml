@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:00AD25D0-1F00-4141-97A6-C78A76B78BB5</id>
+ <title>Page list Atom feed</title>
+ <updated>2019-08-31T17:01:52-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:52FA4D0C-5BB0-4F02-AED4-919FC36E28B8</id>
+  <title>TravelPages</title>
+  <title xmlns="urn:iweb:">TravelPages</title>
+  <in-navbar xmlns="urn:iweb:">52FA4D0C-5BB0-4F02-AED4-919FC36E28B8</in-navbar>
+  <link rel="alternate" href="TravelPages/TravelPages.html"/>
+  <updated>2019-08-31T17:01:52.001-04:00</updated>
+  <content>TravelPages</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1129DF80-9D54-437B-BA32-24D7D1A993FE</id>
+  <title>LMD</title>
+  <title xmlns="urn:iweb:">LMD</title>
+  <in-navbar xmlns="urn:iweb:">1129DF80-9D54-437B-BA32-24D7D1A993FE</in-navbar>
+  <link rel="alternate" href="LMD.html"/>
+  <updated>2019-08-31T17:01:52.002-04:00</updated>
+  <content>LMD</content>
+ </entry>
+</feed>
