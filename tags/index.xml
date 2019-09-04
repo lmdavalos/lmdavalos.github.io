@@ -103,6 +103,15 @@
     </item>
     
     <item>
+      <title>pheromone</title>
+      <link>/tags/pheromone/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pheromone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>pseudogene</title>
       <link>/tags/pseudogene/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
@@ -117,6 +126,15 @@
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/transcriptomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vomeronasal system</title>
+      <link>/tags/vomeronasal-system/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vomeronasal-system/</guid>
       <description></description>
     </item>
     
@@ -769,15 +787,6 @@
     </item>
     
     <item>
-      <title>vomeronasal system</title>
-      <link>/tags/vomeronasal-system/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/vomeronasal-system/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>FARC</title>
       <link>/tags/farc/</link>
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
@@ -1098,15 +1107,6 @@
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/spatial-autocorrelation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pheromone</title>
-      <link>/tags/pheromone/</link>
-      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pheromone/</guid>
       <description></description>
     </item>
     

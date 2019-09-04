@@ -143,6 +143,12 @@
   </url>
   
   <url>
+    <loc>/tags/pheromone/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/pseudogene/</loc>
     <lastmod>2019-08-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -150,6 +156,12 @@
   
   <url>
     <loc>/tags/transcriptomics/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vomeronasal-system/</loc>
     <lastmod>2019-08-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1226,12 +1238,6 @@
   </url>
   
   <url>
-    <loc>/tags/vomeronasal-system/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/agustin-palao-mendizabal/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1863,12 +1869,6 @@
   <url>
     <loc>/publication/thesis_molecular_evolution_of_bat/</loc>
     <lastmod>2017-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/pheromone/</loc>
-    <lastmod>2017-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
