@@ -85,6 +85,15 @@
     </item>
     
     <item>
+      <title>Transcriptomics</title>
+      <link>/tags/transcriptomics/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/transcriptomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>chemosensation</title>
       <link>/tags/chemosensation/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
@@ -117,15 +126,6 @@
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/pseudogene/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>transcriptomics</title>
-      <link>/tags/transcriptomics/</link>
-      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/transcriptomics/</guid>
       <description></description>
     </item>
     
@@ -283,6 +283,15 @@
     </item>
     
     <item>
+      <title>Biodiversity</title>
+      <link>/tags/biodiversity/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/biodiversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fires</title>
       <link>/tags/fires/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -297,15 +306,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/peace-agreement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>biodiversity</title>
-      <link>/tags/biodiversity/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/biodiversity/</guid>
       <description></description>
     </item>
     
@@ -445,15 +445,6 @@
     </item>
     
     <item>
-      <title>Gene duplication</title>
-      <link>/tags/gene-duplication/</link>
-      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/gene-duplication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gene tree</title>
       <link>/tags/gene-tree/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
@@ -468,6 +459,15 @@
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/molecular-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gene duplication</title>
+      <link>/tags/gene-duplication/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gene-duplication/</guid>
       <description></description>
     </item>
     
@@ -661,7 +661,7 @@
     </item>
     
     <item>
-      <title>bats</title>
+      <title>Bats</title>
       <link>/tags/bats/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
@@ -1912,6 +1912,15 @@
     </item>
     
     <item>
+      <title>Maximum likelihood models</title>
+      <link>/tags/maximum-likelihood-models/</link>
+      <pubDate>Wed, 16 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/maximum-likelihood-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>angiosperm</title>
       <link>/tags/angiosperm/</link>
       <pubDate>Wed, 16 Nov 2011 00:00:00 +0000</pubDate>
@@ -1926,15 +1935,6 @@
       <pubDate>Wed, 16 Nov 2011 00:00:00 +0000</pubDate>
       
       <guid>/tags/complex-leaves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>maximum likelihood models</title>
-      <link>/tags/maximum-likelihood-models/</link>
-      <pubDate>Wed, 16 Nov 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/maximum-likelihood-models/</guid>
       <description></description>
     </item>
     
