@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liang Liu on Dávalos Lab</title>
+    <link>/authors/liang-liu/</link>
+    <description>Recent content in Liang Liu on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019</copyright>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/liang-liu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Protocols for the Molecular Evolutionary Analysis of Membrane Protein Gene Duplicates</title>
+      <link>/publication/book_section_protocols_molecular_evolutionary_analysis/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/book_section_protocols_molecular_evolutionary_analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
