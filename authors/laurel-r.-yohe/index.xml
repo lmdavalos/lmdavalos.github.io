@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019</copyright>
-    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/laurel-r.-yohe/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Evaluating the performance of targeted sequence capture, RNA-Seq, and degenerate-primer PCR cloning for sequencing the largest mammalian multigene family</title>
+      <link>/publication/journal_targeted_sequence_capture_outperforms/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_targeted_sequence_capture_outperforms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Expressed vomeronasal type-1 receptors (V1rs) in bats uncover conserved sequences underlying social chemical signaling</title>
