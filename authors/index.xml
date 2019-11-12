@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019</copyright>
-    <lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/</guid>
       <description></description>
@@ -24,11 +24,398 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Liliana M. Dávalos is Professor of Conservation Biology at Stony Brook University&amp;rsquo;s Department of Ecology and Evolution. Her research interests include molecular evolution, phylogenetics and tropical biology. She leads the Tropical Biology group, which studies extinction and survival in deep time, functional genetics in non-model mammals, and deforestation.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Andrea G. Locatelli</title>
+      <link>/authors/andrea-g.-locatelli/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/andrea-g.-locatelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angelique P. Corthals</title>
+      <link>/authors/angelique-p.-corthals/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/angelique-p.-corthals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aris Katzourakis</title>
+      <link>/authors/aris-katzourakis/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/aris-katzourakis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bogdan M. Kirilenko</title>
+      <link>/authors/bogdan-m.-kirilenko/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bogdan-m.-kirilenko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David A. Ray</title>
+      <link>/authors/david-a.-ray/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/david-a.-ray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Jebb</title>
+      <link>/authors/david-jebb/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/david-jebb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dina Dechmann</title>
+      <link>/authors/dina-dechmann/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/dina-dechmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emilia C. Skirmuntt</title>
+      <link>/authors/emilia-c.-skirmuntt/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/emilia-c.-skirmuntt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emma C. Teeling</title>
+      <link>/authors/emma-c.-teeling/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/emma-c.-teeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erich D. Jarvis</title>
+      <link>/authors/erich-d.-jarvis/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/erich-d.-jarvis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eugene W. Myers</title>
+      <link>/authors/eugene-w.-myers/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/eugene-w.-myers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gareth Jones</title>
+      <link>/authors/gareth-jones/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/gareth-jones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graham M. Hughes</title>
+      <link>/authors/graham-m.-hughes/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/graham-m.-hughes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juliana G. Roscito</title>
+      <link>/authors/juliana-g.-roscito/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/juliana-g.-roscito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin A. M. Sullivan</title>
+      <link>/authors/kevin-a.-m.-sullivan/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/kevin-a.-m.-sullivan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ksenia Lavrichenko</title>
+      <link>/authors/ksenia-lavrichenko/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ksenia-lavrichenko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lars S. Jermiin</title>
+      <link>/authors/lars-s.-jermiin/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lars-s.-jermiin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucy Burkitt-Gray</title>
+      <link>/authors/lucy-burkitt-gray/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lucy-burkitt-gray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark S. Springer</title>
+      <link>/authors/mark-s.-springer/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mark-s.-springer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Pippel</title>
+      <link>/authors/martin-pippel/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/martin-pippel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Megan L. Power</title>
+      <link>/authors/megan-l.-power/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/megan-l.-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Hiller</title>
+      <link>/authors/michael-hiller/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/michael-hiller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olivier Fedrigo</title>
+      <link>/authors/olivier-fedrigo/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/olivier-fedrigo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paolo Devanna</title>
+      <link>/authors/paolo-devanna/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/paolo-devanna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roger D. Ransome</title>
+      <link>/authors/roger-d.-ransome/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/roger-d.-ransome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastien J. Puechmaille</title>
+      <link>/authors/sebastien-j.-puechmaille/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sebastien-j.-puechmaille/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonja C. Vernes</title>
+      <link>/authors/sonja-c.-vernes/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sonja-c.-vernes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sylke Winkler</title>
+      <link>/authors/sylke-winkler/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sylke-winkler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zixia Huang</title>
+      <link>/authors/zixia-huang/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zixia-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dolors Armenteras</title>
+      <link>/authors/dolors-armenteras/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/dolors-armenteras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaime García</title>
+      <link>/authors/jaime-garc%C3%ADa/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jaime-garc%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luis F. Melgarejo</title>
+      <link>/authors/luis-f.-melgarejo/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/luis-f.-melgarejo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>María C. Londoño</title>
+      <link>/authors/mar%C3%ADa-c.-londo%C3%B1o/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mar%C3%ADa-c.-londo%C3%B1o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthias Baumann</title>
+      <link>/authors/matthias-baumann/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/matthias-baumann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pablo Negret</title>
+      <link>/authors/pablo-negret/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/pablo-negret/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tobia M. Lakes</title>
+      <link>/authors/tobia-m.-lakes/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/tobia-m.-lakes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tobias Krueger</title>
+      <link>/authors/tobias-krueger/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/tobias-krueger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emma C Teeling</title>
+      <link>/authors/emma-c-teeling/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/emma-c-teeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joshua HT Potter</title>
+      <link>/authors/joshua-ht-potter/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/joshua-ht-potter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kalina TJ Davies</title>
+      <link>/authors/kalina-tj-davies/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/kalina-tj-davies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laurel R Yohe</title>
+      <link>/authors/laurel-r-yohe/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/laurel-r-yohe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonja C Vernes</title>
+      <link>/authors/sonja-c-vernes/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sonja-c-vernes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen J Rossiter</title>
+      <link>/authors/stephen-j-rossiter/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/stephen-j-rossiter/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -163,15 +550,6 @@
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/marisa-c.-w.-lim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dolors Armenteras</title>
-      <link>/authors/dolors-armenteras/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/dolors-armenteras/</guid>
       <description></description>
     </item>
     
@@ -446,24 +824,6 @@
     </item>
     
     <item>
-      <title>David A. Ray</title>
-      <link>/authors/david-a.-ray/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/david-a.-ray/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emma C. Teeling</title>
-      <link>/authors/emma-c.-teeling/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/emma-c.-teeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Eugene Myers</title>
       <link>/authors/eugene-myers/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
@@ -478,15 +838,6 @@
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/m.-thomas-p.-gilbert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sonja C. Vernes</title>
-      <link>/authors/sonja-c.-vernes/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/sonja-c.-vernes/</guid>
       <description></description>
     </item>
     
@@ -1261,15 +1612,6 @@
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>/authors/amy-russell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Angelique P. Corthals</title>
-      <link>/authors/angelique-p.-corthals/</link>
-      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/angelique-p.-corthals/</guid>
       <description></description>
     </item>
     

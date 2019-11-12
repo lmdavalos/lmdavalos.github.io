@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019</copyright>
-    <lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Six new reference-quality bat genomes illuminate the molecular basis and evolution of bat adaptations</title>
+      <link>/publication/preprint_six_new_reference-quality_bat_genomes-/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/preprint_six_new_reference-quality_bat_genomes-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curb land grabbing to save the Amazon</title>
+      <link>/publication/misc_curb_land_grabbing_to_save_the_amazon/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/misc_curb_land_grabbing_to_save_the_amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tissue Collection of Bats for-Omics Analyses and Primary Cell Culture</title>
+      <link>/publication/journal_tissue_collection_of_bats_for-mics/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_tissue_collection_of_bats_for-mics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evaluating the performance of targeted sequence capture, RNA-Seq, and degenerate-primer PCR cloning for sequencing the largest mammalian multigene family</title>
@@ -747,15 +774,6 @@ gantt
     </item>
     
     <item>
-      <title>Targeted sequence capture outperforms RNA-Seq and degenerate-primer PCR cloning for sequencing the largest mammalian multi-gene family</title>
-      <link>/publication/preprint_targeted_sequence_capture_outperforms_rna-seq/</link>
-      <pubDate>Sat, 13 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/preprint_targeted_sequence_capture_outperforms_rna-seq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -1255,10 +1273,10 @@ Links&lt;/p&gt;
     
     <item>
       <title>Anthropogenic Extinction Dominates Holocene Declines of West Indian Mammals</title>
-      <link>/publication/journal_anthropogenic_extinction_dominates/</link>
+      <link>/publication/misc_anthropogenic_extinction_dominates/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/journal_anthropogenic_extinction_dominates/</guid>
+      <guid>/publication/misc_anthropogenic_extinction_dominates/</guid>
       <description></description>
     </item>
     

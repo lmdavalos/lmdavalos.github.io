@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019</copyright>
-    <lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,117 @@
     <item>
       <title>Evolutionary genetics</title>
       <link>/tags/evolutionary-genetics/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/evolutionary-genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adaptation</title>
+      <link>/tags/adaptation/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gene family evolution</title>
+      <link>/tags/gene-family-evolution/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gene-family-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genomics</title>
+      <link>/tags/genomics/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amazon</title>
+      <link>/tags/amazon/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amazon-Andes</title>
+      <link>/tags/amazon-andes/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/amazon-andes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cattle</title>
+      <link>/tags/cattle/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cattle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deforestation</title>
+      <link>/tags/deforestation/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deforestation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inequality</title>
+      <link>/tags/inequality/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/inequality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>land grabbing</title>
+      <link>/tags/land-grabbing/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/land-grabbing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomics</title>
+      <link>/tags/transcriptomics/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/transcriptomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cell culture</title>
+      <link>/tags/cell-culture/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cell-culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proteomics</title>
+      <link>/tags/proteomics/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/proteomics/</guid>
       <description></description>
     </item>
     
@@ -36,24 +144,6 @@
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/chemosensation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gene family evolution</title>
-      <link>/tags/gene-family-evolution/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/gene-family-evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>genomics</title>
-      <link>/tags/genomics/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/genomics/</guid>
       <description></description>
     </item>
     
@@ -117,15 +207,6 @@
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/laurasiatheria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transcriptomics</title>
-      <link>/tags/transcriptomics/</link>
-      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/transcriptomics/</guid>
       <description></description>
     </item>
     
@@ -238,15 +319,6 @@
     </item>
     
     <item>
-      <title>adaptation</title>
-      <link>/tags/adaptation/</link>
-      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/adaptation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>convergence</title>
       <link>/tags/convergence/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
@@ -292,15 +364,6 @@
     </item>
     
     <item>
-      <title>Conservation</title>
-      <link>/tags/conservation/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/conservation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fires</title>
       <link>/tags/fires/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -319,11 +382,11 @@
     </item>
     
     <item>
-      <title>deforestation</title>
-      <link>/tags/deforestation/</link>
+      <title>conservation</title>
+      <link>/tags/conservation/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/deforestation/</guid>
+      <guid>/tags/conservation/</guid>
       <description></description>
     </item>
     
@@ -621,15 +684,6 @@
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/illicit-crops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Amazon-Andes</title>
-      <link>/tags/amazon-andes/</link>
-      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/amazon-andes/</guid>
       <description></description>
     </item>
     
@@ -1071,15 +1125,6 @@
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/megafauna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Amazon</title>
-      <link>/tags/amazon/</link>
-      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/amazon/</guid>
       <description></description>
     </item>
     
@@ -1881,15 +1926,6 @@
       <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>/tags/ancient-proteins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>proteomics</title>
-      <link>/tags/proteomics/</link>
-      <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/proteomics/</guid>
       <description></description>
     </item>
     
