@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mole-rats on Dávalos Lab</title>
+    <link>/tags/mole-rats/</link>
+    <description>Recent content in mole-rats on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019</copyright>
+    <lastBuildDate>Fri, 10 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/mole-rats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Molecular evolution of growth hormone and insulin-like growth factor 1 receptors in long-lived, small-bodied mammals</title>
+      <link>/publication/journal_molecular_evolution_of_growth_hormone/</link>
+      <pubDate>Fri, 10 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_molecular_evolution_of_growth_hormone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

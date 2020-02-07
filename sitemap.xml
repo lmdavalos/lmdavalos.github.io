@@ -84,6 +84,12 @@
   </url>
   
   <url>
+    <loc>/tags/hummingbirds/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/phylogenetic-regression/</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -464,12 +470,6 @@
   </url>
   
   <url>
-    <loc>/tags/transcriptomics/</loc>
-    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/cell-culture/</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -477,6 +477,12 @@
   
   <url>
     <loc>/tags/proteomics/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/transcriptomics/</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1075,12 +1081,6 @@
   </url>
   
   <url>
-    <loc>/tags/conservation/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/fires/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1099,6 +1099,12 @@
   
   <url>
     <loc>/tags/peace-agreement/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/conservation/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1205,12 +1211,6 @@
   
   <url>
     <loc>/tags/diversification/</loc>
-    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/hummingbirds/</loc>
     <lastmod>2018-11-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4215,6 +4215,12 @@
   </url>
   
   <url>
+    <loc>/tags/genetic-resources/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/gleb-raygorodetsky/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4269,12 +4275,6 @@
   
   <url>
     <loc>/authors/tonya-barnes/</loc>
-    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/genetic-resources/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

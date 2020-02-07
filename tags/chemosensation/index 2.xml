@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chemosensation on Dávalos Lab</title>
+    <link>/tags/chemosensation/</link>
+    <description>Recent content in chemosensation on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019</copyright>
+    <lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/chemosensation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evaluating the performance of targeted sequence capture, RNA-Seq, and degenerate-primer PCR cloning for sequencing the largest mammalian multigene family</title>
+      <link>/publication/journal_targeted_sequence_capture_outperforms/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_targeted_sequence_capture_outperforms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expressed vomeronasal type-1 receptors (V1rs) in bats uncover conserved sequences underlying social chemical signaling</title>
+      <link>/publication/journal_expressed_vomeronasal_type-1_receptors/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_expressed_vomeronasal_type-1_receptors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vomeronasal and olfactory structures in bats revealed by diceCT clarify genetic evidence of function</title>
+      <link>/publication/journal_vomeronasal_and_olfactory_structures/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_vomeronasal_and_olfactory_structures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Molecular Evolution of Bat Chemosensory Pathways Reveals Sensory Innovation and Loss</title>
+      <link>/publication/thesis_molecular_evolution_of_bat/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/thesis_molecular_evolution_of_bat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trpc2 pseudogenization dynamics in bats reveal ancestral vomeronasal signaling, then pervasive loss</title>
+      <link>/publication/journal_trpc2_pseudogenization_dynamics/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_trpc2_pseudogenization_dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cluster of Olfactory Receptor Genes Linked to Frugivory in Bats</title>
+      <link>/publication/journal_a_cluster_of_olfactory_receptor_genes/</link>
+      <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_a_cluster_of_olfactory_receptor_genes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

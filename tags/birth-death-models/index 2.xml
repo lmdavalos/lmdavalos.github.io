@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Birth-death models on Dávalos Lab</title>
+    <link>/tags/birth-death-models/</link>
+    <description>Recent content in Birth-death models on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019</copyright>
+    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/birth-death-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Expressed vomeronasal type-1 receptors (V1rs) in bats uncover conserved sequences underlying social chemical signaling</title>
+      <link>/publication/journal_expressed_vomeronasal_type-1_receptors/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_expressed_vomeronasal_type-1_receptors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocols for the Molecular Evolutionary Analysis of Membrane Protein Gene Duplicates</title>
+      <link>/publication/book_section_protocols_molecular_evolutionary_analysis/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/book_section_protocols_molecular_evolutionary_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amino acid transporter expansions associated with the evolution of obligate endosymbiosis in sap-feeding insects (Hemiptera: Sternorrhyncha)</title>
+      <link>/publication/journal_amino_acid_transporters_expansion/</link>
+      <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_amino_acid_transporters_expansion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

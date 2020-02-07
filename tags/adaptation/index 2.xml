@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adaptation on Dávalos Lab</title>
+    <link>/tags/adaptation/</link>
+    <description>Recent content in adaptation on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019</copyright>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/adaptation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Six new reference-quality bat genomes illuminate the molecular basis and evolution of bat adaptations</title>
+      <link>/publication/preprint_six_new_reference-quality_bat_genomes-/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/preprint_six_new_reference-quality_bat_genomes-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tissue Collection of Bats for-Omics Analyses and Primary Cell Culture</title>
+      <link>/publication/journal_tissue_collection_of_bats_for-mics/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_tissue_collection_of_bats_for-mics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel molecular evolution in pathways, genes, and sites in high-elevation hummingbirds revealed by comparative transcriptomics</title>
+      <link>/publication/journal_parallel_molecular_evolution/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_parallel_molecular_evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular evolution of growth hormone and insulin-like growth factor 1 receptors in long-lived, small-bodied mammals</title>
+      <link>/publication/journal_molecular_evolution_of_growth_hormone/</link>
+      <pubDate>Fri, 10 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_molecular_evolution_of_growth_hormone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

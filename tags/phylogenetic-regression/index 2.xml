@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phylogenetic regression on Dávalos Lab</title>
+    <link>/tags/phylogenetic-regression/</link>
+    <description>Recent content in phylogenetic regression on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019</copyright>
+    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/phylogenetic-regression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multifactorial processes underlie parallel opsin loss in neotropical bats</title>
+      <link>/publication/journal_multifactorial_processes_underlie/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_multifactorial_processes_underlie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strength of selection on the Trpc2 gene predicts accessory olfactory bulb form in bat vomeronasal evolution</title>
+      <link>/publication/journal_genetic_function_of_trpc2/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_genetic_function_of_trpc2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eating down the food chain: generalism is not an evolutionary dead end for herbivores</title>
+      <link>/publication/journal_eating_down_the_food_chain/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_eating_down_the_food_chain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian hierarchical models suggest oldest known plant-visiting bat was omnivorous</title>
+      <link>/publication/journal_bayesian_hierarchical_models_suggest/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_bayesian_hierarchical_models_suggest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological innovation, diversification and invasion of a new adaptive zone</title>
+      <link>/publication/journal_morphological_innovation_diversification/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_morphological_innovation_diversification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
