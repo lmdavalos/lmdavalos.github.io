@@ -6,34 +6,61 @@
     <description>Recent content in Tags on Dávalos Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; L. Dávalos 2019</copyright>
-    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
+    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Evolutionary genetics</title>
-      <link>/tags/evolutionary-genetics/</link>
-      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/evolutionary-genetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>adaptation</title>
       <link>/tags/adaptation/</link>
-      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/adaptation/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>allometry</title>
+      <link>/tags/allometry/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/allometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylogenetic regression</title>
+      <link>/tags/phylogenetic-regression/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/phylogenetic-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary genetics</title>
+      <link>/tags/evolutionary-genetics/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/evolutionary-genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phyllostomidae</title>
+      <link>/tags/phyllostomidae/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/phyllostomidae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>gene family evolution</title>
       <link>/tags/gene-family-evolution/</link>
-      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/gene-family-evolution/</guid>
       <description></description>
@@ -42,9 +69,27 @@
     <item>
       <title>genomics</title>
       <link>/tags/genomics/</link>
-      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>olfaction</title>
+      <link>/tags/olfaction/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/olfaction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>olfactory receptors</title>
+      <link>/tags/olfactory-receptors/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/olfactory-receptors/</guid>
       <description></description>
     </item>
     
@@ -301,15 +346,6 @@
     </item>
     
     <item>
-      <title>Phyllostomidae</title>
-      <link>/tags/phyllostomidae/</link>
-      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/phyllostomidae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>current</title>
       <link>/tags/current/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -364,6 +400,15 @@
     </item>
     
     <item>
+      <title>Conservation</title>
+      <link>/tags/conservation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/conservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fires</title>
       <link>/tags/fires/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -378,15 +423,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/peace-agreement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>conservation</title>
-      <link>/tags/conservation/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/conservation/</guid>
       <description></description>
     </item>
     
@@ -423,15 +459,6 @@
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/opsins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>phylogenetic regression</title>
-      <link>/tags/phylogenetic-regression/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/phylogenetic-regression/</guid>
       <description></description>
     </item>
     
@@ -1741,15 +1768,6 @@
     </item>
     
     <item>
-      <title>olfaction</title>
-      <link>/tags/olfaction/</link>
-      <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/olfaction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>phylogenetic ANOVA</title>
       <link>/tags/phylogenetic-anova/</link>
       <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
@@ -2650,15 +2668,6 @@
     </item>
     
     <item>
-      <title>Genetic resources</title>
-      <link>/tags/genetic-resources/</link>
-      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/genetic-resources/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>International environmental law</title>
       <link>/tags/international-environmental-law/</link>
       <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
@@ -2682,6 +2691,15 @@
       <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
       
       <guid>/tags/philippines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genetic resources</title>
+      <link>/tags/genetic-resources/</link>
+      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genetic-resources/</guid>
       <description></description>
     </item>
     

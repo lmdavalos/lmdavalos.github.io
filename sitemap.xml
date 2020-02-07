@@ -4,18 +4,153 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/anusha-shankar/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/catherine-h-graham/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/donald-r-powers/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_allometry_of_daily_energy_expenditure/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/adaptation/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/allometry/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/phylogenetic-regression/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/3/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/evolutionary-genetics/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/laurel-r-yohe/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/m-elise-lauterbur/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/phyllostomidae/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sarah-heder/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/preprint_species_tree_disequilibrium/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gene-family-evolution/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/genomics/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/olfaction/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/olfactory-receptors/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -33,12 +168,6 @@
   
   <url>
     <loc>/authors/aris-katzourakis/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2019-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -68,12 +197,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/emilia-c.-skirmuntt/</loc>
     <lastmod>2019-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -93,12 +216,6 @@
   
   <url>
     <loc>/authors/eugene-w.-myers/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/evolutionary-genetics/</loc>
     <lastmod>2019-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -182,17 +299,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/roger-d.-ransome/</loc>
     <lastmod>2019-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -222,31 +328,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/zixia-huang/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/adaptation/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/gene-family-evolution/</loc>
-    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/genomics/</loc>
     <lastmod>2019-11-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -347,12 +429,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/emma-c-teeling/</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -366,12 +442,6 @@
   
   <url>
     <loc>/authors/kalina-tj-davies/</loc>
-    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/laurel-r-yohe/</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -609,6 +679,11 @@
   </url>
   
   <url>
+    <loc>/people/tucker_clara/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/people/cheng_courtney/</loc>
     <lastmod>2019-07-21T15:58:31-04:00</lastmod>
   </url>
@@ -745,6 +820,11 @@
   
   <url>
     <loc>/people/wei_nancy/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/sipperly_nicolette/</loc>
     <lastmod>2019-07-21T15:58:31-04:00</lastmod>
   </url>
   
@@ -889,12 +969,6 @@
   </url>
   
   <url>
-    <loc>/tags/phyllostomidae/</loc>
-    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
@@ -1001,6 +1075,12 @@
   </url>
   
   <url>
+    <loc>/tags/conservation/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/fires/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1019,12 +1099,6 @@
   
   <url>
     <loc>/tags/peace-agreement/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/conservation/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1072,12 +1146,6 @@
   
   <url>
     <loc>/tags/opsins/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/phylogenetic-regression/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3018,12 +3086,6 @@
   </url>
   
   <url>
-    <loc>/tags/olfaction/</loc>
-    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/phylogenetic-anova/</loc>
     <lastmod>2014-01-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4153,12 +4215,6 @@
   </url>
   
   <url>
-    <loc>/tags/genetic-resources/</loc>
-    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/gleb-raygorodetsky/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4213,6 +4269,12 @@
   
   <url>
     <loc>/authors/tonya-barnes/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/genetic-resources/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
