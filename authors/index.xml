@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
-    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/</guid>
       <description></description>
@@ -24,11 +24,83 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Liliana M. Dávalos is Professor of Conservation Biology at Stony Brook University&amp;rsquo;s Department of Ecology and Evolution. Her research interests include molecular evolution, phylogenetics and tropical biology. She leads the Tropical Biology group, which studies extinction and survival in deep time, functional genetics in non-model mammals, and deforestation.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Edgardo M. Rengifo</title>
+      <link>/authors/edgardo-m.-rengifo/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/edgardo-m.-rengifo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elizabeth R. Dumont</title>
+      <link>/authors/elizabeth-r.-dumont/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/elizabeth-r.-dumont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jesus Almonte</title>
+      <link>/authors/jesus-almonte/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jesus-almonte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kalina T.J. Davies</title>
+      <link>/authors/kalina-t.j.-davies/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/kalina-t.j.-davies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karen E. Sears</title>
+      <link>/authors/karen-e.-sears/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/karen-e.-sears/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laurel R. Yohe</title>
+      <link>/authors/laurel-r.-yohe/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/laurel-r.-yohe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miluska K.R. Sánchez</title>
+      <link>/authors/miluska-k.r.-s%C3%A1nchez/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/miluska-k.r.-s%C3%A1nchez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen J. Rossiter</title>
+      <link>/authors/stephen-j.-rossiter/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/stephen-j.-rossiter/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -464,15 +536,6 @@
     </item>
     
     <item>
-      <title>Elizabeth R. Dumont</title>
-      <link>/authors/elizabeth-r.-dumont/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/elizabeth-r.-dumont/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kalina T. J. Davies</title>
       <link>/authors/kalina-t.-j.-davies/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
@@ -482,38 +545,11 @@
     </item>
     
     <item>
-      <title>Karen E. Sears</title>
-      <link>/authors/karen-e.-sears/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/karen-e.-sears/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laurel R. Yohe</title>
-      <link>/authors/laurel-r.-yohe/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/laurel-r.-yohe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Nancy B. Simmons</title>
       <link>/authors/nancy-b.-simmons/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/nancy-b.-simmons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stephen J. Rossiter</title>
-      <link>/authors/stephen-j.-rossiter/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/stephen-j.-rossiter/</guid>
       <description></description>
     </item>
     
@@ -604,15 +640,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/laura-schneider/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kalina T.J. Davies</title>
-      <link>/authors/kalina-t.j.-davies/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/kalina-t.j.-davies/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,100 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
-    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>current</title>
+      <link>/tags/current/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/current/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genomics</title>
+      <link>/tags/genomics/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tropical biology</title>
+      <link>/tags/tropical-biology/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tropical-biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary genetics</title>
+      <link>/tags/evolutionary-genetics/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/evolutionary-genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diversification</title>
+      <link>/tags/diversification/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/diversification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frugivory</title>
+      <link>/tags/frugivory/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/frugivory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>niche specialization</title>
+      <link>/tags/niche-specialization/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/niche-specialization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>positive selection</title>
+      <link>/tags/positive-selection/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/positive-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>preadaptation</title>
+      <link>/tags/preadaptation/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/preadaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transcription</title>
+      <link>/tags/transcription/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/transcription/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>adaptation</title>
@@ -49,15 +139,6 @@
     </item>
     
     <item>
-      <title>Evolutionary genetics</title>
-      <link>/tags/evolutionary-genetics/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/evolutionary-genetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Phyllostomidae</title>
       <link>/tags/phyllostomidae/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
@@ -72,15 +153,6 @@
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/gene-family-evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>genomics</title>
-      <link>/tags/genomics/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/genomics/</guid>
       <description></description>
     </item>
     
@@ -355,15 +427,6 @@
     </item>
     
     <item>
-      <title>current</title>
-      <link>/tags/current/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/current/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>convergence</title>
       <link>/tags/convergence/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
@@ -391,11 +454,11 @@
     </item>
     
     <item>
-      <title>tropical biology</title>
-      <link>/tags/tropical-biology/</link>
+      <title>expired</title>
+      <link>/tags/expired/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tropical-biology/</guid>
+      <guid>/tags/expired/</guid>
       <description></description>
     </item>
     
@@ -490,15 +553,6 @@
     </item>
     
     <item>
-      <title>transcription</title>
-      <link>/tags/transcription/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/transcription/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>translation</title>
       <link>/tags/translation/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
@@ -526,24 +580,6 @@
     </item>
     
     <item>
-      <title>diversification</title>
-      <link>/tags/diversification/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/diversification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gene duplication</title>
-      <link>/tags/gene-duplication/</link>
-      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/gene-duplication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gene tree</title>
       <link>/tags/gene-tree/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
@@ -558,6 +594,15 @@
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/molecular-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gene duplication</title>
+      <link>/tags/gene-duplication/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gene-duplication/</guid>
       <description></description>
     </item>
     
@@ -1462,15 +1507,6 @@
     </item>
     
     <item>
-      <title>expired</title>
-      <link>/tags/expired/</link>
-      <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/expired/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>mole-rats</title>
       <link>/tags/mole-rats/</link>
       <pubDate>Fri, 10 Oct 2014 00:00:00 +0000</pubDate>
@@ -1746,24 +1782,6 @@
       <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>/tags/finite-element-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>frugivory</title>
-      <link>/tags/frugivory/</link>
-      <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/frugivory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>niche specialization</title>
-      <link>/tags/niche-specialization/</link>
-      <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/niche-specialization/</guid>
       <description></description>
     </item>
     
@@ -2668,15 +2686,6 @@
     </item>
     
     <item>
-      <title>Genetic resources</title>
-      <link>/tags/genetic-resources/</link>
-      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/genetic-resources/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>International environmental law</title>
       <link>/tags/international-environmental-law/</link>
       <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
@@ -2700,6 +2709,15 @@
       <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
       
       <guid>/tags/philippines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genetic resources</title>
+      <link>/tags/genetic-resources/</link>
+      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genetic-resources/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
-    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Foraging shifts and visual preadaptation in ecologically diverse bats</title>
+      <link>/publication/journal_foraging_shifts_and_visual_preadaptation/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_foraging_shifts_and_visual_preadaptation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The allometry of daily energy expenditure in hummingbirds: an energy budget approach</title>
@@ -1128,7 +1137,7 @@ rm Untitled.md
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Liliana M. Dávalos is Professor of Conservation Biology at Stony Brook University&amp;rsquo;s Department of Ecology and Evolution. Her research interests include molecular evolution, phylogenetics and tropical biology. She leads the Tropical Biology group, which studies extinction and survival in deep time, functional genetics in non-model mammals, and deforestation.&lt;/p&gt;

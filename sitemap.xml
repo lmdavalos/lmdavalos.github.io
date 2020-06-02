@@ -3,30 +3,177 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/spillback/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/current/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/genomics/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tropical-biology/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
-    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/anusha-shankar/</loc>
-    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/edgardo-m.-rengifo/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/elizabeth-r.-dumont/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/evolutionary-genetics/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_foraging_shifts_and_visual_preadaptation/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jesus-almonte/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kalina-t.j.-davies/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/karen-e.-sears/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/laurel-r.-yohe/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/miluska-k.r.-s%C3%A1nchez/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/stephen-j.-rossiter/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diversification/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/frugivory/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/niche-specialization/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/positive-selection/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/preadaptation/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/transcription/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/anusha-shankar/</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -39,29 +186,6 @@
   
   <url>
     <loc>/authors/donald-r-powers/</loc>
-    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -102,12 +226,6 @@
   </url>
   
   <url>
-    <loc>/tags/evolutionary-genetics/</loc>
-    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/laurel-r-yohe/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -138,12 +256,6 @@
   
   <url>
     <loc>/tags/gene-family-evolution/</loc>
-    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/genomics/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -488,12 +600,6 @@
   </url>
   
   <url>
-    <loc>/authors/elizabeth-r.-dumont/</loc>
-    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/journal_targeted_sequence_capture_outperforms/</loc>
     <lastmod>2019-09-15T00:00:00+00:00</lastmod>
   </url>
@@ -505,25 +611,7 @@
   </url>
   
   <url>
-    <loc>/authors/karen-e.-sears/</loc>
-    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/laurel-r.-yohe/</loc>
-    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/nancy-b.-simmons/</loc>
-    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/stephen-j.-rossiter/</loc>
     <lastmod>2019-09-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -985,20 +1073,8 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/project/regrowing_the_brain/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/current/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1069,7 +1145,7 @@
   </url>
   
   <url>
-    <loc>/tags/tropical-biology/</loc>
+    <loc>/tags/expired/</loc>
     <lastmod>2019-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1112,12 +1188,6 @@
   <url>
     <loc>/tags/peace-process/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/kalina-t.j.-davies/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1169,12 +1239,6 @@
   </url>
   
   <url>
-    <loc>/tags/transcription/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/translation/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1207,12 +1271,6 @@
   <url>
     <loc>/publication/thesis_on_the_evolution_diversification/</loc>
     <lastmod>2018-11-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/diversification/</loc>
-    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2700,12 +2758,6 @@
   </url>
   
   <url>
-    <loc>/tags/expired/</loc>
-    <lastmod>2015-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/christopher-g.-faulkes/</loc>
     <lastmod>2014-10-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -3069,18 +3121,6 @@
   
   <url>
     <loc>/tags/finite-element-analysis/</loc>
-    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/frugivory/</loc>
-    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/niche-specialization/</loc>
     <lastmod>2014-01-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
