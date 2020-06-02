@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pheromone on Dávalos Lab</title>
+    <link>/tags/pheromone/</link>
+    <description>Recent content in pheromone on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
+    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/pheromone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Expressed vomeronasal type-1 receptors (V1rs) in bats uncover conserved sequences underlying social chemical signaling</title>
+      <link>/publication/journal_expressed_vomeronasal_type-1_receptors/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_expressed_vomeronasal_type-1_receptors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Molecular Evolution of Bat Chemosensory Pathways Reveals Sensory Innovation and Loss</title>
+      <link>/publication/thesis_molecular_evolution_of_bat/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/thesis_molecular_evolution_of_bat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trpc2 pseudogenization dynamics in bats reveal ancestral vomeronasal signaling, then pervasive loss</title>
+      <link>/publication/journal_trpc2_pseudogenization_dynamics/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_trpc2_pseudogenization_dynamics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>genetic structure on Dávalos Lab</title>
+    <link>/tags/genetic-structure/</link>
+    <description>Recent content in genetic structure on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
+    <lastBuildDate>Fri, 06 Aug 2004 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/genetic-structure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploring population genetic structure in three species of Lesser Antillean bats</title>
+      <link>/publication/journal_exploring_population_genetic_structure_three/</link>
+      <pubDate>Fri, 06 Aug 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_exploring_population_genetic_structure_three/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

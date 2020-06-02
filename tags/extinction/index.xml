@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>extinction on Dávalos Lab</title>
+    <link>/tags/extinction/</link>
+    <description>Recent content in extinction on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/extinction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anthropogenic Extinction Dominates Holocene Declines of West Indian Mammals</title>
+      <link>/publication/misc_anthropogenic_extinction_dominates/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/misc_anthropogenic_extinction_dominates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent extinctions disturb path to equilibrium diversity in Caribbean bats</title>
+      <link>/publication/journal_recent_extinctions_disturb_path/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_recent_extinctions_disturb_path/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deglaciation explains bat extinction in the Caribbean</title>
+      <link>/publication/journal_deglaciation_explains_bat_extinction/</link>
+      <pubDate>Tue, 06 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_deglaciation_explains_bat_extinction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>West Indian Mammals: the Old, the New, and the Recently Extinct</title>
+      <link>/publication/book_section_west_indian_mammals/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/book_section_west_indian_mammals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bats of Puerto Rico</title>
+      <link>/publication/misc_bats_of_puerto_rico/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/misc_bats_of_puerto_rico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical biogeography of the Antilles: Earth history and phylogenetics of endemic chiropteran taxa</title>
+      <link>/publication/thesis_historical_biogeography_antilles/</link>
+      <pubDate>Sat, 15 May 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/thesis_historical_biogeography_antilles/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

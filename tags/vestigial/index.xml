@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vestigial on Dávalos Lab</title>
+    <link>/tags/vestigial/</link>
+    <description>Recent content in vestigial on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
+    <lastBuildDate>Tue, 08 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/vestigial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vomeronasal and olfactory structures in bats revealed by diceCT clarify genetic evidence of function</title>
+      <link>/publication/journal_vomeronasal_and_olfactory_structures/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_vomeronasal_and_olfactory_structures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strength of selection on the Trpc2 gene predicts accessory olfactory bulb form in bat vomeronasal evolution</title>
+      <link>/publication/journal_genetic_function_of_trpc2/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_genetic_function_of_trpc2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
