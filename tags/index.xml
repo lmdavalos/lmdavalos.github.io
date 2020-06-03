@@ -193,20 +193,20 @@
     </item>
     
     <item>
-      <title>Deforestation</title>
-      <link>/tags/deforestation/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/deforestation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cattle</title>
       <link>/tags/cattle/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/cattle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deforestation</title>
+      <link>/tags/deforestation/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deforestation/</guid>
       <description></description>
     </item>
     
@@ -2686,6 +2686,15 @@
     </item>
     
     <item>
+      <title>Genetic resources</title>
+      <link>/tags/genetic-resources/</link>
+      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genetic-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>International environmental law</title>
       <link>/tags/international-environmental-law/</link>
       <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
@@ -2709,15 +2718,6 @@
       <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
       
       <guid>/tags/philippines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>genetic resources</title>
-      <link>/tags/genetic-resources/</link>
-      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/genetic-resources/</guid>
       <description></description>
     </item>
     

@@ -475,12 +475,6 @@
   </url>
   
   <url>
-    <loc>/tags/deforestation/</loc>
-    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/dolors-armenteras/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -530,6 +524,12 @@
   
   <url>
     <loc>/tags/cattle/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/deforestation/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4255,6 +4255,12 @@
   </url>
   
   <url>
+    <loc>/tags/genetic-resources/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/gleb-raygorodetsky/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4309,12 +4315,6 @@
   
   <url>
     <loc>/authors/tonya-barnes/</loc>
-    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/genetic-resources/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
