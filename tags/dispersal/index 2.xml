@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dispersal on Dávalos Lab</title>
+    <link>/tags/dispersal/</link>
+    <description>Recent content in dispersal on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
+    <lastBuildDate>Wed, 24 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/dispersal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Out of the Antilles: Fossil Phylogenies Support Reverse Colonization of Bats to South America</title>
+      <link>/publication/journal_out_of_the_antilles/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_out_of_the_antilles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earth history and the evolution of Caribbean bats</title>
+      <link>/publication/book_section_earth_history_evolution_caribbean_bats/</link>
+      <pubDate>Mon, 15 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/book_section_earth_history_evolution_caribbean_bats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical biogeography of the Antilles: Earth history and phylogenetics of endemic chiropteran taxa</title>
+      <link>/publication/thesis_historical_biogeography_antilles/</link>
+      <pubDate>Sat, 15 May 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/thesis_historical_biogeography_antilles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogeny and biogeography of Caribbean mammals</title>
+      <link>/publication/journal_phylogeny_and_biogeography_caribbean/</link>
+      <pubDate>Wed, 10 Mar 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_phylogeny_and_biogeography_caribbean/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

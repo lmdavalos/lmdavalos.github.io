@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bats on Dávalos Lab</title>
+    <link>/tags/bats/</link>
+    <description>Recent content in Bats on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/bats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assessing Soft-Tissue Shrinkage Estimates in Museum Specimens Imaged With Diffusible Iodine-based Contrast-Enhanced Computed Tomography (diceCT)</title>
+      <link>/publication/journal_assessing_soft_tissue_shrinkage/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_assessing_soft_tissue_shrinkage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Molecular Evolution of Bat Chemosensory Pathways Reveals Sensory Innovation and Loss</title>
+      <link>/publication/thesis_molecular_evolution_of_bat/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/thesis_molecular_evolution_of_bat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular evolution of growth hormone and insulin-like growth factor 1 receptors in long-lived, small-bodied mammals</title>
+      <link>/publication/journal_molecular_evolution_of_growth_hormone/</link>
+      <pubDate>Fri, 10 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_molecular_evolution_of_growth_hormone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological innovation, diversification and invasion of a new adaptive zone</title>
+      <link>/publication/journal_morphological_innovation_diversification/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_morphological_innovation_diversification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

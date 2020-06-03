@@ -1,0 +1,4694 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/spillback/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/current/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/genomics/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tropical-biology/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/edgardo-m.-rengifo/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/elizabeth-r.-dumont/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/evolutionary-genetics/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_foraging_shifts_and_visual_preadaptation/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jesus-almonte/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kalina-t.j.-davies/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/karen-e.-sears/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/laurel-r.-yohe/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/miluska-k.r.-s%C3%A1nchez/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/stephen-j.-rossiter/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diversification/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/frugivory/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/niche-specialization/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/positive-selection/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/preadaptation/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/transcription/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/anusha-shankar/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/catherine-h-graham/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/donald-r-powers/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_allometry_of_daily_energy_expenditure/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/adaptation/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/allometry/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hummingbirds/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/phylogenetic-regression/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/laurel-r-yohe/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/m-elise-lauterbur/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/phyllostomidae/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sarah-heder/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/preprint_species_tree_disequilibrium/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gene-family-evolution/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/olfaction/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/olfactory-receptors/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/andrea-g.-locatelli/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/angelique-p.-corthals/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/aris-katzourakis/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/bogdan-m.-kirilenko/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/david-a.-ray/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/david-jebb/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/dina-dechmann/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/emilia-c.-skirmuntt/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/emma-c.-teeling/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/erich-d.-jarvis/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/eugene-w.-myers/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/gareth-jones/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/graham-m.-hughes/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/juliana-g.-roscito/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kevin-a.-m.-sullivan/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ksenia-lavrichenko/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lars-s.-jermiin/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lucy-burkitt-gray/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mark-s.-springer/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/martin-pippel/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/megan-l.-power/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-hiller/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/olivier-fedrigo/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/paolo-devanna/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/roger-d.-ransome/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sebastien-j.-puechmaille/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/preprint_six_new_reference-quality_bat_genomes-/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sonja-c.-vernes/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sylke-winkler/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/zixia-huang/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/9/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/amazon/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/amazon-andes/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_curb_land_grabbing_to_save_the_amazon/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deforestation/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/dolors-armenteras/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jaime-garc%C3%ADa/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/luis-f.-melgarejo/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mar%C3%ADa-c.-londo%C3%B1o/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/matthias-baumann/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/pablo-negret/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tobia-m.-lakes/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tobias-krueger/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cattle/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/inequality/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/land-grabbing/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/emma-c-teeling/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/joshua-ht-potter/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kalina-tj-davies/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sonja-c-vernes/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/stephen-j-rossiter/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_tissue_collection_of_bats_for-mics/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cell-culture/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/proteomics/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/transcriptomics/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_targeted_sequence_capture_outperforms/</loc>
+    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kalina-t.-j.-davies/</loc>
+    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/nancy-b.-simmons/</loc>
+    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bait-capture/</loc>
+    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/chemosensation/</loc>
+    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/andes/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/colombia/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/eleonora-d%C3%A1valos/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_social_investment_and_smallholder/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/coca/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/credit/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/electrification/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/birth-death-models/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_expressed_vomeronasal_type-1_receptors/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/laurasiatheria/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pheromone/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pseudogene/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vomeronasal-system/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/people/goldberg_aaron/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/bruno_alessondra/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/lengers_alex/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/brown_alexis/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/alumnihs/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/alumnipg/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/alumniug/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/people/mcpherran_anna/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/szeto_anne/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/patil_bhavana/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/lei_bonnie/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/baird_brandon/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/morales_cameron/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/tucker_clara/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/cheng_courtney/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/pantino_dj/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/rojas_danny/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/li_edward/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/lauterbur_elise/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/caballero_elodia/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/leung_emily/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/cornejo_fanny/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/donnelly_gabrielle/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/tudda_genna/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/poterewicz_gregory/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/rosenthal_hannah/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/pena_johana/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/navillo_john/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/rothleder_jonah/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/malewicz_kaitlyn/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/martin_katie/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/cornejo_kendra/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/he_kenneth/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/mets_kristjan/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/barger_laura/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/yohe_laurel/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/bartasunaite_margarita/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/moore_marianne/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/lim_marisa/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/hall_mark/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/zheng_melissa/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/wei_nancy/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/sipperly_nicolette/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/warsi_omar/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/donat_paul/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/people/connell_peter/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/abubakar_ramatu/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/researchers/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/people/dahan_romain/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/derosa_samantha/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/delserra_samantha/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/gochman_samuel/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/afzal_sanah/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/heder_sarah/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/thomas_william/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/zhang_xiaoyu/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/perez_yasin/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/shah_yesha/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/rowe_zachary/</loc>
+    <lastmod>2019-07-21T15:58:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/3d-morphometrics/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/alexa-sadier/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/brandon-p.-hedrick/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/david-munteanu/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/elizabeth-dumont/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/gregory-l.-mutumi/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_morphological_diversification_under_high/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/morphological-evolution/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/noctilionoidea/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/regrowing_the_brain/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/catherine-h.-graham/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/christopher-c.-witt/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/marisa-c.-w.-lim/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_parallel_molecular_evolution/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/convergence/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dn/ds/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/phylogenetics/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/very_extended_phenotype/</loc>
+    <lastmod>2019-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/death_and_life_of_biodiversity/</loc>
+    <lastmod>2019-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/expired/</loc>
+    <lastmod>2019-01-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/biodiversity/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/conservation/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/fires/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_fires_in_protected_areas/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/laura-schneider/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/peace-agreement/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/peace-process/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kun-yun/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_multifactorial_processes_underlie/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/paul-donat/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hierarchical-models/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mixed-models/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/opsins/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/relaxed-selection/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/short-wave-opsin/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/translation/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/7/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/andean-hummingbirds/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/evolution/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/marisa-cheun-wah-lim/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/thesis_on_the_evolution_diversification/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/6/</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/david-a.-liberles/</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gene-tree/</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/liang-liu/</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/molecular-evolution/</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/book_section_protocols_molecular_evolutionary_analysis/</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gene-duplication/</loc>
+    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_coalescent-based_estimator/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/amy-l.-russell/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bayesian/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/bonnie-lei/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jon-flanders/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/miguel-s.-n%C3%BA%C3%B1ez-novas/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/population-genetics/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pteronotus/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pteronotus-portoricensis/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pteronotus-pusillus/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/winston-c.-lancaster/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/yolanda-m.-le%C3%B3n/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/coalescence/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/carlos-fonseca/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/danny-rojas/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/furipteridae/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/maria-jo%C3%A3o-ramos-pereira/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/matthew-moreira/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mormoopidae/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/noctilionidae/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/thyropteridae/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_updated_distribution_maps/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/distribution-and-checklist/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/extent-of-occurrence/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/genomics_of_exceptions_to_scaling/</loc>
+    <lastmod>2018-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bolivia/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/marginal-de-la-selva/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/peru/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/book_section_ghosts_of_development_past/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/illicit-crops/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/5/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ariari/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/huallaga-valley/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/paul-gootenberg/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/santa-cruz/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/edited_books_origins_of_cocaine/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/abby-vander-linden/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_assessing_soft_tissue_shrinkage/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bats/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jennifer-s.-holmes/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/karen-sears/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/laurel-yohe/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/leonardo-fabio-morales/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_opposition_support/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dicect/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/iodine-staining/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/microct/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/referendum/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/shrinkage/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/abigail-curtis/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/simone-hoffmann/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_vomeronasal_and_olfactory_structures/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/main-olfactory-system/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vestigial/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vomeronasal-organ/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/codon-models/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_genetic_function_of_trpc2/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/trpc2/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bat-chemosensation/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/macroevolution/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/phylogenetic-logistic-regression/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/agustin-palao-mendizabal/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/alvaro-c%C3%A1rdenas/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/david-saucedo-de-la-fuente/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/farc/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_identifying_municipal_risk_factors/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kristjan-mets/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/armed-conflict/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/guerrillas/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/political-violence/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_bat_biology_genomes/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bat1k-consortium/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/eugene-myers/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-thomas-p.-gilbert/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/echolocation/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ecosystem/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/flight/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/immunity/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/longevity/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mammal/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/antilles/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bayesian-phylogenetics/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/biogeobears/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/caribbean/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/carlos-a.-mancina/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cubanycteris/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/fernando-balseiro/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/omar-m.-warsi/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_out_of_the_antilles/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/short-faced-bats/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/stenodermatina/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/val%C3%A9ria-da-c.-tavares/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/west-indies/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dispersal/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/fossils/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/phylogeny/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/reverse-colonization/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vicariance/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_eating_down_the_food_chain/</loc>
+    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/path-wise-rates/</loc>
+    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/specialisation/</loc>
+    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/speciation/</loc>
+    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/trophic-level/</loc>
+    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/variable-rates-model/</loc>
+    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/bthe-earth-microbiome-project-consortium/b/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_communal_catalogue_reveals_earth/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aaron-clauset/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/amnon-amir/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/antonio-gonz%C3%A1lez/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/anupriya-tripathi/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ashley-shade/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/colin-j.-brislawn/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-mcdonald/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/donna-berg-lyons/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/evguenia-kopylova/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/gail-ackermann/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/gregory-humphrey/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jack-a.-gilbert/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jad-kanbar/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/james-t.-morton/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/janet-k.-jansson/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jarrad-hampton-marcell/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jed-a.-fuhrman/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jon-g.-sanders/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jose-a.-navas-molina/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/joshua-ladau/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/joshua-lefler/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/katherine-s.-pollard/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kelly-d.-goodwin/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kenneth-j.-locey/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lingjing-jiang/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/luke-r.-thompson/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mohamed-f.-haroon/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/nicholas-a.-bokulich/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/noah-fierer/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/qiyun-zhu/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/rick-l.-stevens/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/rob-knight/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-j.-prill/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sarah-m.-owens/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/se-jin-song/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sean-m.-gibbons/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/siavash-mirarab/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/stefan-janssen/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tomasz-kosciolek/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/valerie-mckenzie/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/yoshiki-v%C3%A1zquez-baeza/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/zhenjiang-zech-xu/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/alexis-m.-mychajliw/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_anthropogenic_extinction_dominates/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/holocene/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/nathan-s.-upham/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/quaternary/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/samuel-t.-turvey/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/siobh%C3%A1n-b.-cooke/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/extinction/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/megafauna/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kristjan-d.-mets/</loc>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_spatial_autocorrelation_reduces/</loc>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/error-rates/</loc>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/posterior-predictive-check/</loc>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/spatial-autocorrelation/</loc>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/laurel-ryan-yohe/</loc>
+    <lastmod>2017-05-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/thesis_molecular_evolution_of_bat/</loc>
+    <lastmod>2017-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/cerian-gibbes/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_integrating_remotely_sensed_fires/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jes%C3%BAs-a.-anaya/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/modis/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/edge/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/monitoring/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/christina-giordano/</loc>
+    <lastmod>2017-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dollos-law/</loc>
+    <lastmod>2017-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ramatu-abubakar/</loc>
+    <lastmod>2017-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_trpc2_pseudogenization_dynamics/</loc>
+    <lastmod>2017-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/purifying-selection/</loc>
+    <lastmod>2017-01-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/luis-valente/</loc>
+    <lastmod>2017-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/neotropics/</loc>
+    <lastmod>2017-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/rampal-s.-etienne/</loc>
+    <lastmod>2017-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_recent_extinctions_disturb_path/</loc>
+    <lastmod>2017-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/island-biogeography/</loc>
+    <lastmod>2017-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_deforestation_and_coca_cultivation/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/karina-m.-sanchez/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/alternative-development/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/illegal-drugs/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/spatial_data_analysis/</loc>
+    <lastmod>2016-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/spatial-analysis/</loc>
+    <lastmod>2016-09-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/angelica-duran-martinez/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/anja-korenblik/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/antoine-vella/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/chlo%C3%A9-carpentier/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/clinton-w.-saloga/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/coen-bussink/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/david-macdonald/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/freya-vander-laenen/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/justice-tettey/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kamran-niaz/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/martin-raithelhuber/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/natascha-eichinger/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/phillip-davis/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sabrina-levissianos/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_world_drug_problem/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/thomas-pietschmann/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/united-nations/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/chiroptera/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jeanette-mateo/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/natalidae/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_records_of_the_cave-dwelling/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/harp-trap/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/wet-and-dry-season/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/james-p.-herrera/</loc>
+    <lastmod>2016-04-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_phylogeny_and_divergence_times/</loc>
+    <lastmod>2016-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/calibration/</loc>
+    <lastmod>2016-04-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/chronogram/</loc>
+    <lastmod>2016-04-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/primatology/</loc>
+    <lastmod>2016-04-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/total-evidence/</loc>
+    <lastmod>2016-04-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_bats_chiroptera_noctilionoidea/</loc>
+    <lastmod>2016-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/geographic-range-evolution/</loc>
+    <lastmod>2016-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_bayesian_hierarchical_models_suggest/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/beth-e.-gerstner/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/la-venta/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/miocene/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/palynephyllum/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/pa%C3%BAl-m.-velazco/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nectarivory/</loc>
+    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_a_bayesian_spatial_model_highlights/</loc>
+    <lastmod>2015-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/andean-forest/</loc>
+    <lastmod>2015-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jorge-molina/</loc>
+    <lastmod>2015-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/maria-alejandra-chadid/</loc>
+    <lastmod>2015-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/san-lucas/</loc>
+    <lastmod>2015-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/direct-factors/</loc>
+    <lastmod>2015-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/underlying-factors/</loc>
+    <lastmod>2015-10-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/alex-c.c.-wilson/</loc>
+    <lastmod>2015-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_amino_acid_transporters_expansion/</loc>
+    <lastmod>2015-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rebecca-p.-duncan/</loc>
+    <lastmod>2015-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/romain-a.-dahan/</loc>
+    <lastmod>2015-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/aphid/</loc>
+    <lastmod>2015-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/endosymbiosis/</loc>
+    <lastmod>2015-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/alynn-martin/</loc>
+    <lastmod>2015-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/amy-russell/</loc>
+    <lastmod>2015-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_from_the_field_to_the_lab/</loc>
+    <lastmod>2015-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/megan-woller-skar/</loc>
+    <lastmod>2015-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/chance_or_necessity/</loc>
+    <lastmod>2015-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/christopher-g.-faulkes/</loc>
+    <lastmod>2014-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/georgia-tsagkogeorga/</loc>
+    <lastmod>2014-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_molecular_evolution_of_growth_hormone/</loc>
+    <lastmod>2014-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nigel-c.-bennett/</loc>
+    <lastmod>2014-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mole-rats/</loc>
+    <lastmod>2014-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/transmembrane-domains/</loc>
+    <lastmod>2014-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/hoang-minh-duc/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jonathan-flanders/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/long-vu/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/maxent/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/quang-hao-nguyen/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sushma-reddy/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/thinh-ba-phung/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/timalidae/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_unveiling_the_impact_of_human/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vietnam/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/babblers/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/human-influence-index/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/species-distribution-modeling/</loc>
+    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/discovering_genomic_and_developmental_mechanisms/</loc>
+    <lastmod>2014-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sensory-biology/</loc>
+    <lastmod>2014-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_sex_biased_dispersal_produces/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/barcoding/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/distance-methods/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mitochondrial-dna/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/monophyly/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/species-delimitation/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_integrating_incomplete_fossils/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/notonycteris/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/peter-d.-smits/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dentition/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/morphology/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/saturation/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/scaffold/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/systematic-error/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/uncovering_skin_immune_proteins/</loc>
+    <lastmod>2014-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/donald-g.-gilbert/</loc>
+    <lastmod>2014-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_dynamic_recruitment_of_amino_acid_transporters/</loc>
+    <lastmod>2014-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/filip-husnik/</loc>
+    <lastmod>2014-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/james-t.-van-leuven/</loc>
+    <lastmod>2014-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/john-p.-mccutcheon/</loc>
+    <lastmod>2014-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bacteriocyte/</loc>
+    <lastmod>2014-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/functional-evolution/</loc>
+    <lastmod>2014-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mealybug/</loc>
+    <lastmod>2014-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sap-feeding-insect/</loc>
+    <lastmod>2014-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_demand_for_beef/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nelly-rodr%C3%ADguez/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cattle-ranching/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hamburger-connection/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/land-as-wealth/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/livestock/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_a_cluster_of_olfactory_receptor_genes/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alisha-goodbla/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/brandon-baird/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ian-grosse/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/krishna-samadevam/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/micha%C3%ABl-bekaert/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ornstein-uhlenbeck/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sara-hayden/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_selection_for_mechanical_advantage/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/william-j.-murphy/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/feeding-biomechanics/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/finite-element-analysis/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/phylogenetic-anova/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/theoretical-shape/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/adam-c.-algar/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/alexandre-antonelli/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/alycia-l.-stigall/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_an_horizon_scan/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/antoine-guisan/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-g.-gavin/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/edward-davis/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jean-philippe-lessard/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jenny-mcguire/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/marske-a.-katharine/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-n.-dawson/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/nathan-g.-swenson/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/niklaus-zimmermann/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/regan-early/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/roland-jansson/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/community-assembly/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ecological-genetics/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/functional-diversity/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/multi-temporal-explanations/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/phylogeography/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/synthesis/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_deglaciation_explains_bat_extinction/</loc>
+    <lastmod>2012-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/climate-change/</loc>
+    <lastmod>2012-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/deglaciation/</loc>
+    <lastmod>2012-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/glaciation/</loc>
+    <lastmod>2012-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sea-level-rise/</loc>
+    <lastmod>2012-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/species-area-relationship/</loc>
+    <lastmod>2012-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_apparent_hybrid_heliodoxa/</loc>
+    <lastmod>2012-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/thomas-donegan/</loc>
+    <lastmod>2012-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/andrea-l.-cirranello/</loc>
+    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jonathan-h.-geisler/</loc>
+    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_understanding_phylogenetic_incongruence/</loc>
+    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gene-trees/</loc>
+    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/incongruence/</loc>
+    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/partitioned-likelihood-support/</loc>
+    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/species-trees/</loc>
+    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/antonius-k%C3%B6ller/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_detecting_the_immune_system_response/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dwight-w.-martin/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/emily-i.-chen/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/gabriella-recagno/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/inca/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mario-bernaski/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-rieger/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ancient-dna/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ancient-proteins/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/book_section_west_indian_mammals/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/aaron-goldberg/</loc>
+    <lastmod>2011-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/christian-c.-voigt/</loc>
+    <lastmod>2011-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/katja-rex/</loc>
+    <lastmod>2011-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/liliana-m.-d%C3%A1valos/</loc>
+    <lastmod>2011-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_morphological_innovation_diversification/</loc>
+    <lastmod>2011-11-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sharlene-e.-santana/</loc>
+    <lastmod>2011-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/stenodermatinae/</loc>
+    <lastmod>2011-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/morphological-innovation/</loc>
+    <lastmod>2011-11-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/andr%C3%A9-levy/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_keeping_it_simple/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/klaus-mummenhoff/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lynn-bohs/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/martin-f.-wojciechowski/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mathew-lavin/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/maximum-likelihood-models/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/neelima-sinha/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-geeta/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/angiosperm/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/complex-leaves/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rate-of-evolution/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/reversal/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/simple-leaves/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/stasis/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/adriana-c.-bejarano/</loc>
+    <lastmod>2011-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_forests_and_drugs/</loc>
+    <lastmod>2011-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/h.-leonardo-correa/</loc>
+    <lastmod>2011-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mark-a.-hall/</loc>
+    <lastmod>2011-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/oscar-j.-espejo/</loc>
+    <lastmod>2011-01-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/claudia-romero/</loc>
+    <lastmod>2010-12-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/dolores-armenteras/</loc>
+    <lastmod>2010-12-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_el_callejon_de_los_milagros/</loc>
+    <lastmod>2010-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/john-garc%C3%ADa/</loc>
+    <lastmod>2010-12-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/m%C3%B3nica-castro/</loc>
+    <lastmod>2010-12-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/miguel-pinedo-vasquez/</loc>
+    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/book_section_river_refuge_hypothesis/</loc>
+    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/connectivity/</loc>
+    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/refugia/</loc>
+    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/river-refuge/</loc>
+    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/brachyphylla/</loc>
+    <lastmod>2010-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/book_section_earth_history_evolution_caribbean_bats/</loc>
+    <lastmod>2010-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gaarlandia/</loc>
+    <lastmod>2010-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/systematics/</loc>
+    <lastmod>2010-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_disabusing_cocaine/</loc>
+    <lastmod>2009-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/environmental-degradation/</loc>
+    <lastmod>2009-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/globalisation/</loc>
+    <lastmod>2009-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/social-crisis/</loc>
+    <lastmod>2009-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_accounting_for_molecular_stochasticity/</loc>
+    <lastmod>2009-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ana-luz-porzecanski/</loc>
+    <lastmod>2009-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dna-barcoding/</loc>
+    <lastmod>2009-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/parametric-bootstrap/</loc>
+    <lastmod>2009-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tree-comparisons/</loc>
+    <lastmod>2009-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/two-prior-on-branch-lengths-model/</loc>
+    <lastmod>2009-06-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/diversification_of_noctilionoid_bats/</loc>
+    <lastmod>2009-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/angelique-corthals/</loc>
+    <lastmod>2008-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cordillera-oriental/</loc>
+    <lastmod>2008-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/east-andes/</loc>
+    <lastmod>2008-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/lonchophylla/</loc>
+    <lastmod>2008-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/lonchophyllinae/</loc>
+    <lastmod>2008-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_new_species_lonchophylla/</loc>
+    <lastmod>2008-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/venezuela/</loc>
+    <lastmod>2008-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/species-description/</loc>
+    <lastmod>2008-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/apicomplexa/</loc>
+    <lastmod>2008-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nonhomogeneous-molecular-evolution/</loc>
+    <lastmod>2008-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/protozoan-genome/</loc>
+    <lastmod>2008-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_saturation_and_base_composition/</loc>
+    <lastmod>2008-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_conservation_in_conflict/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_short_faced_bats/</loc>
+    <lastmod>2007-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mitochondrial/</loc>
+    <lastmod>2007-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/book_section_environmental_damage_illicit_drug_crops/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mar%C3%ADa-d.-%C3%A1lvarez/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/armed-group/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/crime-prevention/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/environmental-damage/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mormoops/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pteronotus-fulvus/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pteronotus-psilotis/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/pteronotus-rubiginosus/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_geography_diversification_mormoopids/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dispersal-vicariance-analysis/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/escherichia-coli/</loc>
+    <lastmod>2006-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/howard-ochman/</loc>
+    <lastmod>2006-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_nature_dynamics_bacterial_genomes/</loc>
+    <lastmod>2006-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/chilonatalus/</loc>
+    <lastmod>2005-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cytochrome-b/</loc>
+    <lastmod>2005-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/event-based-biogeography/</loc>
+    <lastmod>2005-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_molecular_phylogeny_funnel-eared_bats/</loc>
+    <lastmod>2005-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/natalus/</loc>
+    <lastmod>2005-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nyctiellus/</loc>
+    <lastmod>2005-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rag2/</loc>
+    <lastmod>2005-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/species-limits/</loc>
+    <lastmod>2005-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/aves/</loc>
+    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/blanca-leon/</loc>
+    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ecuador/</loc>
+    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_illicit_crops_armed_conflict/</loc>
+    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jon-fjelds%C3%A5/</loc>
+    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/juan-m.-lazcano/</loc>
+    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/maria-d.-alvarez/</loc>
+    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/birds/</loc>
+    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/conservation-prioritization/</loc>
+    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_bats_of_puerto_rico/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_colombia_many_faces_of_war/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_guerrillas_in_the_midst/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/puerto-rico/</loc>
+    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/bryan-c.-carstens/</loc>
+    <lastmod>2004-08-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_exploring_population_genetic_structure_three/</loc>
+    <lastmod>2004-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/john-j.-sullivan/</loc>
+    <lastmod>2004-08-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/lesser-antilles/</loc>
+    <lastmod>2004-08-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/peter-a.-larsen/</loc>
+    <lastmod>2004-08-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/scott-c.-pedersen/</loc>
+    <lastmod>2004-08-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/genetic-structure/</loc>
+    <lastmod>2004-08-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/geographic-isolation/</loc>
+    <lastmod>2004-08-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/lionycteris/</loc>
+    <lastmod>2004-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_phylogeny_of_lonchophyllini/</loc>
+    <lastmod>2004-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/platalina/</loc>
+    <lastmod>2004-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sharon-a.-jansa/</loc>
+    <lastmod>2004-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/archival-dna/</loc>
+    <lastmod>2004-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/thesis_historical_biogeography_antilles/</loc>
+    <lastmod>2004-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_phylogeny_and_biogeography_caribbean/</loc>
+    <lastmod>2004-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ground-sloths/</loc>
+    <lastmod>2004-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/historical-biogeography/</loc>
+    <lastmod>2004-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hutia/</loc>
+    <lastmod>2004-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_new_chocoan_species_of_lonchophylla/</loc>
+    <lastmod>2004-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/choc%C3%B3/</loc>
+    <lastmod>2004-02-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_epicrates_subflavus/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jamaica/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/rebecka-eriksson/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/biodiversity-surveys/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_geographical_sampling_bias/</loc>
+    <lastmod>2003-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sampling-bias/</loc>
+    <lastmod>2003-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sub-sharan-africa/</loc>
+    <lastmod>2003-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/erythroxylum/</loc>
+    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/book_section_forests_in_time_of_violence/</loc>
+    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/drug-trafficking/</loc>
+    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/economic-incentives/</loc>
+    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/forest-conservation/</loc>
+    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/forest-fragmentation/</loc>
+    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/forest-policy/</loc>
+    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/paramilitaries/</loc>
+    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/violence/</loc>
+    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/war/</loc>
+    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/andean-pact/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/benjamin-l.-simmons/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bioprospecting/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/brazil/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/convention-on-biological-diversity/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/genetic-resources/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/gleb-raygorodetsky/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/hugh-cross/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/international-environmental-law/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/legislation/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/louis-putzel/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/philippines/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_regulating_access_to_genetic_resources/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robin-r.-sears/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/taran-grant/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tonya-barnes/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ariteus/</loc>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_forests_in_the_time_of_violence/</loc>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_new_noteworthy_records_ten_jamaican_bat_caves/</loc>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gunpoint-conservation/</loc>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/violence-syndrome/</loc>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_illicit_crops_bird_conservation_priorities/</loc>
+    <lastmod>2002-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/protected-areas/</loc>
+    <lastmod>2002-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_could_peace_be_worse_than_war/</loc>
+    <lastmod>2001-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/gon%C3%A7alo-ferraz/</loc>
+    <lastmod>2001-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/maria-d.-%C3%A1lvarez/</loc>
+    <lastmod>2001-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_missing_the_forest_for_the_profits/</loc>
+    <lastmod>2001-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/multinational-corporations/</loc>
+    <lastmod>2001-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bubulcus-ibis/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/corvus-leucognaphalus/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/egretta-thula/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/faunal-list-update/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/first-faunal-account/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/haiti/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/icterus-dominicensis/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ile-a-vache/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nycticorax-nycticorax/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_parc_national_la_visite/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_birds_of_ile-a-vache/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/thomas-brooks/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nature-reserve/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/new-records-and-recent-extirpations/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_danos_ambientales_por_cultivos/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_forests_under_fire/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_serrania_de_san_lucas/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_san_lucas_mountain_range/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gold-mining/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_la_perspectiva_ambiental/</loc>
+    <lastmod>2000-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_el_futuro_de_los_bosques/</loc>
+    <lastmod>2000-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cauca/</loc>
+    <lastmod>1999-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_ornithological_observations_reserva_natural_tambito/</loc>
+    <lastmod>1999-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tambito/</loc>
+    <lastmod>1999-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jimmy-a.-guerrero/</loc>
+    <lastmod>1999-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_bat_fauna_tambito_colombia/</loc>
+    <lastmod>1999-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_access_to_genetic_resources/</loc>
+    <lastmod>1999-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pamela-chasek/</loc>
+    <lastmod>1999-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/robin-sears/</loc>
+    <lastmod>1999-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/acoustic-signals/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/andr%C3%A9s-m.-cuervo/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/atlapetes-leucopis/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/misc_birds-aves/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/daniel-e.-davison/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/emberizidae/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/guy-m.-kirwan/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nest-structure-and-egg-laying/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/passeriformes/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/paul-g.-salaman/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/paul-salaman/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/putumayo-department/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/reproductive-behaviour/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/song-characteristics/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/song-characteristics-and-reproductive-behaviour/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/journal_first_breeding_records_white_rimmed_brush_finch/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/thomas-m.-donegan/</loc>
+    <lastmod>1998-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/thesis_marcadores_moleculares/</loc>
+    <lastmod>1997-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rflp/</loc>
+    <lastmod>1997-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hoja-blanca/</loc>
+    <lastmod>1997-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rice/</loc>
+    <lastmod>1997-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/virus-resistance/</loc>
+    <lastmod>1997-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/join_lab/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>relaxed selection on Dávalos Lab</title>
+    <link>/tags/relaxed-selection/</link>
+    <description>Recent content in relaxed selection on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
+    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/relaxed-selection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multifactorial processes underlie parallel opsin loss in neotropical bats</title>
+      <link>/publication/journal_multifactorial_processes_underlie/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_multifactorial_processes_underlie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trpc2 pseudogenization dynamics in bats reveal ancestral vomeronasal signaling, then pervasive loss</title>
+      <link>/publication/journal_trpc2_pseudogenization_dynamics/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_trpc2_pseudogenization_dynamics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transcription on Dávalos Lab</title>
+    <link>/tags/transcription/</link>
+    <description>Recent content in transcription on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
+    <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/transcription/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Foraging shifts and visual preadaptation in ecologically diverse bats</title>
+      <link>/publication/journal_foraging_shifts_and_visual_preadaptation/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_foraging_shifts_and_visual_preadaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multifactorial processes underlie parallel opsin loss in neotropical bats</title>
+      <link>/publication/journal_multifactorial_processes_underlie/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_multifactorial_processes_underlie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
