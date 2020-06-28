@@ -1859,12 +1859,6 @@
   </url>
   
   <url>
-    <loc>/tags/bat-chemosensation/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/macroevolution/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4443,12 +4437,6 @@
   </url>
   
   <url>
-    <loc>/tags/genetic-resources/</loc>
-    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/gleb-raygorodetsky/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4503,6 +4491,12 @@
   
   <url>
     <loc>/authors/tonya-barnes/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/genetic-resources/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
