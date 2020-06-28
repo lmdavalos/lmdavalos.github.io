@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
-    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/current/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bat goblet cells as immuno-hotspots for infection of coronavirus</title>
+      <link>/project/bat_goblet_cells/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/bat_goblet_cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immunological adaptations in bats to moderate the effect of coronavirus infection</title>
+      <link>/project/immunological_adaptations_in_bats-/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/immunological_adaptations_in_bats-/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Inter-Species Modeling for Spillback/Spillover Avoidance</title>

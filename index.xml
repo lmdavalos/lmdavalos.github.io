@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
-    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Phyllostomid Bats: A unique Mammalian Radiation</title>
+      <link>/publication/edited_books_phyllostomid_bats/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/edited_books_phyllostomid_bats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandemics’ historical role in creating inequality</title>
+      <link>/publication/misc_pandemics_historical_role/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/misc_pandemics_historical_role/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bat goblet cells as immuno-hotspots for infection of coronavirus</title>
+      <link>/project/bat_goblet_cells/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/bat_goblet_cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immunological adaptations in bats to moderate the effect of coronavirus infection</title>
+      <link>/project/immunological_adaptations_in_bats-/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/immunological_adaptations_in_bats-/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Inter-Species Modeling for Spillback/Spillover Avoidance</title>

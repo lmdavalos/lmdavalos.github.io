@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
-    <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/</guid>
       <description></description>
@@ -24,11 +24,155 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Liliana M. Dávalos is Professor of Conservation Biology at Stony Brook University&amp;rsquo;s Department of Ecology and Evolution. Her research interests include molecular evolution, phylogenetics and tropical biology. She leads the Tropical Biology group, which studies extinction and survival in deep time, functional genetics in non-model mammals, and deforestation.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Marco A.R. Mello</title>
+      <link>/authors/marco-a.r.-mello/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/marco-a.r.-mello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theodore H. Fleming</title>
+      <link>/authors/theodore-h.-fleming/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/theodore-h.-fleming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexis M. Mychajliw</title>
+      <link>/authors/alexis-m.-mychajliw/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/alexis-m.-mychajliw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cara Monroe</title>
+      <link>/authors/cara-monroe/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/cara-monroe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courtney A. Hofman</title>
+      <link>/authors/courtney-a.-hofman/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/courtney-a.-hofman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elizabeth A. Nelson</title>
+      <link>/authors/elizabeth-a.-nelson/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/elizabeth-a.-nelson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joseph M. Yracheta</title>
+      <link>/authors/joseph-m.-yracheta/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/joseph-m.-yracheta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justin R. Lund</title>
+      <link>/authors/justin-r.-lund/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/justin-r.-lund/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Krystal S. Tsosie</title>
+      <link>/authors/krystal-s.-tsosie/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/krystal-s.-tsosie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mairin A. Balisi</title>
+      <link>/authors/mairin-a.-balisi/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mairin-a.-balisi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria A. Nieves-Colón</title>
+      <link>/authors/maria-a.-nieves-colo%CC%81n/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/maria-a.-nieves-colo%CC%81n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melissa E. Kemp</title>
+      <link>/authors/melissa-e.-kemp/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/melissa-e.-kemp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rene L. Begay</title>
+      <link>/authors/rene-l.-begay/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/rene-l.-begay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rita M. Austin</title>
+      <link>/authors/rita-m.-austin/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/rita-m.-austin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sergio A. Redondo</title>
+      <link>/authors/sergio-a.-redondo/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sergio-a.-redondo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susanna Sabin</title>
+      <link>/authors/susanna-sabin/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/susanna-sabin/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -1333,15 +1477,6 @@
       <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/authors/zhenjiang-zech-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alexis M. Mychajliw°</title>
-      <link>/authors/alexis-m.-mychajliw/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/alexis-m.-mychajliw/</guid>
       <description></description>
     </item>
     

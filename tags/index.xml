@@ -7,24 +7,186 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
-    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>American leaf-nosed bats</title>
+      <link>/tags/american-leaf-nosed-bats/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/american-leaf-nosed-bats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phyllostomidae</title>
+      <link>/tags/phyllostomidae/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/phyllostomidae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adaptive radiation</title>
+      <link>/tags/adaptive-radiation/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/adaptive-radiation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>behavior</title>
+      <link>/tags/behavior/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>classification</title>
+      <link>/tags/classification/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecology</title>
+      <link>/tags/ecology/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evolution</title>
+      <link>/tags/evolution/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amazon</title>
+      <link>/tags/amazon/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Americas</title>
+      <link>/tags/americas/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/americas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19</title>
+      <link>/tags/covid-19/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Central America</title>
+      <link>/tags/central-america/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/central-america/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indigenous</title>
+      <link>/tags/indigenous/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/indigenous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mexico</title>
+      <link>/tags/mexico/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mexico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>North America</title>
+      <link>/tags/north-america/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/north-america/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South America</title>
+      <link>/tags/south-america/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/south-america/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomics</title>
+      <link>/tags/transcriptomics/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/transcriptomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>current</title>
       <link>/tags/current/</link>
-      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/current/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>histology</title>
+      <link>/tags/histology/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/histology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proteomics</title>
+      <link>/tags/proteomics/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/proteomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>genomics</title>
       <link>/tags/genomics/</link>
-      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/genomics/</guid>
       <description></description>
@@ -139,15 +301,6 @@
     </item>
     
     <item>
-      <title>Phyllostomidae</title>
-      <link>/tags/phyllostomidae/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/phyllostomidae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>gene family evolution</title>
       <link>/tags/gene-family-evolution/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
@@ -171,15 +324,6 @@
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/olfactory-receptors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Amazon</title>
-      <link>/tags/amazon/</link>
-      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/amazon/</guid>
       <description></description>
     </item>
     
@@ -229,29 +373,11 @@
     </item>
     
     <item>
-      <title>Transcriptomics</title>
-      <link>/tags/transcriptomics/</link>
-      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/transcriptomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cell culture</title>
       <link>/tags/cell-culture/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/cell-culture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>proteomics</title>
-      <link>/tags/proteomics/</link>
-      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/proteomics/</guid>
       <description></description>
     </item>
     
@@ -567,15 +693,6 @@
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/andean-hummingbirds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolution</title>
-      <link>/tags/evolution/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/evolution/</guid>
       <description></description>
     </item>
     
@@ -2686,6 +2803,15 @@
     </item>
     
     <item>
+      <title>Genetic resources</title>
+      <link>/tags/genetic-resources/</link>
+      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genetic-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>International environmental law</title>
       <link>/tags/international-environmental-law/</link>
       <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
@@ -2709,15 +2835,6 @@
       <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
       
       <guid>/tags/philippines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>genetic resources</title>
-      <link>/tags/genetic-resources/</link>
-      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/genetic-resources/</guid>
       <description></description>
     </item>
     
