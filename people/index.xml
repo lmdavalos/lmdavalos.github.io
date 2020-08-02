@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
-    <lastBuildDate>Sun, 21 Jul 2019 15:58:31 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2020 15:58:31 -0400</lastBuildDate>
     
 	    <atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Julie Micko</title>
+      <link>/people/micko_julie/</link>
+      <pubDate>Sun, 31 May 2020 15:58:31 -0400</pubDate>
+      
+      <guid>/people/micko_julie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jessica Semel</title>
+      <link>/people/semel_jessica/</link>
+      <pubDate>Wed, 11 Mar 2020 15:58:31 -0400</pubDate>
+      
+      <guid>/people/semel_jessica/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aaron Goldberg</title>
@@ -464,6 +482,15 @@
       <guid>/people/heder_sarah/</guid>
       <description>&lt;!-- I am a senior studying biology at Stony Brook. I am researching the evolution of olfactory receptors in frugivorous bats. Bats are a very diverse order of mammals that have evolved to utilize a variety of different food sources, and my research involves quantifying phylogenetic instability in olfactory receptor gene families to determine whether there has been selective pressure on the duplication and loss of these genes in the Stenodermatinae subfamily as a result of their difference in diet compared to other Phyllostomids --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Trinity Chen</title>
+      <link>/people/chen_trinity/</link>
+      <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
+      
+      <guid>/people/chen_trinity/</guid>
+      <description></description>
     </item>
     
     <item>
