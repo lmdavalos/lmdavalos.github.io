@@ -4,106 +4,112 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/5/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/american-leaf-nosed-bats/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/marco-a.r.-mello/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/neotropical-leaf-nosed-bats/</loc>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/edited_books_phyllostomid_bats/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/phyllostomidae/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/theodore-h.-fleming/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/adaptive-radiation/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/behavior/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/classification/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/ecology/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/evolution/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -371,6 +377,12 @@
   
   <url>
     <loc>/tags/niche-specialization/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/olfaction/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -676,6 +688,12 @@
   </url>
   
   <url>
+    <loc>/tags/vision/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/people/semel_jessica/</loc>
     <lastmod>2020-03-11T15:58:31-04:00</lastmod>
   </url>
@@ -748,12 +766,6 @@
   <url>
     <loc>/publication/preprint_species_tree_disequilibrium/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/olfaction/</loc>
-    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3037,83 +3049,6 @@
   </url>
   
   <url>
-    <loc>/authors/hoang-minh-duc/</loc>
-    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/jonathan-flanders/</loc>
-    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/long-vu/</loc>
-    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/maxent/</loc>
-    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/quang-hao-nguyen/</loc>
-    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/sushma-reddy/</loc>
-    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/thinh-ba-phung/</loc>
-    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/timalidae/</loc>
-    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/journal_unveiling_the_impact_of_human/</loc>
-    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/vietnam/</loc>
-    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/babblers/</loc>
-    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/human-influence-index/</loc>
-    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/species-distribution-modeling/</loc>
-    <lastmod>2014-09-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/project/discovering_genomic_and_developmental_mechanisms/</loc>
     <lastmod>2014-08-26T00:00:00+00:00</lastmod>
   </url>
@@ -3496,6 +3431,12 @@
   
   <url>
     <loc>/tags/phylogeography/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/species-distribution-modeling/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4398,6 +4339,12 @@
   </url>
   
   <url>
+    <loc>/authors/sushma-reddy/</loc>
+    <lastmod>2003-10-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/sampling-bias/</loc>
     <lastmod>2003-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4499,6 +4446,12 @@
   </url>
   
   <url>
+    <loc>/tags/genetic-resources/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/gleb-raygorodetsky/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4553,12 +4506,6 @@
   
   <url>
     <loc>/authors/tonya-barnes/</loc>
-    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/genetic-resources/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
-    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,25 @@
     <item>
       <title>American leaf-nosed bats</title>
       <link>/tags/american-leaf-nosed-bats/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/american-leaf-nosed-bats/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Neotropical leaf-nosed bats</title>
+      <link>/tags/neotropical-leaf-nosed-bats/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/neotropical-leaf-nosed-bats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Phyllostomidae</title>
       <link>/tags/phyllostomidae/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/phyllostomidae/</guid>
       <description></description>
@@ -33,7 +42,7 @@
     <item>
       <title>adaptive radiation</title>
       <link>/tags/adaptive-radiation/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/adaptive-radiation/</guid>
       <description></description>
@@ -42,7 +51,7 @@
     <item>
       <title>behavior</title>
       <link>/tags/behavior/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/behavior/</guid>
       <description></description>
@@ -51,7 +60,7 @@
     <item>
       <title>classification</title>
       <link>/tags/classification/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/classification/</guid>
       <description></description>
@@ -60,7 +69,7 @@
     <item>
       <title>ecology</title>
       <link>/tags/ecology/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/ecology/</guid>
       <description></description>
@@ -69,7 +78,7 @@
     <item>
       <title>evolution</title>
       <link>/tags/evolution/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/evolution/</guid>
       <description></description>
@@ -144,6 +153,15 @@
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/niche-specialization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>olfaction</title>
+      <link>/tags/olfaction/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/olfaction/</guid>
       <description></description>
     </item>
     
@@ -328,6 +346,15 @@
     </item>
     
     <item>
+      <title>vision</title>
+      <link>/tags/vision/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>allometry</title>
       <link>/tags/allometry/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
@@ -351,15 +378,6 @@
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/phylogenetic-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>olfaction</title>
-      <link>/tags/olfaction/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/olfaction/</guid>
       <description></description>
     </item>
     
@@ -1651,60 +1669,6 @@
     </item>
     
     <item>
-      <title>Maxent</title>
-      <link>/tags/maxent/</link>
-      <pubDate>Mon, 22 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/maxent/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Timalidae</title>
-      <link>/tags/timalidae/</link>
-      <pubDate>Mon, 22 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/timalidae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vietnam</title>
-      <link>/tags/vietnam/</link>
-      <pubDate>Mon, 22 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/vietnam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>babblers</title>
-      <link>/tags/babblers/</link>
-      <pubDate>Mon, 22 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/babblers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>human influence index</title>
-      <link>/tags/human-influence-index/</link>
-      <pubDate>Mon, 22 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/human-influence-index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>species distribution modeling</title>
-      <link>/tags/species-distribution-modeling/</link>
-      <pubDate>Mon, 22 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/species-distribution-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>sensory biology</title>
       <link>/tags/sensory-biology/</link>
       <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
@@ -1971,6 +1935,15 @@
       <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
       
       <guid>/tags/phylogeography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>species distribution modeling</title>
+      <link>/tags/species-distribution-modeling/</link>
+      <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/species-distribution-modeling/</guid>
       <description></description>
     </item>
     
@@ -2812,6 +2785,15 @@
     </item>
     
     <item>
+      <title>Genetic resources</title>
+      <link>/tags/genetic-resources/</link>
+      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genetic-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>International environmental law</title>
       <link>/tags/international-environmental-law/</link>
       <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
@@ -2835,15 +2817,6 @@
       <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
       
       <guid>/tags/philippines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>genetic resources</title>
-      <link>/tags/genetic-resources/</link>
-      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/genetic-resources/</guid>
       <description></description>
     </item>
     
