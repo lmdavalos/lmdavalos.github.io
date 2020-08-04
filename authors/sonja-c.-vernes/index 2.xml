@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sonja C. Vernes on Dávalos Lab</title>
+    <link>/authors/sonja-c.-vernes/</link>
+    <description>Recent content in Sonja C. Vernes on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
+    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/sonja-c.-vernes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Six reference-quality genomes reveal evolution of bat adaptations</title>
+      <link>/publication/journal_six_new_reference-quality_bat_genomes-/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_six_new_reference-quality_bat_genomes-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bat Biology, Genomes, and the Bat1K Project: to generate chromosome-level genomes for all living bat species</title>
+      <link>/publication/journal_bat_biology_genomes/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_bat_biology_genomes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

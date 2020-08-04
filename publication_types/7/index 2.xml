@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Dávalos Lab</title>
+    <link>/publication_types/7/</link>
+    <description>Recent content in 7 on Dávalos Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
+    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On the Evolution and Diversification of Andean Hummingbirds</title>
+      <link>/publication/thesis_on_the_evolution_diversification/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/thesis_on_the_evolution_diversification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Molecular Evolution of Bat Chemosensory Pathways Reveals Sensory Innovation and Loss</title>
+      <link>/publication/thesis_molecular_evolution_of_bat/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/thesis_molecular_evolution_of_bat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical biogeography of the Antilles: Earth history and phylogenetics of endemic chiropteran taxa</title>
+      <link>/publication/thesis_historical_biogeography_antilles/</link>
+      <pubDate>Sat, 15 May 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/thesis_historical_biogeography_antilles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcadores moleculares asociados a resistencia al virus de la hoja blanca de arroz (Oryza sativa L.)</title>
+      <link>/publication/thesis_marcadores_moleculares/</link>
+      <pubDate>Tue, 01 Jul 1997 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/thesis_marcadores_moleculares/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
