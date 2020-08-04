@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>TravelPages</title>
+    <link>http://www.lmdavalos.net/Site/Site/TravelPages/TravelPages.html</link>
+    <description>TravelPages</description>
+    <item>
+      <title>Tambito</title>
+      <link>http://www.lmdavalos.net/Site/Site/TravelPages/Pages/Tambito.html</link>
+      <guid isPermaLink="false">5214ddf6-64f2-4821-bcac-e9dc3543edd0</guid>
+    </item>
+    <item>
+      <title>Haiti</title>
+      <link>http://www.lmdavalos.net/Site/Site/TravelPages/Pages/Haiti.html</link>
+      <guid isPermaLink="false">240ddcfe-c5aa-4a45-af59-4c68df968d2d</guid>
+    </item>
+    <item>
+      <title>Portugal</title>
+      <link>http://www.lmdavalos.net/Site/Site/TravelPages/Pages/Portugal.html</link>
+      <guid isPermaLink="false">89da69c6-1768-4996-b03f-c369b559f32a</guid>
+    </item>
+    <item>
+      <title>Mexico</title>
+      <link>http://www.lmdavalos.net/Site/Site/TravelPages/Pages/Mexico.html</link>
+      <guid isPermaLink="false">954150c6-3ff2-426d-9952-90a4ade53401</guid>
+    </item>
+    <item>
+      <title>Venezuela</title>
+      <link>http://www.lmdavalos.net/Site/Site/TravelPages/Pages/Venezuela.html</link>
+      <guid isPermaLink="false">0b846778-1c34-46b3-8877-30a148323cb6</guid>
+    </item>
+    <item>
+      <title>Wanderlust</title>
+      <link>http://www.lmdavalos.net/Site/Site/TravelPages/Pages/Wanderlust.html</link>
+      <guid isPermaLink="false">e925208b-ba82-439d-87b1-a14aa923aa43</guid>
+    </item>
+    <item>
+      <title>Southwest</title>
+      <link>http://www.lmdavalos.net/Site/Site/TravelPages/Pages/Southwest.html</link>
+      <guid isPermaLink="false">1e1b638d-0eca-4333-8d65-02123ca73423</guid>
+    </item>
+    <item>
+      <title>LaRadio</title>
+      <link>http://www.lmdavalos.net/Site/Site/TravelPages/Pages/LaRadio.html</link>
+      <guid isPermaLink="false">97fc3b2c-6909-4866-8404-5ae2af237fa9</guid>
+    </item>
+    <item>
+      <title>Palmira</title>
+      <link>http://www.lmdavalos.net/Site/Site/TravelPages/Pages/Palmira.html</link>
+      <guid isPermaLink="false">36b00519-0f59-4ef6-b30f-d9abe2c6abef</guid>
+    </item>
+    <item>
+      <title>Honduras</title>
+      <link>http://www.lmdavalos.net/Site/Site/TravelPages/Pages/Honduras.html</link>
+      <guid isPermaLink="false">fcc7b3ef-5371-4258-a914-df44b2ac4098</guid>
+    </item>
+  </channel>
+</rss>
