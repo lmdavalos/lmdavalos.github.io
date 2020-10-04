@@ -85,20 +85,110 @@
     </item>
     
     <item>
-      <title>Evolutionary genetics</title>
-      <link>/tags/evolutionary-genetics/</link>
-      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <title>Cenozoic</title>
+      <link>/tags/cenozoic/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/evolutionary-genetics/</guid>
+      <guid>/tags/cenozoic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desmodontinae</title>
+      <link>/tags/desmodontinae/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/desmodontinae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lonchorhininae</title>
+      <link>/tags/lonchorhininae/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lonchorhininae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micronycterinae</title>
+      <link>/tags/micronycterinae/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/micronycterinae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miocene</title>
+      <link>/tags/miocene/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/miocene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ornstein-Uhlenbeck</title>
+      <link>/tags/ornstein-uhlenbeck/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ornstein-uhlenbeck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stenodermatinae</title>
+      <link>/tags/stenodermatinae/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/stenodermatinae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>adaptation</title>
       <link>/tags/adaptation/</link>
-      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diversification</title>
+      <link>/tags/diversification/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/diversification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>historical biogeography</title>
+      <link>/tags/historical-biogeography/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/historical-biogeography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trophic level</title>
+      <link>/tags/trophic-level/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/trophic-level/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary genetics</title>
+      <link>/tags/evolutionary-genetics/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/evolutionary-genetics/</guid>
       <description></description>
     </item>
     
@@ -315,15 +405,6 @@
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/tropical-biology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diversification</title>
-      <link>/tags/diversification/</link>
-      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/diversification/</guid>
       <description></description>
     </item>
     
@@ -634,15 +715,6 @@
     </item>
     
     <item>
-      <title>Conservation</title>
-      <link>/tags/conservation/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/conservation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fires</title>
       <link>/tags/fires/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -657,6 +729,15 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/peace-agreement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conservation</title>
+      <link>/tags/conservation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/conservation/</guid>
       <description></description>
     </item>
     
@@ -1291,15 +1372,6 @@
     </item>
     
     <item>
-      <title>trophic level</title>
-      <link>/tags/trophic-level/</link>
-      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/trophic-level/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>variable-rates model</title>
       <link>/tags/variable-rates-model/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
@@ -1570,15 +1642,6 @@
     </item>
     
     <item>
-      <title>Miocene</title>
-      <link>/tags/miocene/</link>
-      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/miocene/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Palynephyllum</title>
       <link>/tags/palynephyllum/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
@@ -1665,15 +1728,6 @@
       <pubDate>Fri, 10 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>/tags/transmembrane-domains/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sensory biology</title>
-      <link>/tags/sensory-biology/</link>
-      <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/sensory-biology/</guid>
       <description></description>
     </item>
     
@@ -1845,15 +1899,6 @@
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>/tags/livestock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ornstein-Uhlenbeck</title>
-      <link>/tags/ornstein-uhlenbeck/</link>
-      <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ornstein-uhlenbeck/</guid>
       <description></description>
     </item>
     
@@ -2061,15 +2106,6 @@
       <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>/tags/ancient-proteins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stenodermatinae</title>
-      <link>/tags/stenodermatinae/</link>
-      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/stenodermatinae/</guid>
       <description></description>
     </item>
     
@@ -2601,15 +2637,6 @@
       <pubDate>Wed, 10 Mar 2004 00:00:00 +0000</pubDate>
       
       <guid>/tags/ground-sloths/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>historical biogeography</title>
-      <link>/tags/historical-biogeography/</link>
-      <pubDate>Wed, 10 Mar 2004 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/historical-biogeography/</guid>
       <description></description>
     </item>
     
