@@ -715,6 +715,15 @@
     </item>
     
     <item>
+      <title>Conservation</title>
+      <link>/tags/conservation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/conservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fires</title>
       <link>/tags/fires/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -729,15 +738,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/peace-agreement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>conservation</title>
-      <link>/tags/conservation/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/conservation/</guid>
       <description></description>
     </item>
     
@@ -2812,15 +2812,6 @@
     </item>
     
     <item>
-      <title>Genetic resources</title>
-      <link>/tags/genetic-resources/</link>
-      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/genetic-resources/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>International environmental law</title>
       <link>/tags/international-environmental-law/</link>
       <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
@@ -2844,6 +2835,15 @@
       <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
       
       <guid>/tags/philippines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genetic resources</title>
+      <link>/tags/genetic-resources/</link>
+      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genetic-resources/</guid>
       <description></description>
     </item>
     

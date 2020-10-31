@@ -149,7 +149,7 @@
   </url>
   
   <url>
-    <loc>/authors/elizabeth-dumont/</loc>
+    <loc>/authors/elizabeth-r.-dumont/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -184,7 +184,7 @@
   </url>
   
   <url>
-    <loc>/authors/paul-m.-velazco/</loc>
+    <loc>/authors/pa%C3%BAl-m.-velazco/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -739,12 +739,6 @@
   </url>
   
   <url>
-    <loc>/authors/elizabeth-r.-dumont/</loc>
-    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/journal_foraging_shifts_and_visual_preadaptation/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
@@ -756,7 +750,7 @@
   </url>
   
   <url>
-    <loc>/authors/kalina-t.j.-davies/</loc>
+    <loc>/authors/kalina-t.-j.-davies/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -850,13 +844,7 @@
   </url>
   
   <url>
-    <loc>/authors/laurel-r-yohe/</loc>
-    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/m-elise-lauterbur/</loc>
+    <loc>/authors/m.-elise-lauterbur/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -956,31 +944,7 @@
   </url>
   
   <url>
-    <loc>/authors/emma-c-teeling/</loc>
-    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/joshua-ht-potter/</loc>
-    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/kalina-tj-davies/</loc>
-    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/sonja-c-vernes/</loc>
-    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/stephen-j-rossiter/</loc>
+    <loc>/authors/joshua-h.-t.-potter/</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -999,12 +963,6 @@
   <url>
     <loc>/publication/journal_targeted_sequence_capture_outperforms/</loc>
     <lastmod>2019-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/kalina-t.-j.-davies/</loc>
-    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1535,6 +1493,12 @@
   </url>
   
   <url>
+    <loc>/tags/conservation/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/fires/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1553,12 +1517,6 @@
   
   <url>
     <loc>/tags/peace-agreement/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/conservation/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1909,18 +1867,6 @@
   
   <url>
     <loc>/authors/jennifer-s.-holmes/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/karen-sears/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/laurel-yohe/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2618,12 +2564,6 @@
   </url>
   
   <url>
-    <loc>/authors/laurel-ryan-yohe/</loc>
-    <lastmod>2017-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/thesis_molecular_evolution_of_bat/</loc>
     <lastmod>2017-05-16T00:00:00+00:00</lastmod>
   </url>
@@ -2967,12 +2907,6 @@
   
   <url>
     <loc>/tags/palynephyllum/</loc>
-    <lastmod>2015-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/pa%C3%BAl-m.-velazco/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4496,12 +4430,6 @@
   </url>
   
   <url>
-    <loc>/tags/genetic-resources/</loc>
-    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/gleb-raygorodetsky/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -4556,6 +4484,12 @@
   
   <url>
     <loc>/authors/tonya-barnes/</loc>
+    <lastmod>2003-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/genetic-resources/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

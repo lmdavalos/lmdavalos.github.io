@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
-    <lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/elizabeth-r.-dumont/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adapt or Live: Adaptation, Convergent Evolution, and Plesiomorphy</title>
+      <link>/publication/book_section_adapt_live/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/book_section_adapt_live/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Foraging shifts and visual preadaptation in ecologically diverse bats</title>
@@ -31,11 +40,38 @@
     </item>
     
     <item>
+      <title>Morphological Diversification under High Integration in a Hyper Diverse Mammal Clade</title>
+      <link>/publication/journal_morphological_diversification_under_high/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_morphological_diversification_under_high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multifactorial processes underlie parallel opsin loss in neotropical bats</title>
       <link>/publication/journal_multifactorial_processes_underlie/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/journal_multifactorial_processes_underlie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Soft-Tissue Shrinkage Estimates in Museum Specimens Imaged With Diffusible Iodine-based Contrast-Enhanced Computed Tomography (diceCT)</title>
+      <link>/publication/journal_assessing_soft_tissue_shrinkage/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_assessing_soft_tissue_shrinkage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trpc2 pseudogenization dynamics in bats reveal ancestral vomeronasal signaling, then pervasive loss</title>
+      <link>/publication/journal_trpc2_pseudogenization_dynamics/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal_trpc2_pseudogenization_dynamics/</guid>
       <description></description>
     </item>
     
