@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>primatology on Dávalos Lab</title>
-    <link>/tags/primatology/</link>
+    <link>https://lmdavalos.github.io/tags/primatology/</link>
     <description>Recent content in primatology on Dávalos Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
     <lastBuildDate>Mon, 25 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/primatology/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://lmdavalos.github.io/tags/primatology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Phylogeny and divergence times of lemurs inferred with recent and ancient fossils in the tree</title>
-      <link>/publication/journal_phylogeny_and_divergence_times/</link>
+      <link>https://lmdavalos.github.io/publication/journal_phylogeny_and_divergence_times/</link>
       <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/journal_phylogeny_and_divergence_times/</guid>
+      <guid>https://lmdavalos.github.io/publication/journal_phylogeny_and_divergence_times/</guid>
       <description></description>
     </item>
     

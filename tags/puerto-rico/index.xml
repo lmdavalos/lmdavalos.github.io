@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Puerto Rico on Dávalos Lab</title>
-    <link>/tags/puerto-rico/</link>
+    <link>https://lmdavalos.github.io/tags/puerto-rico/</link>
     <description>Recent content in Puerto Rico on Dávalos Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
     <lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/puerto-rico/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://lmdavalos.github.io/tags/puerto-rico/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bats of Puerto Rico</title>
-      <link>/publication/misc_bats_of_puerto_rico/</link>
+      <link>https://lmdavalos.github.io/publication/misc_bats_of_puerto_rico/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       
-      <guid>/publication/misc_bats_of_puerto_rico/</guid>
+      <guid>https://lmdavalos.github.io/publication/misc_bats_of_puerto_rico/</guid>
       <description></description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lonchorhininae on Dávalos Lab</title>
-    <link>/tags/lonchorhininae/</link>
+    <link>https://lmdavalos.github.io/tags/lonchorhininae/</link>
     <description>Recent content in Lonchorhininae on Dávalos Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
     <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/lonchorhininae/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://lmdavalos.github.io/tags/lonchorhininae/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Phylogenetics and Historical Biogeography</title>
-      <link>/publication/book_section_phylogenetics_historical_biogeography/</link>
+      <link>https://lmdavalos.github.io/publication/book_section_phylogenetics_historical_biogeography/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publication/book_section_phylogenetics_historical_biogeography/</guid>
+      <guid>https://lmdavalos.github.io/publication/book_section_phylogenetics_historical_biogeography/</guid>
       <description></description>
     </item>
     

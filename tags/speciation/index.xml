@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>speciation on Dávalos Lab</title>
-    <link>/tags/speciation/</link>
+    <link>https://lmdavalos.github.io/tags/speciation/</link>
     <description>Recent content in speciation on Dávalos Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
     <lastBuildDate>Tue, 16 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/speciation/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://lmdavalos.github.io/tags/speciation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eating down the food chain: generalism is not an evolutionary dead end for herbivores</title>
-      <link>/publication/journal_eating_down_the_food_chain/</link>
+      <link>https://lmdavalos.github.io/publication/journal_eating_down_the_food_chain/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/journal_eating_down_the_food_chain/</guid>
+      <guid>https://lmdavalos.github.io/publication/journal_eating_down_the_food_chain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bats (Chiroptera: Noctilionoidea) Challenge a Recent Origin of Extant Neotropical Diversity</title>
-      <link>/publication/journal_bats_chiroptera_noctilionoidea/</link>
+      <link>https://lmdavalos.github.io/publication/journal_bats_chiroptera_noctilionoidea/</link>
       <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/journal_bats_chiroptera_noctilionoidea/</guid>
+      <guid>https://lmdavalos.github.io/publication/journal_bats_chiroptera_noctilionoidea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The river-refuge hypothesis and other contributions of Márcio Ayres to conservation science</title>
-      <link>/publication/book_section_river_refuge_hypothesis/</link>
+      <link>https://lmdavalos.github.io/publication/book_section_river_refuge_hypothesis/</link>
       <pubDate>Sat, 06 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/publication/book_section_river_refuge_hypothesis/</guid>
+      <guid>https://lmdavalos.github.io/publication/book_section_river_refuge_hypothesis/</guid>
       <description></description>
     </item>
     
