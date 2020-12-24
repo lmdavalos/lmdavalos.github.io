@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Molecular evolution on Dávalos Lab</title>
+    <title>molecular evolution on Dávalos Lab</title>
     <link>https://lmdavalos.github.io/tags/molecular-evolution/</link>
-    <description>Recent content in Molecular evolution on Dávalos Lab</description>
+    <description>Recent content in molecular evolution on Dávalos Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://lmdavalos.github.io/tags/molecular-evolution/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Immunological adaptations in bats to moderate the effect of coronavirus infection</title>
+      <link>https://lmdavalos.github.io/project/immunological_adaptations_in_bats-/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://lmdavalos.github.io/project/immunological_adaptations_in_bats-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regrowing the brain; evolution and mechanisms of seasonal reversible size changes in a mammal</title>
+      <link>https://lmdavalos.github.io/project/regrowing_the_brain/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lmdavalos.github.io/project/regrowing_the_brain/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Protocols for the Molecular Evolutionary Analysis of Membrane Protein Gene Duplicates</title>
@@ -18,6 +36,15 @@
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://lmdavalos.github.io/publication/book_section_protocols_molecular_evolutionary_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomics of exceptions to scaling of longevity to body size</title>
+      <link>https://lmdavalos.github.io/project/genomics_of_exceptions_to_scaling/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lmdavalos.github.io/project/genomics_of_exceptions_to_scaling/</guid>
       <description></description>
     </item>
     

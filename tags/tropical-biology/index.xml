@@ -7,42 +7,18 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
-    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://lmdavalos.github.io/tags/tropical-biology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Inter-Species Modeling for Spillback/Spillover Avoidance</title>
-      <link>https://lmdavalos.github.io/project/spillback/</link>
-      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      <title>Bat goblet cells as immuno-hotspots for infection of coronavirus</title>
+      <link>https://lmdavalos.github.io/project/bat_goblet_cells/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lmdavalos.github.io/project/spillback/</guid>
-      <description>&lt;p&gt;In support of RA Kristjan Mets. While scientific reaction to the COVID-19 pandemic has been swift, the risk of SARS-CoV-2 spilling back into native North American wildlife and feral domestic animals remains underexplored. Experimental infections of a variety of hosts, serological analyses of the cats in Wuhan, and cases of COVID-19 among tigers and lions in the Bronx Zoo, all have shown transmission back to wildlife and feral cats is highly probable. Tools are urgently needed to determine which of these animal populations are at greatest risk of establishing a native reservoir, and where the overlap with human populations is greatest. We propose to model the risk of spillover to animal populations and conversely the risk of future secondary spillover by combining models of molecular interaction between the virus and potential hosts, with multi- species Susceptible-Infectious-Recovered (SIR) models. Complementing decades of experience in vertebrate genomics (Dávalos) with expertise in epidemiology (Meliker), and spatial dynamics of wildlife disease (Mets), ours is the ideal team to quickly generate and test the necessary models to avert this risk.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Very Extended Phenotype: connecting genetics and evolution to ecological function</title>
-      <link>https://lmdavalos.github.io/project/very_extended_phenotype/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lmdavalos.github.io/project/very_extended_phenotype/</guid>
-      <description>&lt;p&gt;Two major recent trends in funding in biology have been integrative research that focuses on general principles that operate across levels and scales of biological systems; and research that integrates genetic, phylogenetic, and functional dimensions of the diversity of life on Earth. These two research approaches offer much promise to address not only many of the fundamental questions about life, but also many of the problems facing humanity, including the irreversible, ongoing, and rapid loss of biodiversity.&lt;/p&gt;
-
-&lt;p&gt;Conservation biologists have so far focused on risks of extinction, decline and collapse of species and ecosystems, while recognizing how just avoiding loss is not enough. Until recently, the ultimate goals of biodiversity conservation—recovery and restoration—have remained difficult, elusive, and vaguely defined. Earlier this year, a new framework for assessing species recovery and conservation success has been proposed. A central concept of this framework is the ecological functionality of populations, based on the idea that conserving species requires not only avoiding extinction, but also maintaining their contributions to ecosystem processes.&lt;/p&gt;
-
-&lt;p&gt;The practical application of this framework requires fundamental research about the relationships between ecological function and other organismal and genetic dimensions of biodiversity. We propose to develop a cross-scale research program that focuses on the relationships between phylogenetic diversity, genetic diversity and functional diversity of a biologically and economically
-important taxonomic group: bees.&lt;/p&gt;
-
-&lt;p&gt;The overall goal of the proposed research is to test hypotheses on the relationships among multiple dimensions of biological diversity, and their relevance for functioning of ecological communities. Our specific objectives for this OVPR Seed Proposal focus on preparing a strong initial proposal for
-NSF, potentially followed by additional proposals. We aim to
-1. Obtain preliminary genomic data via RNA transcripts and hybridization baits,
-2. Start developing a database of ecological functionality to relate species to their molecular and ecological function,
-3. Recruit collaborators to strengthen specific aspects of the planned proposal.&lt;/p&gt;
-
-&lt;p&gt;We have extensive experience in both the general subject area of the proposal, and the specific methodological and conceptual advances that underlie the proposed research program. However, we have never collaborated before, and we lack preliminary data on the system we propose to focus on. In order to build the collaboration and establish the preliminary data to successfully compete, we need the internal support provided by the OVPR seed funding. With funding from the OVPR Seed Grant Program, we plan to develop a new collaboration and a new research program that will likely lead to several externally funded projects over the coming 5-10 years. Our initial target will be the NSF program on Dimensions of Biodiversity ($2M total), but we expect that we will have multiple opportunities for external funding in the next year or so..&lt;/p&gt;
-</description>
+      <guid>https://lmdavalos.github.io/project/bat_goblet_cells/</guid>
+      <description></description>
     </item>
     
     <item>

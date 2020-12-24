@@ -700,8 +700,20 @@
   </url>
   
   <url>
+    <loc>https://lmdavalos.github.io/tags/tropical-biology/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lmdavalos.github.io/project/immunological_adaptations_in_bats-/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tags/molecular-evolution/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -727,7 +739,7 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/tropical-biology/</loc>
+    <loc>https://lmdavalos.github.io/tags/spatial-analysis/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1623,12 +1635,6 @@
   
   <url>
     <loc>https://lmdavalos.github.io/authors/liang-liu/</loc>
-    <lastmod>2018-09-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/molecular-evolution/</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2682,12 +2688,6 @@
   <url>
     <loc>https://lmdavalos.github.io/project/spatial_data_analysis/</loc>
     <lastmod>2016-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/spatial-analysis/</loc>
-    <lastmod>2016-09-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
