@@ -1,11 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/</loc>
-    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/event/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/post/20-12-02-icml-best-paper/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/post/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/post/20-12-01-wowchemy-prize/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,39 +38,53 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/publication_types/5/</loc>
+    <loc>https://lmdavalos.github.io/publication-type/5/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/american-leaf-nosed-bats/</loc>
+    <loc>https://lmdavalos.github.io/tag/adaptive-radiation/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/american-leaf-nosed-bats/</loc>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/</loc>
+    <loc>https://lmdavalos.github.io/tag/behavior/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/classification/</loc>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/ecology/</loc>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/evolution/</loc>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/marco-a.r.-mello/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/neotropical-leaf-nosed-bats/</loc>
+    <loc>https://lmdavalos.github.io/tag/neotropical-leaf-nosed-bats/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -55,15 +93,13 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/phyllostomidae/</loc>
+    <loc>https://lmdavalos.github.io/tag/phyllostomidae/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/publication_types/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -74,49 +110,16 @@
   <url>
     <loc>https://lmdavalos.github.io/tags/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/theodore-h.-fleming/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/adaptive-radiation/</loc>
-    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/behavior/</loc>
-    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/classification/</loc>
-    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/ecology/</loc>
-    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/evolution/</loc>
-    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/publication_types/6/</loc>
+    <loc>https://lmdavalos.github.io/publication-type/6/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -125,57 +128,63 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/andrea-cirranello/</loc>
+    <loc>https://lmdavalos.github.io/tag/adaptation/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/cenozoic/</loc>
+    <loc>https://lmdavalos.github.io/authors/andrea-cirranello/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/cenozoic/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/danny-rojas/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/desmodontinae/</loc>
+    <loc>https://lmdavalos.github.io/tag/desmodontinae/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/diversification/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/elizabeth-r.-dumont/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/lonchorhininae/</loc>
+    <loc>https://lmdavalos.github.io/tag/historical-biogeography/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/micronycterinae/</loc>
+    <loc>https://lmdavalos.github.io/tag/lonchorhininae/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/miocene/</loc>
+    <loc>https://lmdavalos.github.io/tag/micronycterinae/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/ornstein-uhlenbeck/</loc>
+    <loc>https://lmdavalos.github.io/tag/miocene/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/ornstein-uhlenbeck/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -184,9 +193,8 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/pa%C3%BAl-m.-velazco/</loc>
+    <loc>https://lmdavalos.github.io/authors/paul-m.-velazco/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -195,45 +203,23 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/stenodermatinae/</loc>
+    <loc>https://lmdavalos.github.io/tag/stenodermatinae/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/stephen-j.-rossiter/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/adaptation/</loc>
+    <loc>https://lmdavalos.github.io/tag/trophic-level/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/diversification/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/historical-biogeography/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/trophic-level/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/publication_types/9/</loc>
+    <loc>https://lmdavalos.github.io/publication-type/2/</loc>
     <lastmod>2020-09-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -242,171 +228,153 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/publication_types/2/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://lmdavalos.github.io/authors/andrea-g.-locatelli/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/angelique-p.-corthals/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/aris-katzourakis/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/bogdan-m.-kirilenko/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/david-a.-ray/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/david-jebb/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/dina-dechmann/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/emilia-c.-skirmuntt/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/emma-c.-teeling/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/erich-d.-jarvis/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/eugene-w.-myers/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/evolutionary-genetics/</loc>
+    <loc>https://lmdavalos.github.io/tag/evolutionary-genetics/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/gareth-jones/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/gene-family-evolution/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/genomics/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/graham-m.-hughes/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/immune-response/</loc>
+    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/juliana-g.-roscito/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/kevin-a.-m.-sullivan/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/ksenia-lavrichenko/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/lars-s.-jermiin/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/lucy-burkitt-gray/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/mark-s.-springer/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/martin-pippel/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/megan-l.-power/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/michael-hiller/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/olivier-fedrigo/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/paolo-devanna/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/roger-d.-ransome/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/sebastien-j.-puechmaille/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -417,55 +385,41 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/sonja-c.-vernes/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/sylke-winkler/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/zixia-huang/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/gene-family-evolution/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/tag/chemosensation/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/genomics/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/immune-response/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/tag/frugivory/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/huabin-zhao/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/jorge-galindo-gonz%C3%A1lez/</loc>
+    <loc>https://lmdavalos.github.io/authors/jorge-galindo-gonzalez/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/kai-wang/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -474,159 +428,123 @@
   </url>
   
   <url>
+    <loc>https://lmdavalos.github.io/tag/niche-specialization/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/olfaction/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/olfactory-receptors/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/positive-selection/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmdavalos.github.io/authors/shilin-tian/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/taste-receptors/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/yuzhi-zhang/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/chemosensation/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/frugivory/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/niche-specialization/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/olfaction/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/olfactory-receptors/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/positive-selection/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/taste-receptors/</loc>
-    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/alexis-m.-mychajliw/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/amazon/</loc>
+    <loc>https://lmdavalos.github.io/tag/amazon/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/americas/</loc>
+    <loc>https://lmdavalos.github.io/tag/americas/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/covid-19/</loc>
-    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/cara-monroe/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/central-america/</loc>
+    <loc>https://lmdavalos.github.io/tag/central-america/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/courtney-a.-hofman/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/covid-19/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/elizabeth-a.-nelson/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/indigenous/</loc>
+    <loc>https://lmdavalos.github.io/tag/indigenous/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/joseph-m.-yracheta/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/justin-r.-lund/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/krystal-s.-tsosie/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/mairin-a.-balisi/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/maria-a.-nieves-colo%CC%81n/</loc>
+    <loc>https://lmdavalos.github.io/authors/maria-a.-nieves-colon/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/melissa-e.-kemp/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/mexico/</loc>
+    <loc>https://lmdavalos.github.io/tag/mexico/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/north-america/</loc>
+    <loc>https://lmdavalos.github.io/tag/north-america/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -637,31 +555,26 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/rene-l.-begay/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/rita-m.-austin/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/sergio-a.-redondo/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/south-america/</loc>
+    <loc>https://lmdavalos.github.io/tag/south-america/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/susanna-sabin/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -670,50 +583,43 @@
   </url>
   
   <url>
+    <loc>https://lmdavalos.github.io/tag/current/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/histology/</loc>
+    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmdavalos.github.io/project/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/current/</loc>
+    <loc>https://lmdavalos.github.io/tag/proteomics/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/histology/</loc>
+    <loc>https://lmdavalos.github.io/tag/transcriptomics/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/proteomics/</loc>
+    <loc>https://lmdavalos.github.io/tag/tropical-biology/</loc>
     <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/transcriptomics/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/tropical-biology/</loc>
-    <lastmod>2020-06-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/project/immunological_adaptations_in_bats-/</loc>
+    <loc>https://lmdavalos.github.io/project/immunological_adaptations_in_bats/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/molecular-evolution/</loc>
+    <loc>https://lmdavalos.github.io/tag/molecular-evolution/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -724,13 +630,11 @@
   <url>
     <loc>https://lmdavalos.github.io/people/</loc>
     <lastmod>2020-05-31T15:58:31-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/researchers/</loc>
+    <loc>https://lmdavalos.github.io/tag/researchers/</loc>
     <lastmod>2020-05-31T15:58:31-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -739,15 +643,13 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/spatial-analysis/</loc>
+    <loc>https://lmdavalos.github.io/tag/spatial-analysis/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/edgardo-m.-rengifo/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -758,49 +660,41 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/jesus-almonte/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/kalina-t.-j.-davies/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/karen-e.-sears/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/laurel-r.-yohe/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/miluska-k.r.-s%C3%A1nchez/</loc>
+    <loc>https://lmdavalos.github.io/authors/miluska-k.r.-sanchez/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/preadaptation/</loc>
+    <loc>https://lmdavalos.github.io/tag/preadaptation/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/transcription/</loc>
+    <loc>https://lmdavalos.github.io/tag/transcription/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/vision/</loc>
+    <loc>https://lmdavalos.github.io/tag/vision/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -809,21 +703,33 @@
   </url>
   
   <url>
+    <loc>https://lmdavalos.github.io/tag/allometry/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmdavalos.github.io/authors/anusha-shankar/</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/catherine-h-graham/</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/donald-r-powers/</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/hummingbirds/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/phylogenetic-regression/</loc>
+    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -832,39 +738,18 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/allometry/</loc>
-    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/hummingbirds/</loc>
-    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/phylogenetic-regression/</loc>
-    <lastmod>2020-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/publication_types/3/</loc>
+    <loc>https://lmdavalos.github.io/publication-type/3/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/m.-elise-lauterbur/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/sarah-heder/</loc>
     <lastmod>2020-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -873,9 +758,13 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/amazon-andes/</loc>
+    <loc>https://lmdavalos.github.io/tag/amazon-andes/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/cattle/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -884,81 +773,68 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/dolors-armenteras/</loc>
+    <loc>https://lmdavalos.github.io/tag/deforestation/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/jaime-garc%C3%ADa/</loc>
+    <loc>https://lmdavalos.github.io/authors/dolors-armenteras/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/inequality/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/authors/jaime-garcia/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/land-grabbing/</loc>
+    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/luis-f.-melgarejo/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/mar%C3%ADa-c.-londo%C3%B1o/</loc>
+    <loc>https://lmdavalos.github.io/authors/maria-c.-londono/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/matthias-baumann/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/pablo-negret/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/tobia-m.-lakes/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/tobias-krueger/</loc>
     <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/cattle/</loc>
-    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/deforestation/</loc>
-    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/inequality/</loc>
-    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/land-grabbing/</loc>
-    <lastmod>2019-10-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/tag/cell-culture/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/joshua-h.-t.-potter/</loc>
     <lastmod>2019-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -967,9 +843,8 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/cell-culture/</loc>
-    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/tag/bait-capture/</loc>
+    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -980,31 +855,36 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/nancy-b.-simmons/</loc>
     <lastmod>2019-09-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/bait-capture/</loc>
-    <lastmod>2019-09-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/andes/</loc>
+    <loc>https://lmdavalos.github.io/tag/andes/</loc>
     <lastmod>2019-08-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/colombia/</loc>
+    <loc>https://lmdavalos.github.io/tag/coca/</loc>
     <lastmod>2019-08-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/eleonora-d%C3%A1valos/</loc>
+    <loc>https://lmdavalos.github.io/tag/colombia/</loc>
     <lastmod>2019-08-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/credit/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/electrification/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/authors/eleonora-davalos/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1013,27 +893,8 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/coca/</loc>
-    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/credit/</loc>
-    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/electrification/</loc>
-    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/birth-death-models/</loc>
+    <loc>https://lmdavalos.github.io/tag/birth-death-models/</loc>
     <lastmod>2019-08-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1042,27 +903,23 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/laurasiatheria/</loc>
+    <loc>https://lmdavalos.github.io/tag/laurasiatheria/</loc>
     <lastmod>2019-08-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/pheromone/</loc>
+    <loc>https://lmdavalos.github.io/tag/pheromone/</loc>
     <lastmod>2019-08-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/pseudogene/</loc>
+    <loc>https://lmdavalos.github.io/tag/pseudogene/</loc>
     <lastmod>2019-08-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/vomeronasal-system/</loc>
+    <loc>https://lmdavalos.github.io/tag/vomeronasal-system/</loc>
     <lastmod>2019-08-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1086,21 +943,18 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/alumnihs/</loc>
+    <loc>https://lmdavalos.github.io/tag/alumnihs/</loc>
     <lastmod>2019-07-21T15:58:31-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/alumnipg/</loc>
+    <loc>https://lmdavalos.github.io/tag/alumnipg/</loc>
     <lastmod>2019-07-21T15:58:31-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/alumniug/</loc>
+    <loc>https://lmdavalos.github.io/tag/alumniug/</loc>
     <lastmod>2019-07-21T15:58:31-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1144,12 +998,12 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/people/pantino_dj/</loc>
+    <loc>https://lmdavalos.github.io/people/rojas_danny/</loc>
     <lastmod>2019-07-21T15:58:31-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/people/rojas_danny/</loc>
+    <loc>https://lmdavalos.github.io/people/pantino_dj/</loc>
     <lastmod>2019-07-21T15:58:31-04:00</lastmod>
   </url>
   
@@ -1309,12 +1163,12 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/people/derosa_samantha/</loc>
+    <loc>https://lmdavalos.github.io/people/delserra_samantha/</loc>
     <lastmod>2019-07-21T15:58:31-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/people/delserra_samantha/</loc>
+    <loc>https://lmdavalos.github.io/people/derosa_samantha/</loc>
     <lastmod>2019-07-21T15:58:31-04:00</lastmod>
   </url>
   
@@ -1364,33 +1218,28 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/3d-morphometrics/</loc>
+    <loc>https://lmdavalos.github.io/tag/3d-morphometrics/</loc>
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/alexa-sadier/</loc>
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/brandon-p.-hedrick/</loc>
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/david-munteanu/</loc>
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/gregory-l.-mutumi/</loc>
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1399,25 +1248,13 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/morphological-evolution/</loc>
+    <loc>https://lmdavalos.github.io/tag/morphological-evolution/</loc>
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/noctilionoidea/</loc>
+    <loc>https://lmdavalos.github.io/tag/noctilionoidea/</loc>
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/post/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/post/writing/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1428,19 +1265,21 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/catherine-h.-graham/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/christopher-c.-witt/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/convergence/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/marisa-c.-w.-lim/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1449,41 +1288,22 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/convergence/</loc>
+    <loc>https://lmdavalos.github.io/tag/phylogenetics/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/dn/ds/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/phylogenetics/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/tag/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/project/very_extended_phenotype/</loc>
+    <loc>https://lmdavalos.github.io/tag/expired/</loc>
     <lastmod>2019-01-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -1493,15 +1313,23 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/expired/</loc>
+    <loc>https://lmdavalos.github.io/project/very_extended_phenotype/</loc>
     <lastmod>2019-01-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/fires/</loc>
+    <loc>https://lmdavalos.github.io/tag/biodiversity/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/conservation/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/fires/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1512,37 +1340,31 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/laura-schneider/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/peace-agreement/</loc>
+    <loc>https://lmdavalos.github.io/tag/peace-agreement/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/biodiversity/</loc>
+    <loc>https://lmdavalos.github.io/tag/peace-process/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/conservation/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/peace-process/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/tag/hierarchical-models/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/kun-yun/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/mixed-models/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1551,63 +1373,43 @@
   </url>
   
   <url>
+    <loc>https://lmdavalos.github.io/tag/opsins/</loc>
+    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmdavalos.github.io/authors/paul-donat/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/hierarchical-models/</loc>
+    <loc>https://lmdavalos.github.io/tag/relaxed-selection/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/mixed-models/</loc>
+    <loc>https://lmdavalos.github.io/tag/short-wave-opsin/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/opsins/</loc>
+    <loc>https://lmdavalos.github.io/tag/translation/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/relaxed-selection/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/short-wave-opsin/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/translation/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/publication_types/7/</loc>
+    <loc>https://lmdavalos.github.io/publication-type/7/</loc>
     <lastmod>2018-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/andean-hummingbirds/</loc>
+    <loc>https://lmdavalos.github.io/tag/andean-hummingbirds/</loc>
     <lastmod>2018-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/marisa-cheun-wah-lim/</loc>
     <lastmod>2018-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1618,25 +1420,21 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/david-a.-liberles/</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/gene-duplication/</loc>
+    <loc>https://lmdavalos.github.io/tag/gene-duplication/</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/gene-tree/</loc>
+    <loc>https://lmdavalos.github.io/tag/gene-tree/</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/liang-liu/</loc>
     <lastmod>2018-09-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1652,115 +1450,106 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/amy-l.-russell/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/bayesian/</loc>
+    <loc>https://lmdavalos.github.io/tag/bayesian/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/bonnie-lei/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/coalescence/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/jon-flanders/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/miguel-s.-n%C3%BA%C3%B1ez-novas/</loc>
+    <loc>https://lmdavalos.github.io/authors/miguel-s.-nunez-novas/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/population-genetics/</loc>
+    <loc>https://lmdavalos.github.io/tag/population-genetics/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/pteronotus/</loc>
+    <loc>https://lmdavalos.github.io/tag/pteronotus/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/pteronotus-portoricensis/</loc>
+    <loc>https://lmdavalos.github.io/tag/pteronotus-portoricensis/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/pteronotus-pusillus/</loc>
+    <loc>https://lmdavalos.github.io/tag/pteronotus-pusillus/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/winston-c.-lancaster/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/yolanda-m.-le%C3%B3n/</loc>
+    <loc>https://lmdavalos.github.io/authors/yolanda-m.-leon/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/coalescence/</loc>
-    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/carlos-fonseca/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/furipteridae/</loc>
+    <loc>https://lmdavalos.github.io/tag/distribution-and-checklist/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/maria-jo%C3%A3o-ramos-pereira/</loc>
+    <loc>https://lmdavalos.github.io/tag/extent-of-occurrence/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/furipteridae/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/authors/maria-joao-ramos-pereira/</loc>
+    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/matthew-moreira/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/mormoopidae/</loc>
+    <loc>https://lmdavalos.github.io/tag/mormoopidae/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/noctilionidae/</loc>
+    <loc>https://lmdavalos.github.io/tag/noctilionidae/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/thyropteridae/</loc>
+    <loc>https://lmdavalos.github.io/tag/thyropteridae/</loc>
     <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1769,38 +1558,33 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/distribution-and-checklist/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/extent-of-occurrence/</loc>
-    <lastmod>2018-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://lmdavalos.github.io/project/genomics_of_exceptions_to_scaling/</loc>
     <lastmod>2018-07-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/bolivia/</loc>
+    <loc>https://lmdavalos.github.io/tag/bolivia/</loc>
     <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/marginal-de-la-selva/</loc>
+    <loc>https://lmdavalos.github.io/tag/development/</loc>
     <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/peru/</loc>
+    <loc>https://lmdavalos.github.io/tag/illicit-crops/</loc>
     <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/marginal-de-la-selva/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/peru/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1809,39 +1593,23 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/development/</loc>
-    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/illicit-crops/</loc>
-    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/ariari/</loc>
+    <loc>https://lmdavalos.github.io/tag/ariari/</loc>
     <lastmod>2018-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/huallaga-valley/</loc>
+    <loc>https://lmdavalos.github.io/tag/huallaga-valley/</loc>
     <lastmod>2018-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/paul-gootenberg/</loc>
     <lastmod>2018-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/santa-cruz/</loc>
+    <loc>https://lmdavalos.github.io/tag/santa-cruz/</loc>
     <lastmod>2018-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1852,7 +1620,6 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/abby-vander-linden/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1861,15 +1628,33 @@
   </url>
   
   <url>
+    <loc>https://lmdavalos.github.io/tag/bats/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/dicect/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/iodine-staining/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmdavalos.github.io/authors/jennifer-s.-holmes/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/leonardo-fabio-morales/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/microct/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1878,51 +1663,33 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/bats/</loc>
+    <loc>https://lmdavalos.github.io/tag/referendum/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/dicect/</loc>
+    <loc>https://lmdavalos.github.io/tag/shrinkage/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/iodine-staining/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/microct/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/referendum/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/shrinkage/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/abigail-curtis/</loc>
     <lastmod>2018-05-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/main-olfactory-system/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/simone-hoffmann/</loc>
     <lastmod>2018-05-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/vestigial/</loc>
+    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1931,27 +1698,23 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/main-olfactory-system/</loc>
+    <loc>https://lmdavalos.github.io/tag/vomeronasal-organ/</loc>
     <lastmod>2018-05-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/vestigial/</loc>
-    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/vomeronasal-organ/</loc>
-    <lastmod>2018-05-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/codon-models/</loc>
+    <loc>https://lmdavalos.github.io/tag/codon-models/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/macroevolution/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/phylogenetic-logistic-regression/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1960,45 +1723,38 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/trpc2/</loc>
+    <loc>https://lmdavalos.github.io/tag/trpc2/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/macroevolution/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/phylogenetic-logistic-regression/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/agustin-palao-mendizabal/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/alvaro-c%C3%A1rdenas/</loc>
+    <loc>https://lmdavalos.github.io/authors/alvaro-cardenas/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/armed-conflict/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/david-saucedo-de-la-fuente/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/farc/</loc>
+    <loc>https://lmdavalos.github.io/tag/farc/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/guerrillas/</loc>
+    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2009,25 +1765,11 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/kristjan-mets/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/armed-conflict/</loc>
+    <loc>https://lmdavalos.github.io/tag/political-violence/</loc>
     <lastmod>2018-02-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/guerrillas/</loc>
-    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/political-violence/</loc>
-    <lastmod>2018-02-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2038,103 +1780,96 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/bat1k-consortium/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/echolocation/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/ecosystem/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/eugene-myers/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/flight/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/immunity/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/longevity/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/m.-thomas-p.-gilbert/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/echolocation/</loc>
+    <loc>https://lmdavalos.github.io/tag/mammal/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/ecosystem/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/flight/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/immunity/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/longevity/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/mammal/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/antilles/</loc>
+    <loc>https://lmdavalos.github.io/tag/antilles/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/bayesian-phylogenetics/</loc>
+    <loc>https://lmdavalos.github.io/tag/bayesian-phylogenetics/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/biogeobears/</loc>
+    <loc>https://lmdavalos.github.io/tag/biogeobears/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/caribbean/</loc>
+    <loc>https://lmdavalos.github.io/tag/caribbean/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/carlos-a.-mancina/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/cubanycteris/</loc>
+    <loc>https://lmdavalos.github.io/tag/cubanycteris/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/dispersal/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/fernando-balseiro/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/fossils/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/omar-m.-warsi/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2143,57 +1878,38 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/short-faced-bats/</loc>
+    <loc>https://lmdavalos.github.io/tag/phylogeny/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/stenodermatina/</loc>
+    <loc>https://lmdavalos.github.io/tag/reverse-colonization/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/val%C3%A9ria-da-c.-tavares/</loc>
+    <loc>https://lmdavalos.github.io/tag/short-faced-bats/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/west-indies/</loc>
+    <loc>https://lmdavalos.github.io/tag/stenodermatina/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/dispersal/</loc>
+    <loc>https://lmdavalos.github.io/authors/valeria-da-c.-tavares/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/fossils/</loc>
+    <loc>https://lmdavalos.github.io/tag/vicariance/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/phylogeny/</loc>
+    <loc>https://lmdavalos.github.io/tag/west-indies/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/reverse-colonization/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/vicariance/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2202,33 +1918,23 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/path-wise-rates/</loc>
+    <loc>https://lmdavalos.github.io/tag/path-wise-rates/</loc>
     <lastmod>2018-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/specialisation/</loc>
+    <loc>https://lmdavalos.github.io/tag/specialisation/</loc>
     <lastmod>2018-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/speciation/</loc>
+    <loc>https://lmdavalos.github.io/tag/speciation/</loc>
     <lastmod>2018-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/variable-rates-model/</loc>
+    <loc>https://lmdavalos.github.io/tag/variable-rates-model/</loc>
     <lastmod>2018-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/authors/bthe-earth-microbiome-project-consortium/b/</loc>
-    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2239,253 +1945,211 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/aaron-clauset/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/amnon-amir/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/antonio-gonz%C3%A1lez/</loc>
+    <loc>https://lmdavalos.github.io/authors/antonio-gonzalez/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/anupriya-tripathi/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/ashley-shade/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/colin-j.-brislawn/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/daniel-mcdonald/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/donna-berg-lyons/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/evguenia-kopylova/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/gail-ackermann/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/gregory-humphrey/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/jack-a.-gilbert/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/jad-kanbar/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/james-t.-morton/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/janet-k.-jansson/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/jarrad-hampton-marcell/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/jed-a.-fuhrman/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/jon-g.-sanders/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/jose-a.-navas-molina/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/joshua-ladau/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/joshua-lefler/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/katherine-s.-pollard/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/kelly-d.-goodwin/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/kenneth-j.-locey/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/lingjing-jiang/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/luke-r.-thompson/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/mohamed-f.-haroon/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/nicholas-a.-bokulich/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/noah-fierer/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/qiyun-zhu/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/rick-l.-stevens/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/rob-knight/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/robert-j.-prill/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/sarah-m.-owens/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/se-jin-song/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/sean-m.-gibbons/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/siavash-mirarab/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/stefan-janssen/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/tomasz-kosciolek/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/valerie-mckenzie/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/yoshiki-v%C3%A1zquez-baeza/</loc>
+    <loc>https://lmdavalos.github.io/authors/yoshiki-vazquez-baeza/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/zhenjiang-zech-xu/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2494,74 +2158,63 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/holocene/</loc>
+    <loc>https://lmdavalos.github.io/tag/extinction/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/holocene/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/megafauna/</loc>
+    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/nathan-s.-upham/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/quaternary/</loc>
+    <loc>https://lmdavalos.github.io/tag/quaternary/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/samuel-t.-turvey/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/siobh%C3%A1n-b.-cooke/</loc>
+    <loc>https://lmdavalos.github.io/authors/siobhan-b.-cooke/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/extinction/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/megafauna/</loc>
-    <lastmod>2017-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/tag/error-rates/</loc>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/kristjan-d.-mets/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/posterior-predictive-check/</loc>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/spatial-autocorrelation/</loc>
+    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/publication/journal_spatial_autocorrelation_reduces/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/error-rates/</loc>
-    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/posterior-predictive-check/</loc>
-    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/spatial-autocorrelation/</loc>
-    <lastmod>2017-05-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2572,7 +2225,11 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/cerian-gibbes/</loc>
     <lastmod>2017-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/edge/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2581,45 +2238,38 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/jes%C3%BAs-a.-anaya/</loc>
+    <loc>https://lmdavalos.github.io/authors/jesus-a.-anaya/</loc>
     <lastmod>2017-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/modis/</loc>
+    <loc>https://lmdavalos.github.io/tag/modis/</loc>
     <lastmod>2017-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/edge/</loc>
+    <loc>https://lmdavalos.github.io/tag/monitoring/</loc>
     <lastmod>2017-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/monitoring/</loc>
-    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/christina-giordano/</loc>
     <lastmod>2017-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/dollos-law/</loc>
+    <loc>https://lmdavalos.github.io/tag/dollos-law/</loc>
     <lastmod>2017-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/purifying-selection/</loc>
+    <lastmod>2017-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/ramatu-abubakar/</loc>
     <lastmod>2017-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2628,27 +2278,23 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/purifying-selection/</loc>
-    <lastmod>2017-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/tag/island-biogeography/</loc>
+    <lastmod>2017-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/luis-valente/</loc>
     <lastmod>2017-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/neotropics/</loc>
+    <loc>https://lmdavalos.github.io/tag/neotropics/</loc>
     <lastmod>2017-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/rampal-s.-etienne/</loc>
     <lastmod>2017-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2657,9 +2303,8 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/island-biogeography/</loc>
-    <lastmod>2017-01-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/tag/alternative-development/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2668,21 +2313,13 @@
   </url>
   
   <url>
+    <loc>https://lmdavalos.github.io/tag/illegal-drugs/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmdavalos.github.io/authors/karina-m.-sanchez/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/alternative-development/</loc>
-    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/illegal-drugs/</loc>
-    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2691,87 +2328,78 @@
   </url>
   
   <url>
+    <loc>https://lmdavalos.github.io/publication-type/4/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmdavalos.github.io/authors/angelica-duran-martinez/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/anja-korenblik/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/antoine-vella/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/chlo%C3%A9-carpentier/</loc>
+    <loc>https://lmdavalos.github.io/authors/chloe-carpentier/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/clinton-w.-saloga/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/coen-bussink/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/david-macdonald/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/freya-vander-laenen/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/justice-tettey/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/kamran-niaz/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/martin-raithelhuber/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/natascha-eichinger/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/phillip-davis/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/sabrina-levissianos/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2782,31 +2410,31 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/thomas-pietschmann/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/united-nations/</loc>
+    <loc>https://lmdavalos.github.io/tag/united-nations/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/chiroptera/</loc>
+    <loc>https://lmdavalos.github.io/tag/chiroptera/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/harp-trap/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/jeanette-mateo/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/natalidae/</loc>
+    <loc>https://lmdavalos.github.io/tag/natalidae/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2815,21 +2443,23 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/harp-trap/</loc>
+    <loc>https://lmdavalos.github.io/tag/wet-and-dry-season/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/wet-and-dry-season/</loc>
-    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/tag/calibration/</loc>
+    <lastmod>2016-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/chronogram/</loc>
+    <lastmod>2016-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/james-p.-herrera/</loc>
     <lastmod>2016-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2838,38 +2468,13 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/calibration/</loc>
+    <loc>https://lmdavalos.github.io/tag/primatology/</loc>
     <lastmod>2016-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/chronogram/</loc>
+    <loc>https://lmdavalos.github.io/tag/total-evidence/</loc>
     <lastmod>2016-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/primatology/</loc>
-    <lastmod>2016-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/total-evidence/</loc>
-    <lastmod>2016-04-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2878,9 +2483,8 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/geographic-range-evolution/</loc>
+    <loc>https://lmdavalos.github.io/tag/geographic-range-evolution/</loc>
     <lastmod>2016-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2891,25 +2495,21 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/beth-e.-gerstner/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/la-venta/</loc>
+    <loc>https://lmdavalos.github.io/tag/la-venta/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/palynephyllum/</loc>
+    <loc>https://lmdavalos.github.io/tag/nectarivory/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/nectarivory/</loc>
+    <loc>https://lmdavalos.github.io/tag/palynephyllum/</loc>
     <lastmod>2015-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2918,45 +2518,48 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/andean-forest/</loc>
+    <loc>https://lmdavalos.github.io/tag/andean-forest/</loc>
     <lastmod>2015-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/direct-factors/</loc>
+    <lastmod>2015-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/jorge-molina/</loc>
     <lastmod>2015-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/maria-alejandra-chadid/</loc>
     <lastmod>2015-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/san-lucas/</loc>
+    <loc>https://lmdavalos.github.io/tag/san-lucas/</loc>
     <lastmod>2015-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/direct-factors/</loc>
+    <loc>https://lmdavalos.github.io/tag/underlying-factors/</loc>
     <lastmod>2015-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/underlying-factors/</loc>
-    <lastmod>2015-10-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/authors/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/alex-c.c.-wilson/</loc>
     <lastmod>2015-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2965,39 +2568,33 @@
   </url>
   
   <url>
+    <loc>https://lmdavalos.github.io/tag/aphid/</loc>
+    <lastmod>2015-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/endosymbiosis/</loc>
+    <lastmod>2015-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmdavalos.github.io/authors/rebecca-p.-duncan/</loc>
     <lastmod>2015-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/romain-a.-dahan/</loc>
     <lastmod>2015-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/aphid/</loc>
-    <lastmod>2015-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/endosymbiosis/</loc>
-    <lastmod>2015-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/alynn-martin/</loc>
     <lastmod>2015-03-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/amy-russell/</loc>
     <lastmod>2015-03-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3008,7 +2605,6 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/megan-woller-skar/</loc>
     <lastmod>2015-03-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3019,13 +2615,16 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/christopher-g.-faulkes/</loc>
     <lastmod>2014-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/georgia-tsagkogeorga/</loc>
     <lastmod>2014-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/mole-rats/</loc>
+    <lastmod>2014-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3036,19 +2635,11 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/nigel-c.-bennett/</loc>
     <lastmod>2014-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/mole-rats/</loc>
+    <loc>https://lmdavalos.github.io/tag/transmembrane-domains/</loc>
     <lastmod>2014-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/transmembrane-domains/</loc>
-    <lastmod>2014-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3057,38 +2648,38 @@
   </url>
   
   <url>
+    <loc>https://lmdavalos.github.io/tag/barcoding/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/distance-methods/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/mitochondrial-dna/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/monophyly/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmdavalos.github.io/publication/journal_sex_biased_dispersal_produces/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/barcoding/</loc>
+    <loc>https://lmdavalos.github.io/tag/species-delimitation/</loc>
     <lastmod>2014-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/distance-methods/</loc>
-    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/mitochondrial-dna/</loc>
-    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/monophyly/</loc>
-    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/species-delimitation/</loc>
-    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/tag/dentition/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3097,45 +2688,33 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/notonycteris/</loc>
+    <loc>https://lmdavalos.github.io/tag/morphology/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/notonycteris/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/peter-d.-smits/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/dentition/</loc>
+    <loc>https://lmdavalos.github.io/tag/saturation/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/morphology/</loc>
+    <loc>https://lmdavalos.github.io/tag/scaffold/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/saturation/</loc>
+    <loc>https://lmdavalos.github.io/tag/systematic-error/</loc>
     <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/scaffold/</loc>
-    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/systematic-error/</loc>
-    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3144,9 +2723,13 @@
   </url>
   
   <url>
+    <loc>https://lmdavalos.github.io/tag/bacteriocyte/</loc>
+    <lastmod>2014-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmdavalos.github.io/authors/donald-g.-gilbert/</loc>
     <lastmod>2014-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3157,43 +2740,36 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/filip-husnik/</loc>
     <lastmod>2014-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/functional-evolution/</loc>
+    <lastmod>2014-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/james-t.-van-leuven/</loc>
     <lastmod>2014-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/john-p.-mccutcheon/</loc>
     <lastmod>2014-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/bacteriocyte/</loc>
+    <loc>https://lmdavalos.github.io/tag/mealybug/</loc>
     <lastmod>2014-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/functional-evolution/</loc>
+    <loc>https://lmdavalos.github.io/tag/sap-feeding-insect/</loc>
     <lastmod>2014-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/mealybug/</loc>
-    <lastmod>2014-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/sap-feeding-insect/</loc>
-    <lastmod>2014-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/tag/cattle-ranching/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3202,33 +2778,23 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/nelly-rodr%C3%ADguez/</loc>
+    <loc>https://lmdavalos.github.io/tag/hamburger-connection/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/cattle-ranching/</loc>
+    <loc>https://lmdavalos.github.io/tag/land-as-wealth/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/hamburger-connection/</loc>
+    <loc>https://lmdavalos.github.io/tag/livestock/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/land-as-wealth/</loc>
+    <loc>https://lmdavalos.github.io/authors/nelly-rodriguez/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/livestock/</loc>
-    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3239,37 +2805,46 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/alisha-goodbla/</loc>
     <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/brandon-baird/</loc>
     <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/feeding-biomechanics/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/finite-element-analysis/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/ian-grosse/</loc>
     <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/krishna-samadevam/</loc>
     <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/micha%C3%ABl-bekaert/</loc>
+    <loc>https://lmdavalos.github.io/authors/michael-bekaert/</loc>
     <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/phylogenetic-anova/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/sara-hayden/</loc>
     <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3278,51 +2853,38 @@
   </url>
   
   <url>
+    <loc>https://lmdavalos.github.io/tag/theoretical-shape/</loc>
+    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmdavalos.github.io/authors/william-j.-murphy/</loc>
     <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/feeding-biomechanics/</loc>
-    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/publication-type/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/finite-element-analysis/</loc>
-    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/phylogenetic-anova/</loc>
-    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/theoretical-shape/</loc>
-    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/adam-c.-algar/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/alexandre-antonelli/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/alycia-l.-stigall/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3333,109 +2895,101 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/antoine-guisan/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/community-assembly/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/daniel-g.-gavin/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/ecological-genetics/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/edward-davis/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/functional-diversity/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/jean-philippe-lessard/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/jenny-mcguire/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/marske-a.-katharine/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/michael-n.-dawson/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/multi-temporal-explanations/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/nathan-g.-swenson/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/niklaus-zimmermann/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/phylogeography/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/regan-early/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/roland-jansson/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/community-assembly/</loc>
+    <loc>https://lmdavalos.github.io/tag/species-distribution-modeling/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/ecological-genetics/</loc>
+    <loc>https://lmdavalos.github.io/tag/synthesis/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/functional-diversity/</loc>
-    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/tag/climate-change/</loc>
+    <lastmod>2012-11-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/multi-temporal-explanations/</loc>
-    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/phylogeography/</loc>
-    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/species-distribution-modeling/</loc>
-    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/synthesis/</loc>
-    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/tag/deglaciation/</loc>
+    <lastmod>2012-11-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3444,33 +2998,18 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/climate-change/</loc>
+    <loc>https://lmdavalos.github.io/tag/glaciation/</loc>
     <lastmod>2012-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/deglaciation/</loc>
+    <loc>https://lmdavalos.github.io/tag/sea-level-rise/</loc>
     <lastmod>2012-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/glaciation/</loc>
+    <loc>https://lmdavalos.github.io/tag/species-area-relationship/</loc>
     <lastmod>2012-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/sea-level-rise/</loc>
-    <lastmod>2012-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/species-area-relationship/</loc>
-    <lastmod>2012-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3481,19 +3020,36 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/thomas-donegan/</loc>
     <lastmod>2012-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/andrea-l.-cirranello/</loc>
     <lastmod>2012-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/gene-trees/</loc>
+    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/incongruence/</loc>
+    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/jonathan-h.-geisler/</loc>
     <lastmod>2012-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/partitioned-likelihood-support/</loc>
+    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/species-trees/</loc>
+    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3502,33 +3058,18 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/gene-trees/</loc>
-    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/incongruence/</loc>
-    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/partitioned-likelihood-support/</loc>
-    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/species-trees/</loc>
-    <lastmod>2012-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/authors/antonius-k%C3%B6ller/</loc>
+    <loc>https://lmdavalos.github.io/tag/ancient-dna/</loc>
     <lastmod>2012-07-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/ancient-proteins/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/authors/antonius-koller/</loc>
+    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3539,49 +3080,31 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/dwight-w.-martin/</loc>
     <lastmod>2012-07-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/emily-i.-chen/</loc>
     <lastmod>2012-07-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/gabriella-recagno/</loc>
     <lastmod>2012-07-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/inca/</loc>
+    <loc>https://lmdavalos.github.io/tag/inca/</loc>
     <lastmod>2012-07-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/mario-bernaski/</loc>
     <lastmod>2012-07-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/robert-rieger/</loc>
     <lastmod>2012-07-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/ancient-dna/</loc>
-    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/ancient-proteins/</loc>
-    <lastmod>2012-07-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3592,25 +3115,26 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/aaron-goldberg/</loc>
     <lastmod>2011-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/christian-c.-voigt/</loc>
     <lastmod>2011-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/katja-rex/</loc>
     <lastmod>2011-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/liliana-m.-d%C3%A1valos/</loc>
+    <loc>https://lmdavalos.github.io/authors/liliana-m.-davalos/</loc>
     <lastmod>2011-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/morphological-innovation/</loc>
+    <lastmod>2011-11-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3621,19 +3145,21 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/sharlene-e.-santana/</loc>
     <lastmod>2011-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/morphological-innovation/</loc>
-    <lastmod>2011-11-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/authors/andr%C3%A9-levy/</loc>
+    <loc>https://lmdavalos.github.io/authors/andre-levy/</loc>
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/angiosperm/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/complex-leaves/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3644,85 +3170,61 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/klaus-mummenhoff/</loc>
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/lynn-bohs/</loc>
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/martin-f.-wojciechowski/</loc>
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/mathew-lavin/</loc>
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/maximum-likelihood-models/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/neelima-sinha/</loc>
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/r.-geeta/</loc>
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/angiosperm/</loc>
+    <loc>https://lmdavalos.github.io/tag/rate-of-evolution/</loc>
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/complex-leaves/</loc>
+    <loc>https://lmdavalos.github.io/tag/reversal/</loc>
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/maximum-likelihood-models/</loc>
+    <loc>https://lmdavalos.github.io/tag/simple-leaves/</loc>
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/rate-of-evolution/</loc>
+    <loc>https://lmdavalos.github.io/tag/stasis/</loc>
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/reversal/</loc>
-    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/simple-leaves/</loc>
-    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/stasis/</loc>
-    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/adriana-c.-bejarano/</loc>
     <lastmod>2011-01-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3733,31 +3235,31 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/h.-leonardo-correa/</loc>
     <lastmod>2011-01-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/mark-a.-hall/</loc>
     <lastmod>2011-01-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/oscar-j.-espejo/</loc>
     <lastmod>2011-01-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/publication-type/0/</loc>
+    <lastmod>2010-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/claudia-romero/</loc>
     <lastmod>2010-12-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/dolores-armenteras/</loc>
     <lastmod>2010-12-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3766,21 +3268,33 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/john-garc%C3%ADa/</loc>
+    <loc>https://lmdavalos.github.io/authors/john-garcia/</loc>
     <lastmod>2010-12-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/m%C3%B3nica-castro/</loc>
+    <loc>https://lmdavalos.github.io/authors/monica-castro/</loc>
     <lastmod>2010-12-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/connectivity/</loc>
+    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/miguel-pinedo-vasquez/</loc>
     <lastmod>2010-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/refugia/</loc>
+    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/river-refuge/</loc>
+    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3789,27 +3303,8 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/connectivity/</loc>
-    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/refugia/</loc>
-    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/river-refuge/</loc>
-    <lastmod>2010-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/brachyphylla/</loc>
+    <loc>https://lmdavalos.github.io/tag/brachyphylla/</loc>
     <lastmod>2010-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3818,15 +3313,13 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/gaarlandia/</loc>
+    <loc>https://lmdavalos.github.io/tag/gaarlandia/</loc>
     <lastmod>2010-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/systematics/</loc>
+    <loc>https://lmdavalos.github.io/tag/systematics/</loc>
     <lastmod>2010-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3835,21 +3328,18 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/environmental-degradation/</loc>
+    <loc>https://lmdavalos.github.io/tag/environmental-degradation/</loc>
     <lastmod>2009-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/globalisation/</loc>
+    <loc>https://lmdavalos.github.io/tag/globalisation/</loc>
     <lastmod>2009-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/social-crisis/</loc>
+    <loc>https://lmdavalos.github.io/tag/social-crisis/</loc>
     <lastmod>2009-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3860,31 +3350,26 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/ana-luz-porzecanski/</loc>
     <lastmod>2009-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/dna-barcoding/</loc>
+    <loc>https://lmdavalos.github.io/tag/dna-barcoding/</loc>
     <lastmod>2009-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/parametric-bootstrap/</loc>
+    <loc>https://lmdavalos.github.io/tag/parametric-bootstrap/</loc>
     <lastmod>2009-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/tree-comparisons/</loc>
+    <loc>https://lmdavalos.github.io/tag/tree-comparisons/</loc>
     <lastmod>2009-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/two-prior-on-branch-lengths-model/</loc>
+    <loc>https://lmdavalos.github.io/tag/two-prior-on-branch-lengths-model/</loc>
     <lastmod>2009-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3895,31 +3380,26 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/angelique-corthals/</loc>
     <lastmod>2008-12-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/cordillera-oriental/</loc>
+    <loc>https://lmdavalos.github.io/tag/cordillera-oriental/</loc>
     <lastmod>2008-12-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/east-andes/</loc>
+    <loc>https://lmdavalos.github.io/tag/east-andes/</loc>
     <lastmod>2008-12-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/lonchophylla/</loc>
+    <loc>https://lmdavalos.github.io/tag/lonchophylla/</loc>
     <lastmod>2008-12-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/lonchophyllinae/</loc>
+    <loc>https://lmdavalos.github.io/tag/lonchophyllinae/</loc>
     <lastmod>2008-12-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3928,33 +3408,28 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/venezuela/</loc>
+    <loc>https://lmdavalos.github.io/tag/species-description/</loc>
     <lastmod>2008-12-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/species-description/</loc>
+    <loc>https://lmdavalos.github.io/tag/venezuela/</loc>
     <lastmod>2008-12-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/apicomplexa/</loc>
+    <loc>https://lmdavalos.github.io/tag/apicomplexa/</loc>
     <lastmod>2008-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/nonhomogeneous-molecular-evolution/</loc>
+    <loc>https://lmdavalos.github.io/tag/nonhomogeneous-molecular-evolution/</loc>
     <lastmod>2008-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/protozoan-genome/</loc>
+    <loc>https://lmdavalos.github.io/tag/protozoan-genome/</loc>
     <lastmod>2008-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3968,14 +3443,28 @@
   </url>
   
   <url>
+    <loc>https://lmdavalos.github.io/tag/mitochondrial/</loc>
+    <lastmod>2007-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmdavalos.github.io/publication/journal_short_faced_bats/</loc>
     <lastmod>2007-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/mitochondrial/</loc>
-    <lastmod>2007-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/tag/armed-group/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/crime-prevention/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/environmental-damage/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -3984,51 +3473,33 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/mar%C3%ADa-d.-%C3%A1lvarez/</loc>
+    <loc>https://lmdavalos.github.io/authors/maria-d.-alvarez/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/armed-group/</loc>
-    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/crime-prevention/</loc>
-    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/environmental-damage/</loc>
-    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/mormoops/</loc>
+    <loc>https://lmdavalos.github.io/tag/dispersal-vicariance-analysis/</loc>
     <lastmod>2006-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/pteronotus-fulvus/</loc>
+    <loc>https://lmdavalos.github.io/tag/mormoops/</loc>
     <lastmod>2006-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/pteronotus-psilotis/</loc>
+    <loc>https://lmdavalos.github.io/tag/pteronotus-fulvus/</loc>
     <lastmod>2006-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/pteronotus-rubiginosus/</loc>
+    <loc>https://lmdavalos.github.io/tag/pteronotus-psilotis/</loc>
     <lastmod>2006-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/pteronotus-rubiginosus/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -4037,21 +3508,13 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/dispersal-vicariance-analysis/</loc>
-    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/escherichia-coli/</loc>
+    <loc>https://lmdavalos.github.io/tag/escherichia-coli/</loc>
     <lastmod>2006-03-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/howard-ochman/</loc>
     <lastmod>2006-03-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4060,21 +3523,18 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/chilonatalus/</loc>
+    <loc>https://lmdavalos.github.io/tag/chilonatalus/</loc>
     <lastmod>2005-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/cytochrome-b/</loc>
+    <loc>https://lmdavalos.github.io/tag/cytochrome-b/</loc>
     <lastmod>2005-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/event-based-biogeography/</loc>
+    <loc>https://lmdavalos.github.io/tag/event-based-biogeography/</loc>
     <lastmod>2005-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4083,45 +3543,48 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/natalus/</loc>
+    <loc>https://lmdavalos.github.io/tag/natalus/</loc>
     <lastmod>2005-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/nyctiellus/</loc>
+    <loc>https://lmdavalos.github.io/tag/nyctiellus/</loc>
     <lastmod>2005-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/rag2/</loc>
+    <loc>https://lmdavalos.github.io/tag/rag2/</loc>
     <lastmod>2005-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/species-limits/</loc>
+    <loc>https://lmdavalos.github.io/tag/species-limits/</loc>
     <lastmod>2005-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/aves/</loc>
+    <loc>https://lmdavalos.github.io/tag/aves/</loc>
     <lastmod>2005-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/birds/</loc>
+    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/blanca-leon/</loc>
     <lastmod>2005-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/ecuador/</loc>
+    <loc>https://lmdavalos.github.io/tag/conservation-prioritization/</loc>
     <lastmod>2005-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/ecuador/</loc>
+    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -4130,33 +3593,13 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/jon-fjelds%C3%A5/</loc>
+    <loc>https://lmdavalos.github.io/authors/jon-fjeldsa/</loc>
     <lastmod>2005-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/juan-m.-lazcano/</loc>
     <lastmod>2005-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/authors/maria-d.-alvarez/</loc>
-    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/birds/</loc>
-    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/conservation-prioritization/</loc>
-    <lastmod>2005-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4175,15 +3618,13 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/puerto-rico/</loc>
+    <loc>https://lmdavalos.github.io/tag/puerto-rico/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/bryan-c.-carstens/</loc>
     <lastmod>2004-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4192,45 +3633,43 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/john-j.-sullivan/</loc>
+    <loc>https://lmdavalos.github.io/tag/genetic-structure/</loc>
     <lastmod>2004-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/lesser-antilles/</loc>
+    <loc>https://lmdavalos.github.io/tag/geographic-isolation/</loc>
     <lastmod>2004-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/authors/john-j.-sullivan/</loc>
+    <lastmod>2004-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/lesser-antilles/</loc>
+    <lastmod>2004-08-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/peter-a.-larsen/</loc>
     <lastmod>2004-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/scott-c.-pedersen/</loc>
     <lastmod>2004-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/genetic-structure/</loc>
-    <lastmod>2004-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/geographic-isolation/</loc>
-    <lastmod>2004-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/lionycteris/</loc>
+    <loc>https://lmdavalos.github.io/tag/archival-dna/</loc>
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/lionycteris/</loc>
+    <lastmod>2004-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -4239,21 +3678,13 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/platalina/</loc>
+    <loc>https://lmdavalos.github.io/tag/platalina/</loc>
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/sharon-a.-jansa/</loc>
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/archival-dna/</loc>
-    <lastmod>2004-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4262,20 +3693,18 @@
   </url>
   
   <url>
+    <loc>https://lmdavalos.github.io/tag/ground-sloths/</loc>
+    <lastmod>2004-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/hutia/</loc>
+    <lastmod>2004-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmdavalos.github.io/publication/journal_phylogeny_and_biogeography_caribbean/</loc>
     <lastmod>2004-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/ground-sloths/</loc>
-    <lastmod>2004-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/hutia/</loc>
-    <lastmod>2004-03-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4284,9 +3713,13 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/choc%C3%B3/</loc>
+    <loc>https://lmdavalos.github.io/tag/choco/</loc>
     <lastmod>2004-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/biodiversity-surveys/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -4295,21 +3728,13 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/jamaica/</loc>
+    <loc>https://lmdavalos.github.io/tag/jamaica/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/rebecka-eriksson/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/biodiversity-surveys/</loc>
-    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4318,27 +3743,48 @@
   </url>
   
   <url>
+    <loc>https://lmdavalos.github.io/tag/sampling-bias/</loc>
+    <lastmod>2003-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/sub-sharan-africa/</loc>
+    <lastmod>2003-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lmdavalos.github.io/authors/sushma-reddy/</loc>
     <lastmod>2003-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/sampling-bias/</loc>
-    <lastmod>2003-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/sub-sharan-africa/</loc>
-    <lastmod>2003-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/erythroxylum/</loc>
+    <loc>https://lmdavalos.github.io/tag/drug-trafficking/</loc>
     <lastmod>2003-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/economic-incentives/</loc>
+    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/erythroxylum/</loc>
+    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/forest-conservation/</loc>
+    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/forest-fragmentation/</loc>
+    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/forest-policy/</loc>
+    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -4347,123 +3793,78 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/drug-trafficking/</loc>
+    <loc>https://lmdavalos.github.io/tag/paramilitaries/</loc>
     <lastmod>2003-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/economic-incentives/</loc>
+    <loc>https://lmdavalos.github.io/tag/violence/</loc>
     <lastmod>2003-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/forest-conservation/</loc>
+    <loc>https://lmdavalos.github.io/tag/war/</loc>
     <lastmod>2003-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/forest-fragmentation/</loc>
-    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/forest-policy/</loc>
-    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/paramilitaries/</loc>
-    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/violence/</loc>
-    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/war/</loc>
-    <lastmod>2003-10-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/andean-pact/</loc>
+    <loc>https://lmdavalos.github.io/tag/andean-pact/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/benjamin-l.-simmons/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/bioprospecting/</loc>
+    <loc>https://lmdavalos.github.io/tag/bioprospecting/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/brazil/</loc>
+    <loc>https://lmdavalos.github.io/tag/brazil/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/convention-on-biological-diversity/</loc>
+    <loc>https://lmdavalos.github.io/tag/convention-on-biological-diversity/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/genetic-resources/</loc>
+    <loc>https://lmdavalos.github.io/tag/genetic-resources/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/gleb-raygorodetsky/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/hugh-cross/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/international-environmental-law/</loc>
+    <loc>https://lmdavalos.github.io/tag/international-environmental-law/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/legislation/</loc>
+    <loc>https://lmdavalos.github.io/tag/legislation/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/louis-putzel/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/philippines/</loc>
+    <loc>https://lmdavalos.github.io/tag/philippines/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4474,29 +3875,30 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/robin-r.-sears/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/taran-grant/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/tonya-barnes/</loc>
     <lastmod>2003-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/ariteus/</loc>
+    <loc>https://lmdavalos.github.io/tag/ariteus/</loc>
     <lastmod>2003-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/publication/journal_forests_in_the_time_of_violence/</loc>
+    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/gunpoint-conservation/</loc>
     <lastmod>2003-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -4506,15 +3908,8 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/gunpoint-conservation/</loc>
+    <loc>https://lmdavalos.github.io/tag/violence-syndrome/</loc>
     <lastmod>2003-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/violence-syndrome/</loc>
-    <lastmod>2003-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4523,9 +3918,8 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/protected-areas/</loc>
+    <loc>https://lmdavalos.github.io/tag/protected-areas/</loc>
     <lastmod>2002-08-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4534,15 +3928,8 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/gon%C3%A7alo-ferraz/</loc>
+    <loc>https://lmdavalos.github.io/authors/goncalo-ferraz/</loc>
     <lastmod>2001-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/authors/maria-d.-%C3%A1lvarez/</loc>
-    <lastmod>2001-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4551,63 +3938,63 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/multinational-corporations/</loc>
+    <loc>https://lmdavalos.github.io/tag/multinational-corporations/</loc>
     <lastmod>2001-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/bubulcus-ibis/</loc>
+    <loc>https://lmdavalos.github.io/tag/bubulcus-ibis/</loc>
     <lastmod>2001-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/corvus-leucognaphalus/</loc>
+    <loc>https://lmdavalos.github.io/tag/corvus-leucognaphalus/</loc>
     <lastmod>2001-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/egretta-thula/</loc>
+    <loc>https://lmdavalos.github.io/tag/egretta-thula/</loc>
     <lastmod>2001-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/faunal-list-update/</loc>
+    <loc>https://lmdavalos.github.io/tag/faunal-list-update/</loc>
     <lastmod>2001-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/first-faunal-account/</loc>
+    <loc>https://lmdavalos.github.io/tag/first-faunal-account/</loc>
     <lastmod>2001-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/haiti/</loc>
+    <loc>https://lmdavalos.github.io/tag/haiti/</loc>
     <lastmod>2001-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/icterus-dominicensis/</loc>
+    <loc>https://lmdavalos.github.io/tag/icterus-dominicensis/</loc>
     <lastmod>2001-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/ile-a-vache/</loc>
+    <loc>https://lmdavalos.github.io/tag/ile-a-vache/</loc>
     <lastmod>2001-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/nycticorax-nycticorax/</loc>
+    <loc>https://lmdavalos.github.io/tag/nature-reserve/</loc>
     <lastmod>2001-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/new-records-and-recent-extirpations/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/nycticorax-nycticorax/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -4623,19 +4010,6 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/thomas-brooks/</loc>
     <lastmod>2001-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/nature-reserve/</loc>
-    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tags/new-records-and-recent-extirpations/</loc>
-    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4645,6 +4019,11 @@
   
   <url>
     <loc>https://lmdavalos.github.io/publication/misc_forests_under_fire/</loc>
+    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/gold-mining/</loc>
     <lastmod>2001-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -4659,12 +4038,6 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/gold-mining/</loc>
-    <lastmod>2001-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://lmdavalos.github.io/publication/misc_la_perspectiva_ambiental/</loc>
     <lastmod>2000-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -4675,9 +4048,8 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/cauca/</loc>
+    <loc>https://lmdavalos.github.io/tag/cauca/</loc>
     <lastmod>1999-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4686,15 +4058,13 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/tambito/</loc>
+    <loc>https://lmdavalos.github.io/tag/tambito/</loc>
     <lastmod>1999-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/jimmy-a.-guerrero/</loc>
     <lastmod>1999-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4710,31 +4080,26 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/pamela-chasek/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/robin-sears/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/acoustic-signals/</loc>
+    <loc>https://lmdavalos.github.io/tag/acoustic-signals/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/andr%C3%A9s-m.-cuervo/</loc>
+    <loc>https://lmdavalos.github.io/authors/andres-m.-cuervo/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/atlapetes-leucopis/</loc>
+    <loc>https://lmdavalos.github.io/tag/atlapetes-leucopis/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4745,67 +4110,56 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/daniel-e.-davison/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/emberizidae/</loc>
+    <loc>https://lmdavalos.github.io/tag/emberizidae/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/guy-m.-kirwan/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/nest-structure-and-egg-laying/</loc>
+    <loc>https://lmdavalos.github.io/tag/nest-structure-and-egg-laying/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/passeriformes/</loc>
+    <loc>https://lmdavalos.github.io/tag/passeriformes/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/paul-g.-salaman/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/authors/paul-salaman/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/putumayo-department/</loc>
+    <loc>https://lmdavalos.github.io/tag/putumayo-department/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/reproductive-behaviour/</loc>
+    <loc>https://lmdavalos.github.io/tag/reproductive-behaviour/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/song-characteristics/</loc>
+    <loc>https://lmdavalos.github.io/tag/song-characteristics/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/song-characteristics-and-reproductive-behaviour/</loc>
+    <loc>https://lmdavalos.github.io/tag/song-characteristics-and-reproductive-behaviour/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4816,7 +4170,11 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/thomas-m.-donegan/</loc>
     <lastmod>1998-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/hoja-blanca/</loc>
+    <lastmod>1997-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -4825,45 +4183,42 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/rflp/</loc>
+    <loc>https://lmdavalos.github.io/tag/rflp/</loc>
     <lastmod>1997-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/hoja-blanca/</loc>
+    <loc>https://lmdavalos.github.io/tag/rice/</loc>
     <lastmod>1997-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/rice/</loc>
+    <loc>https://lmdavalos.github.io/tag/virus-resistance/</loc>
     <lastmod>1997-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/tags/virus-resistance/</loc>
-    <lastmod>1997-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/admin/_index-2/</loc>
+    <loc>https://lmdavalos.github.io/people_orig/</loc>
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/</loc>
-    <priority>0</priority>
+    <loc>https://lmdavalos.github.io/authors/bthe-earth-microbiome-project-consortium/b/</loc>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lmdavalos.github.io/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/tag/dn/ds/</loc>
   </url>
   
   <url>

@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alexandre Antonelli on Dávalos Lab</title>
+    <title>Alexandre Antonelli | Dávalos Lab</title>
     <link>https://lmdavalos.github.io/authors/alexandre-antonelli/</link>
-    <description>Recent content in Alexandre Antonelli on Dávalos Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
-    <lastBuildDate>Tue, 02 Apr 2013 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://lmdavalos.github.io/authors/alexandre-antonelli/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://lmdavalos.github.io/authors/alexandre-antonelli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexandre Antonelli</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2020</copyright><lastBuildDate>Tue, 02 Apr 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/media/DSC00813</url>
+      <title>Alexandre Antonelli</title>
+      <link>https://lmdavalos.github.io/authors/alexandre-antonelli/</link>
+    </image>
     
     <item>
       <title>An horizon scan of biogeography</title>
       <link>https://lmdavalos.github.io/publication/journal_an_horizon_scan/</link>
       <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_an_horizon_scan/</guid>
       <description></description>
     </item>

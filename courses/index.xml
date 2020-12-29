@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Courses on Dávalos Lab</title>
+    <title>Courses | Dávalos Lab</title>
     <link>https://lmdavalos.github.io/courses/</link>
-    <description>Recent content in Courses on Dávalos Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
-    
-	    <atom:link href="https://lmdavalos.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://lmdavalos.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2020</copyright>
+    <image>
+      <url>https://lmdavalos.github.io/media/DSC00813</url>
+      <title>Courses</title>
+      <link>https://lmdavalos.github.io/courses/</link>
+    </image>
     
   </channel>
 </rss>

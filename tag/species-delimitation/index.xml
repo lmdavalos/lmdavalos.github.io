@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>species delimitation | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/tag/species-delimitation/</link>
+      <atom:link href="https://lmdavalos.github.io/tag/species-delimitation/index.xml" rel="self" type="application/rss+xml" />
+    <description>species delimitation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2020</copyright><lastBuildDate>Fri, 01 Aug 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/media/DSC00813</url>
+      <title>species delimitation</title>
+      <link>https://lmdavalos.github.io/tag/species-delimitation/</link>
+    </image>
+    
+    <item>
+      <title>Sex-biased dispersal produces high error rates in mitochondrial distance-based and tree-based species delimitation</title>
+      <link>https://lmdavalos.github.io/publication/journal_sex_biased_dispersal_produces/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_sex_biased_dispersal_produces/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

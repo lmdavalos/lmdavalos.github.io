@@ -3,20 +3,56 @@
   <channel>
     <title>Dávalos Lab</title>
     <link>https://lmdavalos.github.io/</link>
-    <description>Recent content on Dávalos Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; L. Dávalos 2019-present</copyright>
-    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
+      <atom:link href="https://lmdavalos.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dávalos Lab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2020</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/media/DSC00813</url>
+      <title>Dávalos Lab</title>
+      <link>https://lmdavalos.github.io/</link>
+    </image>
     
-	    <atom:link href="https://lmdavalos.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Event</title>
+      <link>https://lmdavalos.github.io/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
     
+    <item>
+      <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
+      <link>https://lmdavalos.github.io/post/20-12-02-icml-best-paper/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/post/20-12-02-icml-best-paper/</guid>
+      <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
+&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
+&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
+      <link>https://lmdavalos.github.io/post/20-12-01-wowchemy-prize/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/post/20-12-01-wowchemy-prize/</guid>
+      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
+&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
+&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Phyllostomid Bats: A unique Mammalian Radiation</title>
       <link>https://lmdavalos.github.io/publication/edited_books_phyllostomid_bats/</link>
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/edited_books_phyllostomid_bats/</guid>
       <description>&lt;p&gt;With over two-hundred species distributed across most of mainland Mexico, Central and South America, and islands in the Caribbean Sea, the Phyllostomidae bat family (American leaf-nosed bats) is one of the world’s most diverse mammalian families in terms of its trophic, or feeding, diversity. From an insectivorous ancestry, extant species have evolved into several dietary classes, including blood-feeding, vertebrate carnivory, and the consumption of nectar, pollen, and fruit, in a period of about 30 million years. Phyllostomid plant-visiting species are responsible for pollinating over five-hundred species of neotropical shrubs, trees, vines, and epiphytes—many of which are economically and ecologically important—and they also disperse the seeds of at least another five-hundred plant species. Fruit-eating and seed-dispersing members of this family thus play a crucial role in the regeneration of neotropical forests, and the fruit eaters are among the most abundant mammals in these habitats.
 Coauthored by leading experts in the field and synthesizing the latest advances in molecular biology and ecological methods, Phyllostomid Bats is the first overview in more than forty years of the evolution of the many morphological, behavioral, physiological, and ecological adaptations in this family. Featuring abundant illustrations as well as details on the current classification and conservation status of phyllostomid species, it is both a comprehensive reference for these ecologically vital mammals and a fascinating exploration of the evolutionary process of adaptive radiation.&lt;/p&gt;
@@ -27,7 +63,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Adapt or Live: Adaptation, Convergent Evolution, and Plesiomorphy</title>
       <link>https://lmdavalos.github.io/publication/book_section_adapt_live/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/book_section_adapt_live/</guid>
       <description></description>
     </item>
@@ -36,7 +71,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Overview of This Book</title>
       <link>https://lmdavalos.github.io/publication/book_section_overview_phyllostomids/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/book_section_overview_phyllostomids/</guid>
       <description></description>
     </item>
@@ -45,7 +79,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Phylogenetics and Historical Biogeography</title>
       <link>https://lmdavalos.github.io/publication/book_section_phylogenetics_historical_biogeography/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/book_section_phylogenetics_historical_biogeography/</guid>
       <description></description>
     </item>
@@ -54,7 +87,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Handbook of the Mammals of the World. Volume 9: Bats</title>
       <link>https://lmdavalos.github.io/publication/misc_handbook_mammals_world/</link>
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_handbook_mammals_world/</guid>
       <description></description>
     </item>
@@ -63,7 +95,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Six reference-quality genomes reveal evolution of bat adaptations</title>
       <link>https://lmdavalos.github.io/publication/journal_six_new_reference-quality_bat_genomes-/</link>
       <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_six_new_reference-quality_bat_genomes-/</guid>
       <description></description>
     </item>
@@ -72,7 +103,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Molecular adaptation and convergent evolution of frugivory in Old World and neotropical fruit bats</title>
       <link>https://lmdavalos.github.io/publication/journal_molecular_adaptation_and_convergent_evolution/</link>
       <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_molecular_adaptation_and_convergent_evolution/</guid>
       <description></description>
     </item>
@@ -81,7 +111,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Pandemics’ historical role in creating inequality</title>
       <link>https://lmdavalos.github.io/publication/misc_pandemics_historical_role/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_pandemics_historical_role/</guid>
       <description></description>
     </item>
@@ -90,17 +119,15 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Bat goblet cells as immuno-hotspots for infection of coronavirus</title>
       <link>https://lmdavalos.github.io/project/bat_goblet_cells/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/project/bat_goblet_cells/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immunological adaptations in bats to moderate the effect of coronavirus infection</title>
-      <link>https://lmdavalos.github.io/project/immunological_adaptations_in_bats-/</link>
+      <link>https://lmdavalos.github.io/project/immunological_adaptations_in_bats/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lmdavalos.github.io/project/immunological_adaptations_in_bats-/</guid>
+      <guid>https://lmdavalos.github.io/project/immunological_adaptations_in_bats/</guid>
       <description></description>
     </item>
     
@@ -108,7 +135,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Julie Micko</title>
       <link>https://lmdavalos.github.io/people/micko_julie/</link>
       <pubDate>Sun, 31 May 2020 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/micko_julie/</guid>
       <description></description>
     </item>
@@ -117,7 +143,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Inter-Species Modeling for Spillback/Spillover Avoidance</title>
       <link>https://lmdavalos.github.io/project/spillback/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/project/spillback/</guid>
       <description>&lt;p&gt;In support of RA Kristjan Mets. While scientific reaction to the COVID-19 pandemic has been swift, the risk of SARS-CoV-2 spilling back into native North American wildlife and feral domestic animals remains underexplored. Experimental infections of a variety of hosts, serological analyses of the cats in Wuhan, and cases of COVID-19 among tigers and lions in the Bronx Zoo, all have shown transmission back to wildlife and feral cats is highly probable. Tools are urgently needed to determine which of these animal populations are at greatest risk of establishing a native reservoir, and where the overlap with human populations is greatest. We propose to model the risk of spillover to animal populations and conversely the risk of future secondary spillover by combining models of molecular interaction between the virus and potential hosts, with multi- species Susceptible-Infectious-Recovered (SIR) models. Complementing decades of experience in vertebrate genomics (Dávalos) with expertise in epidemiology (Meliker), and spatial dynamics of wildlife disease (Mets), ours is the ideal team to quickly generate and test the necessary models to avert this risk.&lt;/p&gt;
 </description>
@@ -127,7 +152,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Foraging shifts and visual preadaptation in ecologically diverse bats</title>
       <link>https://lmdavalos.github.io/publication/journal_foraging_shifts_and_visual_preadaptation/</link>
       <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_foraging_shifts_and_visual_preadaptation/</guid>
       <description></description>
     </item>
@@ -136,7 +160,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Jessica Semel</title>
       <link>https://lmdavalos.github.io/people/semel_jessica/</link>
       <pubDate>Wed, 11 Mar 2020 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/semel_jessica/</guid>
       <description></description>
     </item>
@@ -145,7 +168,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>The allometry of daily energy expenditure in hummingbirds: an energy budget approach</title>
       <link>https://lmdavalos.github.io/publication/journal_allometry_of_daily_energy_expenditure/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_allometry_of_daily_energy_expenditure/</guid>
       <description></description>
     </item>
@@ -154,7 +176,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Species tree disequilibrium positively misleads models of gene family evolution</title>
       <link>https://lmdavalos.github.io/publication/preprint_species_tree_disequilibrium/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/preprint_species_tree_disequilibrium/</guid>
       <description></description>
     </item>
@@ -163,7 +184,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Curb land grabbing to save the Amazon</title>
       <link>https://lmdavalos.github.io/publication/misc_curb_land_grabbing_to_save_the_amazon/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_curb_land_grabbing_to_save_the_amazon/</guid>
       <description></description>
     </item>
@@ -172,7 +192,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Tissue Collection of Bats for-Omics Analyses and Primary Cell Culture</title>
       <link>https://lmdavalos.github.io/publication/journal_tissue_collection_of_bats_for-mics/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_tissue_collection_of_bats_for-mics/</guid>
       <description></description>
     </item>
@@ -181,7 +200,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Evaluating the performance of targeted sequence capture, RNA-Seq, and degenerate-primer PCR cloning for sequencing the largest mammalian multigene family</title>
       <link>https://lmdavalos.github.io/publication/journal_targeted_sequence_capture_outperforms/</link>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_targeted_sequence_capture_outperforms/</guid>
       <description></description>
     </item>
@@ -190,7 +208,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Social Investment and Smallholder Coca Cultivation in Colombia</title>
       <link>https://lmdavalos.github.io/publication/journal_social_investment_and_smallholder/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_social_investment_and_smallholder/</guid>
       <description></description>
     </item>
@@ -199,7 +216,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Expressed vomeronasal type-1 receptors (V1rs) in bats uncover conserved sequences underlying social chemical signaling</title>
       <link>https://lmdavalos.github.io/publication/journal_expressed_vomeronasal_type-1_receptors/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_expressed_vomeronasal_type-1_receptors/</guid>
       <description></description>
     </item>
@@ -208,7 +224,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Aaron Goldberg</title>
       <link>https://lmdavalos.github.io/people/goldberg_aaron/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/goldberg_aaron/</guid>
       <description></description>
     </item>
@@ -217,7 +232,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Alessondra Bruno</title>
       <link>https://lmdavalos.github.io/people/bruno_alessondra/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/bruno_alessondra/</guid>
       <description></description>
     </item>
@@ -226,7 +240,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Alex Lengers</title>
       <link>https://lmdavalos.github.io/people/lengers_alex/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/lengers_alex/</guid>
       <description></description>
     </item>
@@ -235,7 +248,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Alexis Brown</title>
       <link>https://lmdavalos.github.io/people/brown_alexis/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/brown_alexis/</guid>
       <description></description>
     </item>
@@ -244,7 +256,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Anna McPherran</title>
       <link>https://lmdavalos.github.io/people/mcpherran_anna/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/mcpherran_anna/</guid>
       <description></description>
     </item>
@@ -253,7 +264,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Anne Szeto</title>
       <link>https://lmdavalos.github.io/people/szeto_anne/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/szeto_anne/</guid>
       <description></description>
     </item>
@@ -262,7 +272,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Bhavana Patil</title>
       <link>https://lmdavalos.github.io/people/patil_bhavana/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/patil_bhavana/</guid>
       <description>&lt;!-- I am currently a premed sophomore studying biochemistry at Stony Brook. My research at the Davalos lab focuses on an MHC (M10.7) involved in the vomeronasal system, a system whose presence varies greatly in bats. My hopes are to find a correlation between a mutation in M10.7 and a lack of the vomeronasal organ; and its phylogenetic implications.  --&gt;
 </description>
@@ -272,7 +281,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Bonnie Lei</title>
       <link>https://lmdavalos.github.io/people/lei_bonnie/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/lei_bonnie/</guid>
       <description></description>
     </item>
@@ -281,7 +289,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Brandon Baird</title>
       <link>https://lmdavalos.github.io/people/baird_brandon/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/baird_brandon/</guid>
       <description></description>
     </item>
@@ -290,7 +297,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Cameron Morales</title>
       <link>https://lmdavalos.github.io/people/morales_cameron/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/morales_cameron/</guid>
       <description></description>
     </item>
@@ -299,7 +305,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Clara Tucker</title>
       <link>https://lmdavalos.github.io/people/tucker_clara/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/tucker_clara/</guid>
       <description></description>
     </item>
@@ -308,17 +313,7 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Courtney Cheng</title>
       <link>https://lmdavalos.github.io/people/cheng_courtney/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/cheng_courtney/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DJ Pantino</title>
-      <link>https://lmdavalos.github.io/people/pantino_dj/</link>
-      <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
-      <guid>https://lmdavalos.github.io/people/pantino_dj/</guid>
       <description></description>
     </item>
     
@@ -326,8 +321,15 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Danny Rojas</title>
       <link>https://lmdavalos.github.io/people/rojas_danny/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/rojas_danny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DJ Pantino</title>
+      <link>https://lmdavalos.github.io/people/pantino_dj/</link>
+      <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
+      <guid>https://lmdavalos.github.io/people/pantino_dj/</guid>
       <description></description>
     </item>
     
@@ -335,7 +337,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Edward Li</title>
       <link>https://lmdavalos.github.io/people/li_edward/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/li_edward/</guid>
       <description></description>
     </item>
@@ -344,7 +345,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Elise Lauterbur</title>
       <link>https://lmdavalos.github.io/people/lauterbur_elise/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/lauterbur_elise/</guid>
       <description></description>
     </item>
@@ -353,7 +353,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Elodia Caballero</title>
       <link>https://lmdavalos.github.io/people/caballero_elodia/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/caballero_elodia/</guid>
       <description></description>
     </item>
@@ -362,7 +361,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Emily Leung</title>
       <link>https://lmdavalos.github.io/people/leung_emily/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/leung_emily/</guid>
       <description></description>
     </item>
@@ -371,7 +369,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Fanny Cornejo</title>
       <link>https://lmdavalos.github.io/people/cornejo_fanny/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/cornejo_fanny/</guid>
       <description></description>
     </item>
@@ -380,7 +377,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Gabrielle Donnelly</title>
       <link>https://lmdavalos.github.io/people/donnelly_gabrielle/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/donnelly_gabrielle/</guid>
       <description></description>
     </item>
@@ -389,7 +385,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Genna Tudda</title>
       <link>https://lmdavalos.github.io/people/tudda_genna/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/tudda_genna/</guid>
       <description></description>
     </item>
@@ -398,7 +393,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Gregory Poterewicz</title>
       <link>https://lmdavalos.github.io/people/poterewicz_gregory/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/poterewicz_gregory/</guid>
       <description></description>
     </item>
@@ -407,7 +401,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Hannah Rosenthal</title>
       <link>https://lmdavalos.github.io/people/rosenthal_hannah/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/rosenthal_hannah/</guid>
       <description></description>
     </item>
@@ -416,7 +409,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Johana Peña</title>
       <link>https://lmdavalos.github.io/people/pena_johana/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/pena_johana/</guid>
       <description></description>
     </item>
@@ -425,7 +417,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>John Navillo</title>
       <link>https://lmdavalos.github.io/people/navillo_john/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/navillo_john/</guid>
       <description>&lt;!-- I am currently a sophomore majoring in human evolutionary biology and am aiding Marianne Moore on the White Nose Syndrome skin immune protein study. I am helping identify Pseudogymnoascus destructans, the fungus that causes WNS, on bat skin swab samples using real time PCR (qPCR). I am also researching and developing a knowledge base that will help our methodological considerations of the proteomics aspect of the study. I look forward to researching such an important ecological issue. --&gt;
 </description>
@@ -435,7 +426,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Jonah Rothleder</title>
       <link>https://lmdavalos.github.io/people/rothleder_jonah/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/rothleder_jonah/</guid>
       <description></description>
     </item>
@@ -444,7 +434,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Kaitlyn Malewicz</title>
       <link>https://lmdavalos.github.io/people/malewicz_kaitlyn/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/malewicz_kaitlyn/</guid>
       <description></description>
     </item>
@@ -453,7 +442,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Katie Martin</title>
       <link>https://lmdavalos.github.io/people/martin_katie/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/martin_katie/</guid>
       <description></description>
     </item>
@@ -462,7 +450,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Kendra Cornejo</title>
       <link>https://lmdavalos.github.io/people/cornejo_kendra/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/cornejo_kendra/</guid>
       <description></description>
     </item>
@@ -471,7 +458,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Kenneth He</title>
       <link>https://lmdavalos.github.io/people/he_kenneth/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/he_kenneth/</guid>
       <description></description>
     </item>
@@ -480,7 +466,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Kristjan Mets</title>
       <link>https://lmdavalos.github.io/people/mets_kristjan/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/mets_kristjan/</guid>
       <description></description>
     </item>
@@ -489,7 +474,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Laura Barger</title>
       <link>https://lmdavalos.github.io/people/barger_laura/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/barger_laura/</guid>
       <description></description>
     </item>
@@ -498,7 +482,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Laurel Yohe</title>
       <link>https://lmdavalos.github.io/people/yohe_laurel/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/yohe_laurel/</guid>
       <description></description>
     </item>
@@ -507,7 +490,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Margarita Bartasunaite</title>
       <link>https://lmdavalos.github.io/people/bartasunaite_margarita/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/bartasunaite_margarita/</guid>
       <description></description>
     </item>
@@ -516,7 +498,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Marianne S. Moore</title>
       <link>https://lmdavalos.github.io/people/moore_marianne/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/moore_marianne/</guid>
       <description></description>
     </item>
@@ -525,7 +506,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Marisa Lim</title>
       <link>https://lmdavalos.github.io/people/lim_marisa/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/lim_marisa/</guid>
       <description></description>
     </item>
@@ -534,7 +514,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Mark Hall</title>
       <link>https://lmdavalos.github.io/people/hall_mark/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/hall_mark/</guid>
       <description></description>
     </item>
@@ -543,7 +522,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Melissa Zheng</title>
       <link>https://lmdavalos.github.io/people/zheng_melissa/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/zheng_melissa/</guid>
       <description></description>
     </item>
@@ -552,7 +530,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Nancy Wei</title>
       <link>https://lmdavalos.github.io/people/wei_nancy/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/wei_nancy/</guid>
       <description></description>
     </item>
@@ -561,7 +538,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Nicolette Sipperly</title>
       <link>https://lmdavalos.github.io/people/sipperly_nicolette/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/sipperly_nicolette/</guid>
       <description></description>
     </item>
@@ -570,7 +546,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Omar M. Warsi</title>
       <link>https://lmdavalos.github.io/people/warsi_omar/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/warsi_omar/</guid>
       <description></description>
     </item>
@@ -579,7 +554,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Paul Donat</title>
       <link>https://lmdavalos.github.io/people/donat_paul/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/donat_paul/</guid>
       <description></description>
     </item>
@@ -588,7 +562,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Peter J. Connell</title>
       <link>https://lmdavalos.github.io/people/connell_peter/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/connell_peter/</guid>
       <description></description>
     </item>
@@ -597,7 +570,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Ramatu Abubakar</title>
       <link>https://lmdavalos.github.io/people/abubakar_ramatu/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/abubakar_ramatu/</guid>
       <description></description>
     </item>
@@ -606,17 +578,7 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Romain Dahan</title>
       <link>https://lmdavalos.github.io/people/dahan_romain/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/dahan_romain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Samantha DeRosa</title>
-      <link>https://lmdavalos.github.io/people/derosa_samantha/</link>
-      <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
-      <guid>https://lmdavalos.github.io/people/derosa_samantha/</guid>
       <description></description>
     </item>
     
@@ -624,8 +586,15 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Samantha DelSerra</title>
       <link>https://lmdavalos.github.io/people/delserra_samantha/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/delserra_samantha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samantha DeRosa</title>
+      <link>https://lmdavalos.github.io/people/derosa_samantha/</link>
+      <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
+      <guid>https://lmdavalos.github.io/people/derosa_samantha/</guid>
       <description></description>
     </item>
     
@@ -633,7 +602,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Samuel Gochman</title>
       <link>https://lmdavalos.github.io/people/gochman_samuel/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/gochman_samuel/</guid>
       <description></description>
     </item>
@@ -642,7 +610,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Sanah Afzal</title>
       <link>https://lmdavalos.github.io/people/afzal_sanah/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/afzal_sanah/</guid>
       <description>&lt;!-- To be able to taste is one of the major five senses in any animal. Being able to taste food provides an animal with nutrition and it helps to protect them against things that could potentially cause harm. The first time I heard that a carnivorous bat could have a broken gene preventing them from tasting sweet things, I was fascinated. I started to question how and why this could occur. This sparked the birth of my research. My research project delves deeper into the inner workings of a gene called Tas1r2. This gene allows a bat to taste sweet things, which helps the bat recognize that it is eating foods rich with nutritious carbohydrates and proteins. The major objective of my project is to observe whether this gene is conserved or psuedogenized throughout various species of bats. My project divides the species of bats I wanted to analyze into two categories, carnivorous bats, and nectarivorous bats. My results will be analyzed helping me find the answers I desire. In the future, I want to become a lab researcher who focuses on genetics. This research is an amazing experience to attain these goals which makes me excited. I cannot wait for what the future holds. --&gt;
 </description>
@@ -652,7 +619,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Sarah Heder</title>
       <link>https://lmdavalos.github.io/people/heder_sarah/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/heder_sarah/</guid>
       <description>&lt;!-- I am a senior studying biology at Stony Brook. I am researching the evolution of olfactory receptors in frugivorous bats. Bats are a very diverse order of mammals that have evolved to utilize a variety of different food sources, and my research involves quantifying phylogenetic instability in olfactory receptor gene families to determine whether there has been selective pressure on the duplication and loss of these genes in the Stenodermatinae subfamily as a result of their difference in diet compared to other Phyllostomids --&gt;
 </description>
@@ -662,7 +628,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Trinity Chen</title>
       <link>https://lmdavalos.github.io/people/chen_trinity/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/chen_trinity/</guid>
       <description></description>
     </item>
@@ -671,7 +636,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>William R. Thomas</title>
       <link>https://lmdavalos.github.io/people/thomas_william/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/thomas_william/</guid>
       <description></description>
     </item>
@@ -680,7 +644,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Xiaoyu Zhang</title>
       <link>https://lmdavalos.github.io/people/zhang_xiaoyu/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/zhang_xiaoyu/</guid>
       <description></description>
     </item>
@@ -689,7 +652,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Yasin Perez</title>
       <link>https://lmdavalos.github.io/people/perez_yasin/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/perez_yasin/</guid>
       <description></description>
     </item>
@@ -698,7 +660,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Yesha Shah</title>
       <link>https://lmdavalos.github.io/people/shah_yesha/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/shah_yesha/</guid>
       <description></description>
     </item>
@@ -707,7 +668,6 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Zachary Rowe</title>
       <link>https://lmdavalos.github.io/people/rowe_zachary/</link>
       <pubDate>Sun, 21 Jul 2019 15:58:31 -0400</pubDate>
-      
       <guid>https://lmdavalos.github.io/people/rowe_zachary/</guid>
       <description></description>
     </item>
@@ -716,215 +676,14 @@ Coauthored by leading experts in the field and synthesizing the latest advances 
       <title>Morphological Diversification under High Integration in a Hyper Diverse Mammal Clade</title>
       <link>https://lmdavalos.github.io/publication/journal_morphological_diversification_under_high/</link>
       <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_morphological_diversification_under_high/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Writing technical content in Academic</title>
-      <link>https://lmdavalos.github.io/post/writing/</link>
-      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lmdavalos.github.io/post/writing/</guid>
-      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
-
-&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
-
-&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
-
-&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;```python
-import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-```
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
-data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
-data.head()
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
-
-&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file and adding &lt;code&gt;markup: mmark&lt;/code&gt; to your page front matter.&lt;/p&gt;
-
-&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$$...$$&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Example math block:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$\gamma_{n} = \frac{ 
-\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
-\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
-{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}\]&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Example inline math &lt;code&gt;$$\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2$$&lt;/code&gt; renders as &lt;span  class=&#34;math&#34;&gt;\(\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2\)&lt;/span&gt; .&lt;/p&gt;
-
-&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
-
-&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
-
-&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;```mermaid
-graph TD;
-  A--&amp;gt;B;
-  A--&amp;gt;C;
-  B--&amp;gt;D;
-  C--&amp;gt;D;
-```
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD;
-  A--&amp;gt;B;
-  A--&amp;gt;C;
-  B--&amp;gt;D;
-  C--&amp;gt;D;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;```mermaid
-sequenceDiagram
-  participant Alice
-  participant Bob
-  Alice-&amp;gt;John: Hello John, how are you?
-  loop Healthcheck
-      John-&amp;gt;John: Fight against hypochondria
-  end
-  Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...
-  John--&amp;gt;Alice: Great!
-  John-&amp;gt;Bob: How about you?
-  Bob--&amp;gt;John: Jolly good!
-```
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
-  participant Alice
-  participant Bob
-  Alice-&amp;gt;John: Hello John, how are you?
-  loop Healthcheck
-      John-&amp;gt;John: Fight against hypochondria
-  end
-  Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...
-  John--&amp;gt;Alice: Great!
-  John-&amp;gt;Bob: How about you?
-  Bob--&amp;gt;John: Jolly good!
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;```mermaid
-gantt
-  dateFormat  YYYY-MM-DD
-  section Section
-  A task           :a1, 2014-01-01, 30d
-  Another task     :after a1  , 20d
-  section Another
-  Task in sec      :2014-01-12  , 12d
-  another task      : 24d
-```
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
-  dateFormat  YYYY-MM-DD
-  section Section
-  A task           :a1, 2014-01-01, 30d
-  Another task     :after a1  , 20d
-  section Another
-  Task in sec      :2014-01-12  , 12d
-  another task      : 24d
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
-
-&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
-- [x] Write diagram example
-- [ ] Do something else
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;&#34; disabled=&#34;&#34;&gt; Write math example&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;&#34; disabled=&#34;&#34;&gt; Write diagram example&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34;&gt; Do something else&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
-
-&lt;p&gt;Represent your data in tables:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;First Header&lt;/th&gt;
-&lt;th&gt;Second Header&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;td&gt;Content Cell&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&#34;asides&#34;&gt;Asides&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;A&amp;gt; A Markdown aside is equivalent to using the Alert Shortcode, but simpler to use.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;renders as&lt;/p&gt;
-
-&lt;aside&gt;
-&lt;p&gt;A Markdown aside is equivalent to using the Alert Shortcode, but simpler to use.&lt;/p&gt;
-&lt;/aside&gt;
-
-&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
-</description>
     </item>
     
     <item>
       <title>Regrowing the brain; evolution and mechanisms of seasonal reversible size changes in a mammal</title>
       <link>https://lmdavalos.github.io/project/regrowing_the_brain/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/project/regrowing_the_brain/</guid>
       <description></description>
     </item>
@@ -933,276 +692,16 @@ gantt
       <title>Parallel molecular evolution in pathways, genes, and sites in high-elevation hummingbirds revealed by comparative transcriptomics</title>
       <link>https://lmdavalos.github.io/publication/journal_parallel_molecular_evolution/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_parallel_molecular_evolution/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://lmdavalos.github.io/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lmdavalos.github.io/post/jupyter/</guid>
-      <description>
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;img src=&#34;./academic_0_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;install-python-and-jupyter&#34;&gt;Install Python and Jupyter&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and Jupyter notebook.&lt;/p&gt;
-
-&lt;p&gt;Otherwise, for advanced users, install Jupyter notebook with &lt;code&gt;pip3 install jupyter&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-a-new-blog-post-as-usual-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post&#34;&gt;Create a new blog post &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;as usual&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY_WEBSITE_FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;my-post&lt;/code&gt; with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;
-hugo new  --kind post post/my-post
-cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;/content/post/my-post/
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-
-&lt;p&gt;Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (&lt;em&gt;New &amp;gt; Python Notebook&lt;/em&gt;) or upload a notebook.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter notebook
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
-
-# Copy the contents of Untitled.md and append it to index.md:
-cat Untitled.md | tee -a index.md
-
-# Remove the temporary file:
-rm Untitled.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-
-&lt;p&gt;Open &lt;code&gt;index.md&lt;/code&gt; in your text editor and edit the title etc. in the &lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;front matter&lt;/a&gt; according to your preference.&lt;/p&gt;
-
-&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-
-&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://lmdavalos.github.io/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lmdavalos.github.io/slides/example/</guid>
-      <description>
-
-&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Code block:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-
-&lt;p&gt;Block math:&lt;/p&gt;
-
-&lt;p&gt;$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-   One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   &lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   Three
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/aside&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
-
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Very Extended Phenotype: connecting genetics and evolution to ecological function</title>
-      <link>https://lmdavalos.github.io/project/very_extended_phenotype/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lmdavalos.github.io/project/very_extended_phenotype/</guid>
-      <description>&lt;p&gt;Two major recent trends in funding in biology have been integrative research that focuses on general principles that operate across levels and scales of biological systems; and research that integrates genetic, phylogenetic, and functional dimensions of the diversity of life on Earth. These two research approaches offer much promise to address not only many of the fundamental questions about life, but also many of the problems facing humanity, including the irreversible, ongoing, and rapid loss of biodiversity.&lt;/p&gt;
-
-&lt;p&gt;Conservation biologists have so far focused on risks of extinction, decline and collapse of species and ecosystems, while recognizing how just avoiding loss is not enough. Until recently, the ultimate goals of biodiversity conservation—recovery and restoration—have remained difficult, elusive, and vaguely defined. Earlier this year, a new framework for assessing species recovery and conservation success has been proposed. A central concept of this framework is the ecological functionality of populations, based on the idea that conserving species requires not only avoiding extinction, but also maintaining their contributions to ecosystem processes.&lt;/p&gt;
-
-&lt;p&gt;The practical application of this framework requires fundamental research about the relationships between ecological function and other organismal and genetic dimensions of biodiversity. We propose to develop a cross-scale research program that focuses on the relationships between phylogenetic diversity, genetic diversity and functional diversity of a biologically and economically
-important taxonomic group: bees.&lt;/p&gt;
-
-&lt;p&gt;The overall goal of the proposed research is to test hypotheses on the relationships among multiple dimensions of biological diversity, and their relevance for functioning of ecological communities. Our specific objectives for this OVPR Seed Proposal focus on preparing a strong initial proposal for
-NSF, potentially followed by additional proposals. We aim to
-1. Obtain preliminary genomic data via RNA transcripts and hybridization baits,
-2. Start developing a database of ecological functionality to relate species to their molecular and ecological function,
-3. Recruit collaborators to strengthen specific aspects of the planned proposal.&lt;/p&gt;
-
-&lt;p&gt;We have extensive experience in both the general subject area of the proposal, and the specific methodological and conceptual advances that underlie the proposed research program. However, we have never collaborated before, and we lack preliminary data on the system we propose to focus on. In order to build the collaboration and establish the preliminary data to successfully compete, we need the internal support provided by the OVPR seed funding. With funding from the OVPR Seed Grant Program, we plan to develop a new collaboration and a new research program that will likely lead to several externally funded projects over the coming 5-10 years. Our initial target will be the NSF program on Dimensions of Biodiversity ($2M total), but we expect that we will have multiple opportunities for external funding in the next year or so..&lt;/p&gt;
+      <title>An example preprint / working paper</title>
+      <link>https://lmdavalos.github.io/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/preprint/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1210,16 +709,34 @@ NSF, potentially followed by additional proposals. We aim to
       <title>The death and life of biodiversity; modeling extinction and resilience on islands</title>
       <link>https://lmdavalos.github.io/project/death_and_life_of_biodiversity/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/project/death_and_life_of_biodiversity/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>The Very Extended Phenotype: connecting genetics and evolution to ecological function</title>
+      <link>https://lmdavalos.github.io/project/very_extended_phenotype/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/very_extended_phenotype/</guid>
+      <description>&lt;p&gt;Two major recent trends in funding in biology have been integrative research that focuses on general principles that operate across levels and scales of biological systems; and research that integrates genetic, phylogenetic, and functional dimensions of the diversity of life on Earth. These two research approaches offer much promise to address not only many of the fundamental questions about life, but also many of the problems facing humanity, including the irreversible, ongoing, and rapid loss of biodiversity.&lt;/p&gt;
+&lt;p&gt;Conservation biologists have so far focused on risks of extinction, decline and collapse of species and ecosystems, while recognizing how just avoiding loss is not enough. Until recently, the ultimate goals of biodiversity conservation—recovery and restoration—have remained difficult, elusive, and vaguely defined. Earlier this year, a new framework for assessing species recovery and conservation success has been proposed. A central concept of this framework is the ecological functionality of populations, based on the idea that conserving species requires not only avoiding extinction, but also maintaining their contributions to ecosystem processes.&lt;/p&gt;
+&lt;p&gt;The practical application of this framework requires fundamental research about the relationships between ecological function and other organismal and genetic dimensions of biodiversity. We propose to develop a cross-scale research program that focuses on the relationships between phylogenetic diversity, genetic diversity and functional diversity of a biologically and economically
+important taxonomic group: bees.&lt;/p&gt;
+&lt;p&gt;The overall goal of the proposed research is to test hypotheses on the relationships among multiple dimensions of biological diversity, and their relevance for functioning of ecological communities. Our specific objectives for this OVPR Seed Proposal focus on preparing a strong initial proposal for
+NSF, potentially followed by additional proposals. We aim to&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Obtain preliminary genomic data via RNA transcripts and hybridization baits,&lt;/li&gt;
+&lt;li&gt;Start developing a database of ecological functionality to relate species to their molecular and ecological function,&lt;/li&gt;
+&lt;li&gt;Recruit collaborators to strengthen specific aspects of the planned proposal.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We have extensive experience in both the general subject area of the proposal, and the specific methodological and conceptual advances that underlie the proposed research program. However, we have never collaborated before, and we lack preliminary data on the system we propose to focus on. In order to build the collaboration and establish the preliminary data to successfully compete, we need the internal support provided by the OVPR seed funding. With funding from the OVPR Seed Grant Program, we plan to develop a new collaboration and a new research program that will likely lead to several externally funded projects over the coming 5-10 years. Our initial target will be the NSF program on Dimensions of Biodiversity ($2M total), but we expect that we will have multiple opportunities for external funding in the next year or so..&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Fires in protected areas reveal unforseen costs of Colombian peace</title>
       <link>https://lmdavalos.github.io/publication/journal_fires_in_protected_areas/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_fires_in_protected_areas/</guid>
       <description></description>
     </item>
@@ -1228,7 +745,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Multifactorial processes underlie parallel opsin loss in neotropical bats</title>
       <link>https://lmdavalos.github.io/publication/journal_multifactorial_processes_underlie/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_multifactorial_processes_underlie/</guid>
       <description></description>
     </item>
@@ -1237,7 +753,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>On the Evolution and Diversification of Andean Hummingbirds</title>
       <link>https://lmdavalos.github.io/publication/thesis_on_the_evolution_diversification/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/thesis_on_the_evolution_diversification/</guid>
       <description></description>
     </item>
@@ -1246,7 +761,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Protocols for the Molecular Evolutionary Analysis of Membrane Protein Gene Duplicates</title>
       <link>https://lmdavalos.github.io/publication/book_section_protocols_molecular_evolutionary_analysis/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/book_section_protocols_molecular_evolutionary_analysis/</guid>
       <description></description>
     </item>
@@ -1255,7 +769,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>A coalescent-based estimator of genetic drift, and acoustic divergence in the Pteronotus parnellii species complex</title>
       <link>https://lmdavalos.github.io/publication/journal_coalescent-based_estimator/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_coalescent-based_estimator/</guid>
       <description></description>
     </item>
@@ -1264,7 +777,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Updated distribution maps for neotropical bats in the superfamily Noctilionoidea</title>
       <link>https://lmdavalos.github.io/publication/journal_updated_distribution_maps/</link>
       <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_updated_distribution_maps/</guid>
       <description></description>
     </item>
@@ -1273,7 +785,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Genomics of exceptions to scaling of longevity to body size</title>
       <link>https://lmdavalos.github.io/project/genomics_of_exceptions_to_scaling/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/project/genomics_of_exceptions_to_scaling/</guid>
       <description></description>
     </item>
@@ -1282,7 +793,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>The Ghosts of Development Past: Deforestation and Coca in Western Amazonia</title>
       <link>https://lmdavalos.github.io/publication/book_section_ghosts_of_development_past/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/book_section_ghosts_of_development_past/</guid>
       <description></description>
     </item>
@@ -1291,7 +801,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>The Origins of Cocaine: Colonization and Failed Development in the Amazon Andes</title>
       <link>https://lmdavalos.github.io/publication/edited_books_origins_of_cocaine/</link>
       <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/edited_books_origins_of_cocaine/</guid>
       <description></description>
     </item>
@@ -1300,7 +809,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Assessing Soft-Tissue Shrinkage Estimates in Museum Specimens Imaged With Diffusible Iodine-based Contrast-Enhanced Computed Tomography (diceCT)</title>
       <link>https://lmdavalos.github.io/publication/journal_assessing_soft_tissue_shrinkage/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_assessing_soft_tissue_shrinkage/</guid>
       <description></description>
     </item>
@@ -1309,7 +817,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Opposition Support and the Experience of Violence Explain the Colombian Peace Referendum</title>
       <link>https://lmdavalos.github.io/publication/journal_opposition_support/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_opposition_support/</guid>
       <description></description>
     </item>
@@ -1318,7 +825,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Vomeronasal and olfactory structures in bats revealed by diceCT clarify genetic evidence of function</title>
       <link>https://lmdavalos.github.io/publication/journal_vomeronasal_and_olfactory_structures/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_vomeronasal_and_olfactory_structures/</guid>
       <description></description>
     </item>
@@ -1327,7 +833,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Strength of selection on the Trpc2 gene predicts accessory olfactory bulb form in bat vomeronasal evolution</title>
       <link>https://lmdavalos.github.io/publication/journal_genetic_function_of_trpc2/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_genetic_function_of_trpc2/</guid>
       <description></description>
     </item>
@@ -1336,7 +841,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Identifying municipal risk factors for leftist guerrilla violence in Colombia</title>
       <link>https://lmdavalos.github.io/publication/journal_identifying_municipal_risk_factors/</link>
       <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_identifying_municipal_risk_factors/</guid>
       <description></description>
     </item>
@@ -1345,7 +849,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Bat Biology, Genomes, and the Bat1K Project: to generate chromosome-level genomes for all living bat species</title>
       <link>https://lmdavalos.github.io/publication/journal_bat_biology_genomes/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_bat_biology_genomes/</guid>
       <description></description>
     </item>
@@ -1354,7 +857,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Out of the Antilles: Fossil Phylogenies Support Reverse Colonization of Bats to South America</title>
       <link>https://lmdavalos.github.io/publication/journal_out_of_the_antilles/</link>
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_out_of_the_antilles/</guid>
       <description></description>
     </item>
@@ -1363,7 +865,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Eating down the food chain: generalism is not an evolutionary dead end for herbivores</title>
       <link>https://lmdavalos.github.io/publication/journal_eating_down_the_food_chain/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_eating_down_the_food_chain/</guid>
       <description></description>
     </item>
@@ -1372,7 +873,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>A communal catalogue reveals Earth’s multiscale microbial diversity</title>
       <link>https://lmdavalos.github.io/publication/journal_communal_catalogue_reveals_earth/</link>
       <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_communal_catalogue_reveals_earth/</guid>
       <description></description>
     </item>
@@ -1381,7 +881,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Anthropogenic Extinction Dominates Holocene Declines of West Indian Mammals</title>
       <link>https://lmdavalos.github.io/publication/misc_anthropogenic_extinction_dominates/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_anthropogenic_extinction_dominates/</guid>
       <description></description>
     </item>
@@ -1390,7 +889,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Spatial autocorrelation reduces model precision and predictive power in deforestation analyses</title>
       <link>https://lmdavalos.github.io/publication/journal_spatial_autocorrelation_reduces/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_spatial_autocorrelation_reduces/</guid>
       <description></description>
     </item>
@@ -1399,7 +897,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>The Molecular Evolution of Bat Chemosensory Pathways Reveals Sensory Innovation and Loss</title>
       <link>https://lmdavalos.github.io/publication/thesis_molecular_evolution_of_bat/</link>
       <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/thesis_molecular_evolution_of_bat/</guid>
       <description></description>
     </item>
@@ -1408,7 +905,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Integrating remotely sensed fires for predicting deforestation for REDD&#43;</title>
       <link>https://lmdavalos.github.io/publication/journal_integrating_remotely_sensed_fires/</link>
       <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_integrating_remotely_sensed_fires/</guid>
       <description></description>
     </item>
@@ -1417,7 +913,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Trpc2 pseudogenization dynamics in bats reveal ancestral vomeronasal signaling, then pervasive loss</title>
       <link>https://lmdavalos.github.io/publication/journal_trpc2_pseudogenization_dynamics/</link>
       <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_trpc2_pseudogenization_dynamics/</guid>
       <description></description>
     </item>
@@ -1426,7 +921,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Recent extinctions disturb path to equilibrium diversity in Caribbean bats</title>
       <link>https://lmdavalos.github.io/publication/journal_recent_extinctions_disturb_path/</link>
       <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_recent_extinctions_disturb_path/</guid>
       <description></description>
     </item>
@@ -1435,7 +929,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Deforestation and Coca Cultivation Rooted in Twentieth-Century Development Projects</title>
       <link>https://lmdavalos.github.io/publication/journal_deforestation_and_coca_cultivation/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_deforestation_and_coca_cultivation/</guid>
       <description></description>
     </item>
@@ -1444,7 +937,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Interdisciplinary Graduate Training to Understand and Inform Decision Processes Using Advanced Spatial Data Analysis and Visualization</title>
       <link>https://lmdavalos.github.io/project/spatial_data_analysis/</link>
       <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/project/spatial_data_analysis/</guid>
       <description></description>
     </item>
@@ -1453,7 +945,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>The world drug problem and sustainable development</title>
       <link>https://lmdavalos.github.io/publication/misc_world_drug_problem/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_world_drug_problem/</guid>
       <description></description>
     </item>
@@ -1462,7 +953,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Records of the cave-dwelling bats (Mammalia: Chiroptera) of Hispaniola with an examination of seasonal variation in diversity</title>
       <link>https://lmdavalos.github.io/publication/journal_records_of_the_cave-dwelling/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_records_of_the_cave-dwelling/</guid>
       <description></description>
     </item>
@@ -1471,247 +961,14 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Phylogeny and divergence times of lemurs inferred with recent and ancient fossils in the tree</title>
       <link>https://lmdavalos.github.io/publication/journal_phylogeny_and_divergence_times/</link>
       <pubDate>Mon, 25 Apr 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_phylogeny_and_divergence_times/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>https://lmdavalos.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://lmdavalos.github.io/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Setup Academic&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;View the documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://discuss.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;Request a feature or report a bug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Updating? View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support development of Academic:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34;&gt;Donate a coffee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34;&gt;Become a backer on Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34;&gt;Decorate your laptop or journal with an Academic sticker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34;&gt;Wear the T-shirt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; &gt;
-
-&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; &gt;
-&lt;/a&gt;
-
-&lt;/figure&gt;
-
-
-&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic comes with &lt;strong&gt;day (light) and night (dark) mode&lt;/strong&gt; built-in. Click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt; to see it in action!&lt;/p&gt;
-
-&lt;p&gt;Choose a stunning color and font theme for your site. Themes are fully customizable and include:&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://lmdavalos.github.io/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;https://lmdavalos.github.io/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://lmdavalos.github.io/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;https://lmdavalos.github.io/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://lmdavalos.github.io/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;https://lmdavalos.github.io/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://lmdavalos.github.io/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;https://lmdavalos.github.io/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://lmdavalos.github.io/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;https://lmdavalos.github.io/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://lmdavalos.github.io/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;https://lmdavalos.github.io/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://lmdavalos.github.io/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;https://lmdavalos.github.io/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://lmdavalos.github.io/post/getting-started/gallery/theme-strawberry.png&#34; data-caption=&#34;Strawberry&#34;&gt;
-  &lt;img src=&#34;https://lmdavalos.github.io/post/getting-started/gallery/theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
     </item>
     
     <item>
       <title>Bats (Chiroptera: Noctilionoidea) Challenge a Recent Origin of Extant Neotropical Diversity</title>
       <link>https://lmdavalos.github.io/publication/journal_bats_chiroptera_noctilionoidea/</link>
       <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_bats_chiroptera_noctilionoidea/</guid>
       <description></description>
     </item>
@@ -1720,7 +977,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Bayesian hierarchical models suggest oldest known plant-visiting bat was omnivorous</title>
       <link>https://lmdavalos.github.io/publication/journal_bayesian_hierarchical_models_suggest/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_bayesian_hierarchical_models_suggest/</guid>
       <description></description>
     </item>
@@ -1729,16 +985,28 @@ NSF, potentially followed by additional proposals. We aim to
       <title>A Bayesian Spatial Model Highlights Distinct Dynamics in Deforestation from Coca and Pastures in an Andean Biodiversity Hotspot</title>
       <link>https://lmdavalos.github.io/publication/journal_a_bayesian_spatial_model_highlights/</link>
       <pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_a_bayesian_spatial_model_highlights/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://lmdavalos.github.io/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Amino acid transporter expansions associated with the evolution of obligate endosymbiosis in sap-feeding insects (Hemiptera: Sternorrhyncha)</title>
       <link>https://lmdavalos.github.io/publication/journal_amino_acid_transporters_expansion/</link>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_amino_acid_transporters_expansion/</guid>
       <description></description>
     </item>
@@ -1747,7 +1015,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>From the Field to the Lab: Best Practices for Field Preservation of Bat Specimens for Molecular Analyses</title>
       <link>https://lmdavalos.github.io/publication/journal_from_the_field_to_the_lab/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_from_the_field_to_the_lab/</guid>
       <description></description>
     </item>
@@ -1756,7 +1023,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Chance or necessity? Adaptive vs. non adaptive evolution in plant-frugivore interactions</title>
       <link>https://lmdavalos.github.io/project/chance_or_necessity/</link>
       <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/project/chance_or_necessity/</guid>
       <description></description>
     </item>
@@ -1765,7 +1031,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Molecular evolution of growth hormone and insulin-like growth factor 1 receptors in long-lived, small-bodied mammals</title>
       <link>https://lmdavalos.github.io/publication/journal_molecular_evolution_of_growth_hormone/</link>
       <pubDate>Fri, 10 Oct 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_molecular_evolution_of_growth_hormone/</guid>
       <description></description>
     </item>
@@ -1774,7 +1039,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Discovering genomic and developmental mechanisms that underlie sensory innovations critical to adaptive diversification</title>
       <link>https://lmdavalos.github.io/project/discovering_genomic_and_developmental_mechanisms/</link>
       <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/project/discovering_genomic_and_developmental_mechanisms/</guid>
       <description></description>
     </item>
@@ -1783,7 +1047,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Sex-biased dispersal produces high error rates in mitochondrial distance-based and tree-based species delimitation</title>
       <link>https://lmdavalos.github.io/publication/journal_sex_biased_dispersal_produces/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_sex_biased_dispersal_produces/</guid>
       <description></description>
     </item>
@@ -1792,7 +1055,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Integrating Incomplete Fossils by Isolating Conflicting Signal in Saturated and Non-Independent Morphological Characters</title>
       <link>https://lmdavalos.github.io/publication/journal_integrating_incomplete_fossils/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_integrating_incomplete_fossils/</guid>
       <description></description>
     </item>
@@ -1801,7 +1063,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Uncovering skin immune proteins as predictors of resistance against WNS</title>
       <link>https://lmdavalos.github.io/project/uncovering_skin_immune_proteins/</link>
       <pubDate>Sun, 15 Jun 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/project/uncovering_skin_immune_proteins/</guid>
       <description></description>
     </item>
@@ -1810,7 +1071,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Dynamic recruitment of amino acid transporters to the insect/symbiont interface</title>
       <link>https://lmdavalos.github.io/publication/journal_dynamic_recruitment_of_amino_acid_transporters/</link>
       <pubDate>Sun, 16 Feb 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_dynamic_recruitment_of_amino_acid_transporters/</guid>
       <description></description>
     </item>
@@ -1819,7 +1079,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Demand for beef is unrelated to pasture expansion in northwestern Amazonia</title>
       <link>https://lmdavalos.github.io/publication/journal_demand_for_beef/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_demand_for_beef/</guid>
       <description></description>
     </item>
@@ -1828,7 +1087,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>A Cluster of Olfactory Receptor Genes Linked to Frugivory in Bats</title>
       <link>https://lmdavalos.github.io/publication/journal_a_cluster_of_olfactory_receptor_genes/</link>
       <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_a_cluster_of_olfactory_receptor_genes/</guid>
       <description></description>
     </item>
@@ -1837,16 +1095,28 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Selection for mechanical advantage underlies multiple cranial optima in new world leaf-nosed bats</title>
       <link>https://lmdavalos.github.io/publication/journal_selection_for_mechanical_advantage/</link>
       <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_selection_for_mechanical_advantage/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://lmdavalos.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>An horizon scan of biogeography</title>
       <link>https://lmdavalos.github.io/publication/journal_an_horizon_scan/</link>
       <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_an_horizon_scan/</guid>
       <description></description>
     </item>
@@ -1855,7 +1125,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Deglaciation explains bat extinction in the Caribbean</title>
       <link>https://lmdavalos.github.io/publication/journal_deglaciation_explains_bat_extinction/</link>
       <pubDate>Tue, 06 Nov 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_deglaciation_explains_bat_extinction/</guid>
       <description></description>
     </item>
@@ -1864,7 +1133,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>An apparent hybrid Heliodoxa hummingbird from the West Andes of Colombia</title>
       <link>https://lmdavalos.github.io/publication/misc_apparent_hybrid_heliodoxa/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_apparent_hybrid_heliodoxa/</guid>
       <description></description>
     </item>
@@ -1873,7 +1141,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Understanding phylogenetic incongruence: lessons from phyllostomid bats</title>
       <link>https://lmdavalos.github.io/publication/journal_understanding_phylogenetic_incongruence/</link>
       <pubDate>Tue, 14 Aug 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_understanding_phylogenetic_incongruence/</guid>
       <description></description>
     </item>
@@ -1882,7 +1149,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Detecting the Immune System Response of a 500 Year-Old Inca Mummy</title>
       <link>https://lmdavalos.github.io/publication/journal_detecting_the_immune_system_response/</link>
       <pubDate>Wed, 25 Jul 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_detecting_the_immune_system_response/</guid>
       <description></description>
     </item>
@@ -1891,7 +1157,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>West Indian Mammals: the Old, the New, and the Recently Extinct</title>
       <link>https://lmdavalos.github.io/publication/book_section_west_indian_mammals/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/book_section_west_indian_mammals/</guid>
       <description></description>
     </item>
@@ -1900,7 +1165,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Morphological innovation, diversification and invasion of a new adaptive zone</title>
       <link>https://lmdavalos.github.io/publication/journal_morphological_innovation_diversification/</link>
       <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_morphological_innovation_diversification/</guid>
       <description></description>
     </item>
@@ -1909,7 +1173,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Keeping it simple: flowering plants tend to retain, and revert to, simple leaves</title>
       <link>https://lmdavalos.github.io/publication/journal_keeping_it_simple/</link>
       <pubDate>Wed, 16 Nov 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_keeping_it_simple/</guid>
       <description></description>
     </item>
@@ -1918,7 +1181,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Forests and Drugs: Coca-Driven Deforestation in Tropical Biodiversity Hotspots</title>
       <link>https://lmdavalos.github.io/publication/journal_forests_and_drugs/</link>
       <pubDate>Tue, 11 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_forests_and_drugs/</guid>
       <description></description>
     </item>
@@ -1927,7 +1189,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>El Callejón de los Milagros</title>
       <link>https://lmdavalos.github.io/publication/misc_el_callejon_de_los_milagros/</link>
       <pubDate>Sat, 04 Dec 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_el_callejon_de_los_milagros/</guid>
       <description></description>
     </item>
@@ -1936,7 +1197,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>The river-refuge hypothesis and other contributions of Márcio Ayres to conservation science</title>
       <link>https://lmdavalos.github.io/publication/book_section_river_refuge_hypothesis/</link>
       <pubDate>Sat, 06 Nov 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/book_section_river_refuge_hypothesis/</guid>
       <description></description>
     </item>
@@ -1945,7 +1205,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Earth history and the evolution of Caribbean bats</title>
       <link>https://lmdavalos.github.io/publication/book_section_earth_history_evolution_caribbean_bats/</link>
       <pubDate>Mon, 15 Mar 2010 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/book_section_earth_history_evolution_caribbean_bats/</guid>
       <description></description>
     </item>
@@ -1954,7 +1213,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Disabusing cocaine: Pervasive myths and enduring realities of a globalised commodity</title>
       <link>https://lmdavalos.github.io/publication/journal_disabusing_cocaine/</link>
       <pubDate>Sat, 10 Oct 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_disabusing_cocaine/</guid>
       <description></description>
     </item>
@@ -1963,7 +1221,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Accounting for molecular stochasticity in systematic revisions: Species limits and phylogeny of Paroaria</title>
       <link>https://lmdavalos.github.io/publication/journal_accounting_for_molecular_stochasticity/</link>
       <pubDate>Thu, 11 Jun 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_accounting_for_molecular_stochasticity/</guid>
       <description></description>
     </item>
@@ -1972,7 +1229,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Diversification in Noctilionoid Bats</title>
       <link>https://lmdavalos.github.io/project/diversification_of_noctilionoid_bats/</link>
       <pubDate>Mon, 08 Jun 2009 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/project/diversification_of_noctilionoid_bats/</guid>
       <description></description>
     </item>
@@ -1981,7 +1237,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>New species of Lonchophylla ‪(‬Chiroptera, Phyllostomidae‪)‬ from the eastern Andes of northwestern South America</title>
       <link>https://lmdavalos.github.io/publication/journal_new_species_lonchophylla/</link>
       <pubDate>Wed, 31 Dec 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_new_species_lonchophylla/</guid>
       <description></description>
     </item>
@@ -1990,7 +1245,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Saturation and base composition bias explain phylogenomic conflict in Plasmodium</title>
       <link>https://lmdavalos.github.io/publication/journal_saturation_and_base_composition/</link>
       <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_saturation_and_base_composition/</guid>
       <description></description>
     </item>
@@ -1999,7 +1253,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Conservation in conflict: illegal drugs versus habitat in the Americas</title>
       <link>https://lmdavalos.github.io/publication/misc_conservation_in_conflict/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_conservation_in_conflict/</guid>
       <description></description>
     </item>
@@ -2008,7 +1261,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Short‐faced bats (Phyllostomidae: Stenodermatina): a Caribbean radiation of strict frugivores</title>
       <link>https://lmdavalos.github.io/publication/journal_short_faced_bats/</link>
       <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_short_faced_bats/</guid>
       <description></description>
     </item>
@@ -2017,7 +1269,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Environmental damage from illicit drug crops in Colombia</title>
       <link>https://lmdavalos.github.io/publication/book_section_environmental_damage_illicit_drug_crops/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/book_section_environmental_damage_illicit_drug_crops/</guid>
       <description></description>
     </item>
@@ -2026,7 +1277,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>The geography of diversification in the mormoopids (Chiroptera: Mormoopidae)</title>
       <link>https://lmdavalos.github.io/publication/journal_geography_diversification_mormoopids/</link>
       <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_geography_diversification_mormoopids/</guid>
       <description></description>
     </item>
@@ -2035,7 +1285,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>The Nature and Dynamics of Bacterial Genomes</title>
       <link>https://lmdavalos.github.io/publication/journal_nature_dynamics_bacterial_genomes/</link>
       <pubDate>Fri, 24 Mar 2006 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_nature_dynamics_bacterial_genomes/</guid>
       <description></description>
     </item>
@@ -2044,7 +1293,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Molecular phylogeny of funnel-eared bats (Chiroptera: Natalidae), with notes on biogeography and conservation</title>
       <link>https://lmdavalos.github.io/publication/journal_molecular_phylogeny_funnel-eared_bats/</link>
       <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_molecular_phylogeny_funnel-eared_bats/</guid>
       <description></description>
     </item>
@@ -2053,7 +1301,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Illicit Crops and Armed Conflict as Constraints on Biodiversity Conservation in the Andes Region</title>
       <link>https://lmdavalos.github.io/publication/journal_illicit_crops_armed_conflict/</link>
       <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_illicit_crops_armed_conflict/</guid>
       <description></description>
     </item>
@@ -2062,7 +1309,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Bats of Puerto Rico</title>
       <link>https://lmdavalos.github.io/publication/misc_bats_of_puerto_rico/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_bats_of_puerto_rico/</guid>
       <description></description>
     </item>
@@ -2071,7 +1317,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Colombia: the many faces of the war</title>
       <link>https://lmdavalos.github.io/publication/misc_colombia_many_faces_of_war/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_colombia_many_faces_of_war/</guid>
       <description></description>
     </item>
@@ -2080,7 +1325,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Guerrillas in the midst</title>
       <link>https://lmdavalos.github.io/publication/misc_guerrillas_in_the_midst/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_guerrillas_in_the_midst/</guid>
       <description></description>
     </item>
@@ -2089,7 +1333,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Exploring population genetic structure in three species of Lesser Antillean bats</title>
       <link>https://lmdavalos.github.io/publication/journal_exploring_population_genetic_structure_three/</link>
       <pubDate>Fri, 06 Aug 2004 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_exploring_population_genetic_structure_three/</guid>
       <description></description>
     </item>
@@ -2098,7 +1341,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Phylogeny of the Lonchophyllini (Chiroptera: Phyllostomidae)</title>
       <link>https://lmdavalos.github.io/publication/journal_phylogeny_of_lonchophyllini/</link>
       <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_phylogeny_of_lonchophyllini/</guid>
       <description></description>
     </item>
@@ -2107,7 +1349,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Historical biogeography of the Antilles: Earth history and phylogenetics of endemic chiropteran taxa</title>
       <link>https://lmdavalos.github.io/publication/thesis_historical_biogeography_antilles/</link>
       <pubDate>Sat, 15 May 2004 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/thesis_historical_biogeography_antilles/</guid>
       <description></description>
     </item>
@@ -2116,7 +1357,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Phylogeny and biogeography of Caribbean mammals</title>
       <link>https://lmdavalos.github.io/publication/journal_phylogeny_and_biogeography_caribbean/</link>
       <pubDate>Wed, 10 Mar 2004 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_phylogeny_and_biogeography_caribbean/</guid>
       <description></description>
     </item>
@@ -2125,7 +1365,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>A New Chocoan Species of Lonchophylla (Chiroptera: Phyllostomidae)</title>
       <link>https://lmdavalos.github.io/publication/journal_new_chocoan_species_of_lonchophylla/</link>
       <pubDate>Fri, 27 Feb 2004 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_new_chocoan_species_of_lonchophylla/</guid>
       <description></description>
     </item>
@@ -2134,7 +1373,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Epicrates subflavus (Jamaican Boa), Foraging behavior</title>
       <link>https://lmdavalos.github.io/publication/misc_epicrates_subflavus/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_epicrates_subflavus/</guid>
       <description></description>
     </item>
@@ -2143,7 +1381,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Geographical sampling bias and its implications for conservation priorities in Africa</title>
       <link>https://lmdavalos.github.io/publication/journal_geographical_sampling_bias/</link>
       <pubDate>Thu, 23 Oct 2003 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_geographical_sampling_bias/</guid>
       <description></description>
     </item>
@@ -2152,7 +1389,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Forests in the Time of Violence: Conservation Implications of the Colombian War</title>
       <link>https://lmdavalos.github.io/publication/book_section_forests_in_time_of_violence/</link>
       <pubDate>Mon, 13 Oct 2003 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/book_section_forests_in_time_of_violence/</guid>
       <description></description>
     </item>
@@ -2161,7 +1397,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Regulating access to genetic resources under the Convention on Biological Diversity: an analysis of selected case studies</title>
       <link>https://lmdavalos.github.io/publication/journal_regulating_access_to_genetic_resources/</link>
       <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_regulating_access_to_genetic_resources/</guid>
       <description></description>
     </item>
@@ -2170,7 +1405,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Forests in the Time of Violence; Conservation Implications of the Colombian War</title>
       <link>https://lmdavalos.github.io/publication/journal_forests_in_the_time_of_violence/</link>
       <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_forests_in_the_time_of_violence/</guid>
       <description></description>
     </item>
@@ -2179,7 +1413,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>New and Noteworthy Records from Ten Jamaican Bat Caves</title>
       <link>https://lmdavalos.github.io/publication/journal_new_noteworthy_records_ten_jamaican_bat_caves/</link>
       <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_new_noteworthy_records_ten_jamaican_bat_caves/</guid>
       <description></description>
     </item>
@@ -2188,7 +1421,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Illicit Crops and Bird Conservation Priorities in Colombia</title>
       <link>https://lmdavalos.github.io/publication/journal_illicit_crops_bird_conservation_priorities/</link>
       <pubDate>Fri, 02 Aug 2002 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_illicit_crops_bird_conservation_priorities/</guid>
       <description></description>
     </item>
@@ -2197,7 +1429,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Could Peace be Worse than War for Colombia&#39;s Forests?</title>
       <link>https://lmdavalos.github.io/publication/journal_could_peace_be_worse_than_war/</link>
       <pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_could_peace_be_worse_than_war/</guid>
       <description></description>
     </item>
@@ -2206,7 +1437,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Missing the Forest for the Profits: The Role of Multinational Corporations in the International Forest Regime</title>
       <link>https://lmdavalos.github.io/publication/journal_missing_the_forest_for_the_profits/</link>
       <pubDate>Sat, 01 Dec 2001 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_missing_the_forest_for_the_profits/</guid>
       <description></description>
     </item>
@@ -2215,7 +1445,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Parc National La Visite, Haiti a last refuge for the country&#39;s montane birds</title>
       <link>https://lmdavalos.github.io/publication/journal_parc_national_la_visite/</link>
       <pubDate>Fri, 01 Jun 2001 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_parc_national_la_visite/</guid>
       <description></description>
     </item>
@@ -2224,7 +1453,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>The birds of Ile-a-Vache, Haiti</title>
       <link>https://lmdavalos.github.io/publication/journal_birds_of_ile-a-vache/</link>
       <pubDate>Fri, 01 Jun 2001 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_birds_of_ile-a-vache/</guid>
       <description></description>
     </item>
@@ -2233,7 +1461,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title> Daños ambientales por cultivos ilícitos y procesamiento de drogas prohibidas en Colombia</title>
       <link>https://lmdavalos.github.io/publication/misc_danos_ambientales_por_cultivos/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_danos_ambientales_por_cultivos/</guid>
       <description></description>
     </item>
@@ -2242,7 +1469,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Forests under fire</title>
       <link>https://lmdavalos.github.io/publication/misc_forests_under_fire/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_forests_under_fire/</guid>
       <description></description>
     </item>
@@ -2251,7 +1477,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Serranía de San Lucas, Sur de Bolívar: ¿Habrá futuro?</title>
       <link>https://lmdavalos.github.io/publication/misc_serrania_de_san_lucas/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_serrania_de_san_lucas/</guid>
       <description></description>
     </item>
@@ -2260,7 +1485,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>The San Lucas mountain range in Colombia how much conservation is owed to the violence?</title>
       <link>https://lmdavalos.github.io/publication/journal_san_lucas_mountain_range/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_san_lucas_mountain_range/</guid>
       <description></description>
     </item>
@@ -2269,7 +1493,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>La perspectiva ambiental en la mesa de diálogo</title>
       <link>https://lmdavalos.github.io/publication/misc_la_perspectiva_ambiental/</link>
       <pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_la_perspectiva_ambiental/</guid>
       <description></description>
     </item>
@@ -2278,7 +1501,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title> El Futuro de los bosques de Colombia: ¿será la paz peor que la guerra?</title>
       <link>https://lmdavalos.github.io/publication/misc_el_futuro_de_los_bosques/</link>
       <pubDate>Mon, 21 Aug 2000 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_el_futuro_de_los_bosques/</guid>
       <description></description>
     </item>
@@ -2287,7 +1509,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Ornithological observations from Reserva Natural Tambito, Cauca, south-west Colombia</title>
       <link>https://lmdavalos.github.io/publication/journal_ornithological_observations_reserva_natural_tambito/</link>
       <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_ornithological_observations_reserva_natural_tambito/</guid>
       <description></description>
     </item>
@@ -2296,7 +1517,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>The bat fauna of Tambito, Colombia</title>
       <link>https://lmdavalos.github.io/publication/journal_bat_fauna_tambito_colombia/</link>
       <pubDate>Tue, 01 Jun 1999 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_bat_fauna_tambito_colombia/</guid>
       <description></description>
     </item>
@@ -2305,7 +1525,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Access to Genetic Resources: An Evaluation of the Development and Implementation of Recent Regulation and Access Agreements</title>
       <link>https://lmdavalos.github.io/publication/misc_access_to_genetic_resources/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_access_to_genetic_resources/</guid>
       <description></description>
     </item>
@@ -2314,7 +1533,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Birds-Aves</title>
       <link>https://lmdavalos.github.io/publication/misc_birds-aves/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/misc_birds-aves/</guid>
       <description></description>
     </item>
@@ -2323,7 +1541,6 @@ NSF, potentially followed by additional proposals. We aim to
       <title>The first breeding records of white-rimmed brush-finch Atlapetes leucopis with ecological notes</title>
       <link>https://lmdavalos.github.io/publication/journal_first_breeding_records_white_rimmed_brush_finch/</link>
       <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/journal_first_breeding_records_white_rimmed_brush_finch/</guid>
       <description></description>
     </item>
@@ -2332,19 +1549,24 @@ NSF, potentially followed by additional proposals. We aim to
       <title>Marcadores moleculares asociados a resistencia al virus de la hoja blanca de arroz (Oryza sativa L.)</title>
       <link>https://lmdavalos.github.io/publication/thesis_marcadores_moleculares/</link>
       <pubDate>Tue, 01 Jul 1997 00:00:00 +0000</pubDate>
-      
       <guid>https://lmdavalos.github.io/publication/thesis_marcadores_moleculares/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lmdavalos.github.io/authors/admin/_index-2/</link>
+      <link>https://lmdavalos.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lmdavalos.github.io/authors/admin/_index-2/</guid>
-      <description>&lt;p&gt;Liliana M. Dávalos is Professor of Conservation Biology at Stony Brook University&amp;rsquo;s Department of Ecology and Evolution. Her research interests include molecular evolution, phylogenetics and tropical biology. She leads the Tropical Biology group, which studies extinction and survival in deep time, functional genetics in non-model mammals, and deforestation.&lt;/p&gt;
-</description>
+      <guid>https://lmdavalos.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lmdavalos.github.io/people_orig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/people_orig/</guid>
+      <description></description>
     </item>
     
   </channel>
