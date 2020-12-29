@@ -309,20 +309,6 @@
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://lmdavalos.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://lmdavalos.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Amino acid transporter expansions associated with the evolution of obligate endosymbiosis in sap-feeding insects (Hemiptera: Sternorrhyncha)</title>
       <link>https://lmdavalos.github.io/publication/journal_amino_acid_transporters_expansion/</link>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
@@ -531,10 +517,26 @@
     </item>
     
     <item>
+      <title>Bats of Puerto Rico</title>
+      <link>https://lmdavalos.github.io/publication/misc_bats_of_puerto_rico/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/misc_bats_of_puerto_rico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Colombia: the many faces of the war</title>
       <link>https://lmdavalos.github.io/publication/misc_colombia_many_faces_of_war/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>https://lmdavalos.github.io/publication/misc_colombia_many_faces_of_war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guerrillas in the midst</title>
+      <link>https://lmdavalos.github.io/publication/misc_guerrillas_in_the_midst/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/misc_guerrillas_in_the_midst/</guid>
       <description></description>
     </item>
     

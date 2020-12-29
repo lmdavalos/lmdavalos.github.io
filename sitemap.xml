@@ -18,11 +18,6 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/authors/admin/</loc>
-    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lmdavalos.github.io/publication-type/5/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url>
@@ -59,6 +54,11 @@
   
   <url>
     <loc>https://lmdavalos.github.io/tag/evolution/</loc>
+    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lmdavalos.github.io/authors/admin/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -960,16 +960,6 @@
   <url>
     <loc>https://lmdavalos.github.io/tag/phylogenetics/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2218,16 +2208,6 @@
   </url>
   
   <url>
-    <loc>https://lmdavalos.github.io/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lmdavalos.github.io/authors/alex-c.c.-wilson/</loc>
     <lastmod>2015-03-25T00:00:00+00:00</lastmod>
   </url>
@@ -2530,16 +2510,6 @@
   <url>
     <loc>https://lmdavalos.github.io/authors/william-j.-murphy/</loc>
     <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lmdavalos.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
