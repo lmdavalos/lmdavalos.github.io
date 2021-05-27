@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Wrathall | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/authors/david-wrathall/</link>
+      <atom:link href="https://lmdavalos.github.io/authors/david-wrathall/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Wrathall</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2021</copyright><lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>David Wrathall</title>
+      <link>https://lmdavalos.github.io/authors/david-wrathall/</link>
+    </image>
+    
+    <item>
+      <title>No peace for the forest: Rapid, widespread land changes in the Andes-Amazon region following the Colombian civil war</title>
+      <link>https://lmdavalos.github.io/publication/journal_no_peace_for_forest/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_no_peace_for_forest/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
