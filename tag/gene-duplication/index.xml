@@ -5,7 +5,7 @@
     <link>https://lmdavalos.github.io/tag/gene-duplication/</link>
       <atom:link href="https://lmdavalos.github.io/tag/gene-duplication/index.xml" rel="self" type="application/rss+xml" />
     <description>Gene duplication</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2021</copyright><lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2021</copyright><lastBuildDate>Thu, 22 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmdavalos.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Gene duplication</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Large-Scale Genome Sampling Reveals Unique Immunity and Metabolic Adaptations in Bats</title>
-      <link>https://lmdavalos.github.io/publication/journal_genome_sampling_immunity/</link>
-      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://lmdavalos.github.io/publication/journal_genome_sampling_immunity/</guid>
+      <title>Diversity in olfactory receptor repertoires is associated with dietary specialization in a genus of frugivorous bat</title>
+      <link>https://lmdavalos.github.io/publication/journal_diversity_olfactory_receptors_diet_genus/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_diversity_olfactory_receptors_diet_genus/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Diversity in olfactory receptor repertoires is associated with dietary specialization in a genus of frugivorous bat</title>
-      <link>https://lmdavalos.github.io/publication/preprint_diversity_olfactory_receptors_diet_genus/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://lmdavalos.github.io/publication/preprint_diversity_olfactory_receptors_diet_genus/</guid>
+      <title>Large-Scale Genome Sampling Reveals Unique Immunity and Metabolic Adaptations in Bats</title>
+      <link>https://lmdavalos.github.io/publication/journal_genome_sampling_immunity/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_genome_sampling_immunity/</guid>
       <description></description>
     </item>
     

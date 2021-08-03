@@ -5,12 +5,28 @@
     <link>https://lmdavalos.github.io/</link>
       <atom:link href="https://lmdavalos.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Dávalos Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2021</copyright><lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2021</copyright><lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmdavalos.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Dávalos Lab</title>
       <link>https://lmdavalos.github.io/</link>
     </image>
+    
+    <item>
+      <title>Drug pollution &amp; sustainable development goals</title>
+      <link>https://lmdavalos.github.io/publication/journal_drug_pollutions_sdgs/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_drug_pollutions_sdgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversity in olfactory receptor repertoires is associated with dietary specialization in a genus of frugivorous bat</title>
+      <link>https://lmdavalos.github.io/publication/journal_diversity_olfactory_receptors_diet_genus/</link>
+      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_diversity_olfactory_receptors_diet_genus/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Large-Scale Genome Sampling Reveals Unique Immunity and Metabolic Adaptations in Bats</title>
@@ -90,14 +106,6 @@
       <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://lmdavalos.github.io/post/21-02-06-anna-williams/</guid>
       <description>&lt;p&gt;Anna McPherran won the Williams award at the 2021 Ecology &amp;amp; Evolution retreat. The award will help Anna sequence the genomes of hutias!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Diversity in olfactory receptor repertoires is associated with dietary specialization in a genus of frugivorous bat</title>
-      <link>https://lmdavalos.github.io/publication/preprint_diversity_olfactory_receptors_diet_genus/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://lmdavalos.github.io/publication/preprint_diversity_olfactory_receptors_diet_genus/</guid>
-      <description></description>
     </item>
     
     <item>
