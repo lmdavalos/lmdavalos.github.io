@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lmdavalos.github.io/post/21-09-15-liliana-nova/</loc>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/</loc>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/post/</loc>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lmdavalos.github.io/publication-type/3/</loc>
     <lastmod>2021-09-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -21,9 +30,6 @@
     <lastmod>2021-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/authors/daniela-lee/</loc>
-    <lastmod>2021-09-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/</loc>
     <lastmod>2021-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/publication/preprint_ecological_constraints_on_highly_evolvable_olfactor_receptor_genes/</loc>
@@ -355,9 +361,6 @@
   </url><url>
     <loc>https://lmdavalos.github.io/tag/orbit/</loc>
     <lastmod>2021-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/post/</loc>
-    <lastmod>2021-05-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/post/21-05-14-thomas-ssb/</loc>
     <lastmod>2021-05-14T00:00:00+00:00</lastmod>
@@ -1371,6 +1374,9 @@
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/authors/stefan-janssen/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/authors/the-earth-microbiome-project-consortium/</loc>
     <lastmod>2017-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/authors/tomasz-kosciolek/</loc>
@@ -2582,8 +2588,6 @@
     <loc>https://lmdavalos.github.io/contact/</loc>
   </url><url>
     <loc>https://lmdavalos.github.io/people/</loc>
-  </url><url>
-    <loc>https://lmdavalos.github.io/authors/bthe-earth-microbiome-project-consortium/b/</loc>
   </url><url>
     <loc>https://lmdavalos.github.io/authors/goldberg_aaron/</loc>
   </url><url>
