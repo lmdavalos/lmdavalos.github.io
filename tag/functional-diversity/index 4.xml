@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>functional diversity | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/tag/functional-diversity/</link>
+      <atom:link href="https://lmdavalos.github.io/tag/functional-diversity/index.xml" rel="self" type="application/rss+xml" />
+    <description>functional diversity</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2022</copyright><lastBuildDate>Tue, 02 Apr 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>functional diversity</title>
+      <link>https://lmdavalos.github.io/tag/functional-diversity/</link>
+    </image>
+    
+    <item>
+      <title>An horizon scan of biogeography</title>
+      <link>https://lmdavalos.github.io/publication/journal_an_horizon_scan/</link>
+      <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_an_horizon_scan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

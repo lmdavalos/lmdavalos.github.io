@@ -23,9 +23,6 @@
     <loc>https://lmdavalos.github.io/authors/aleksandar-rankovic/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/tag/amazon-andes/</loc>
-    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmdavalos.github.io/authors/anchor-kutchhi/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -38,7 +35,7 @@
     <loc>https://lmdavalos.github.io/authors/bernardo-strassburg/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/tag/bolivia/</loc>
+    <loc>https://lmdavalos.github.io/tag/biodiversity-conservation/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/authors/carlo-rondinini/</loc>
@@ -47,7 +44,7 @@
     <loc>https://lmdavalos.github.io/authors/chinwe-ifejika-speranza/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/tag/colombia/</loc>
+    <loc>https://lmdavalos.github.io/tag/conservation/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/tag/convention-on-biological-diversity/</loc>
@@ -92,7 +89,7 @@
     <loc>https://lmdavalos.github.io/authors/frederick-ato-armah/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/tag/illicit-crops/</loc>
+    <loc>https://lmdavalos.github.io/tag/global-biodiversity-framework/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/authors/jose-manuel-ochoa/</loc>
@@ -119,9 +116,6 @@
     <loc>https://lmdavalos.github.io/authors/marcel-kok/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/tag/marginal-de-la-selva/</loc>
-    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmdavalos.github.io/authors/maria-cecilia-londono-murcia/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -143,9 +137,6 @@
     <loc>https://lmdavalos.github.io/authors/paul-leadley/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/tag/peru/</loc>
-    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmdavalos.github.io/authors/peter-verburg/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -162,6 +153,9 @@
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/authors/rashid-sumaila/</loc>
+    <lastmod>2022-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/sbstta/</loc>
     <lastmod>2022-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/authors/sean-jellesmark/</loc>
@@ -260,6 +254,9 @@
     <loc>https://lmdavalos.github.io/post/21-10-29-liliana-mongabay/</loc>
     <lastmod>2021-10-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://lmdavalos.github.io/tag/amazon-andes/</loc>
+    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lmdavalos.github.io/tag/armed-conflict/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -267,6 +264,9 @@
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/tag/coca/</loc>
+    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/colombia/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/tag/development/</loc>
@@ -1175,9 +1175,6 @@
     <loc>https://lmdavalos.github.io/tag/biodiversity/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/tag/conservation/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmdavalos.github.io/publication/journal_fires_in_protected_areas/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -1291,6 +1288,18 @@
   </url><url>
     <loc>https://lmdavalos.github.io/project/genomics_of_exceptions_to_scaling/</loc>
     <lastmod>2018-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/bolivia/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/illicit-crops/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/marginal-de-la-selva/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/peru/</loc>
+    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/publication/book_section_ghosts_of_development_past/</loc>
     <lastmod>2018-06-18T00:00:00+00:00</lastmod>
