@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonah Rothleder | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/authors/rothleder_jonah/</link>
+      <atom:link href="https://lmdavalos.github.io/authors/rothleder_jonah/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonah Rothleder</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2022</copyright>
+    <image>
+      <url>https://lmdavalos.github.io/authors/rothleder_jonah/avatar_hu0569d9e25e44d15cce4bc78390f3165a_222411_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Jonah Rothleder</title>
+      <link>https://lmdavalos.github.io/authors/rothleder_jonah/</link>
+    </image>
+    
+  </channel>
+</rss>

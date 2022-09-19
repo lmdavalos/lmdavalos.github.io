@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tropical biology | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/tag/tropical-biology/</link>
+      <atom:link href="https://lmdavalos.github.io/tag/tropical-biology/index.xml" rel="self" type="application/rss+xml" />
+    <description>tropical biology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2022</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>tropical biology</title>
+      <link>https://lmdavalos.github.io/tag/tropical-biology/</link>
+    </image>
+    
+    <item>
+      <title>Global Union of Bat Diversity Networks (GBatNet)</title>
+      <link>https://lmdavalos.github.io/project/global_bat_net/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/global_bat_net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bat goblet cells as immuno-hotspots for infection of coronavirus</title>
+      <link>https://lmdavalos.github.io/project/bat_goblet_cells/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/bat_goblet_cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The death and life of biodiversity: modeling extinction and resilience on islands</title>
+      <link>https://lmdavalos.github.io/project/death_and_life_of_biodiversity/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/death_and_life_of_biodiversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interdisciplinary Graduate Training to Understand and Inform Decision Processes Using Advanced Spatial Data Analysis and Visualization</title>
+      <link>https://lmdavalos.github.io/project/spatial_data_analysis/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/spatial_data_analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

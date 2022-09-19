@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>current | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/tag/current/</link>
+      <atom:link href="https://lmdavalos.github.io/tag/current/index.xml" rel="self" type="application/rss+xml" />
+    <description>current</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2022</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>current</title>
+      <link>https://lmdavalos.github.io/tag/current/</link>
+    </image>
+    
+    <item>
+      <title>Global Union of Bat Diversity Networks (GBatNet)</title>
+      <link>https://lmdavalos.github.io/project/global_bat_net/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/global_bat_net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bat goblet cells as immuno-hotspots for infection of coronavirus</title>
+      <link>https://lmdavalos.github.io/project/bat_goblet_cells/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/bat_goblet_cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immunological adaptations in bats to moderate the effect of coronavirus infection</title>
+      <link>https://lmdavalos.github.io/project/immunological_adaptations_in_bats/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/immunological_adaptations_in_bats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regrowing the brain; evolution and mechanisms of seasonal reversible size changes in a mammal</title>
+      <link>https://lmdavalos.github.io/project/regrowing_the_brain/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/regrowing_the_brain/</guid>
+      <description>&lt;p&gt;Organisms need strategies to survive when conditions are hard. For mammals, winter is particularly difficult - they have to invest large amounts of energy into keeping warm, while food availability is low. For this reason, many mammals migrate or hibernate. However, what to do if you are too small to migrate long distance, burn your energy fast, and cannot hibernate? The common shrew is such a mammal and has evolved an astonishing strategy: each individual shrinks in winter by up to 20% and then regrows in the spring by about 13%. This size change, thought to allow shrews to survive on fewer resources because of the smaller size and linked lower energy requirements, include not just overall size, but specifically organs that do not usually change size in fully grown animals, such as the brain, heart and liver.
+The process of neurological degeneration and regeneration is of great interest, since many central nervous system diseases (e.g., Alzheimer’s, multiple sclerosis) involve degeneration, but ongoing research for therapies to reverse this process has been of limited success. As one of only a few recorded examples of mammalian brain regeneration, understanding how the shrew regrows its brain can accelerate research that leads to future therapies.
+To answer the question of how the shrew shrinks and then regrows its brain, we will establish this unusual species as a new model, by studying the biological, molecular, biochemical and genetic processes behind this reversible size change. Besides establishing a database of information that can be mined and researched in years to come to discover the pathways that generate this cycle in the shrew, we will test a metabolic model of neurological change by artificially blocking molecular access to fats. Thus, the cross-disciplinary study of this wintering adaptation may help us understand more about regeneration in mammals in general, and the brain in particular.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interdisciplinary Graduate Training to Understand and Inform Decision Processes Using Advanced Spatial Data Analysis and Visualization</title>
+      <link>https://lmdavalos.github.io/project/spatial_data_analysis/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/spatial_data_analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

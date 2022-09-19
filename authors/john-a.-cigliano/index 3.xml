@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John A. Cigliano | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/authors/john-a.-cigliano/</link>
+      <atom:link href="https://lmdavalos.github.io/authors/john-a.-cigliano/index.xml" rel="self" type="application/rss+xml" />
+    <description>John A. Cigliano</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2022</copyright><lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>John A. Cigliano</title>
+      <link>https://lmdavalos.github.io/authors/john-a.-cigliano/</link>
+    </image>
+    
+    <item>
+      <title>Using Case Studies to Improve the Critical Thinking Skills of Undergraduate Conservation Biology Students</title>
+      <link>https://lmdavalos.github.io/publication/journal_using_case_studies_improve_critical_thinking_skills/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_using_case_studies_improve_critical_thinking_skills/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
