@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tropical biology | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/tag/tropical-biology/</link>
+      <atom:link href="https://lmdavalos.github.io/tag/tropical-biology/index.xml" rel="self" type="application/rss+xml" />
+    <description>tropical biology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2023</copyright><lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>tropical biology</title>
+      <link>https://lmdavalos.github.io/tag/tropical-biology/</link>
+    </image>
+    
+    <item>
+      <title>Integrated mechanisms of environment-host-virome interactions</title>
+      <link>https://lmdavalos.github.io/project/integrated_mechanisms_environment_host_virome/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/integrated_mechanisms_environment_host_virome/</guid>
+      <description>&lt;p&gt;Human disruption of the environment is thought to play a central role in disease emergence in wildlife populations by reducing the availability of foods and refuge that animals rely upon, thereby stressing the animals and making them more susceptible to viruses. However, the mechanisms governing relationships among the environment, the wildlife host, and the viral communities they support are poorly known. To address this problem, the project will take advantage of a single cohesive wild system of Egyptian fruit bats (Rousettus aegyptiacus) to sample animals of different sex, age, and reproductive condition from caves that support different numbers of bats, are subject to variable levels of hunting, and are surrounded by different qualities of foraging habitat and hence food resources. Using each individual bat as the unit of observation, analyses will aim to relate landscape resources, and individual condition and immunity to viral profiles, thus answering three key questions: (1) how do host abundance, reproduction, age, and condition differentially or interactively influence viral diversity; (2) how do molecular immune mechanisms respond to environmental and physiological stressors in wild populations; and (3) how do gene expression profiles and viral infection influence one another in the wild? The results should allow links to be discerned that connect environmental gradients of human disturbance to virome diversity via organismal conditions, thereby providing essential new information for understanding disease dynamics in the wild, modeling risks, and thus preventing the next pandemic. Moreover, the project’s integrated and mechanistic systems approach to studying fundamental processes in disease emergence is expected to be generalizable across taxa at the human-wildlife disease interface.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Global Union of Bat Diversity Networks (GBatNet)</title>
+      <link>https://lmdavalos.github.io/project/global_bat_net/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/global_bat_net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bat goblet cells as immuno-hotspots for infection of coronavirus</title>
+      <link>https://lmdavalos.github.io/project/bat_goblet_cells/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/bat_goblet_cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The death and life of biodiversity: modeling extinction and resilience on islands</title>
+      <link>https://lmdavalos.github.io/project/death_and_life_of_biodiversity/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/death_and_life_of_biodiversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interdisciplinary Graduate Training to Understand and Inform Decision Processes Using Advanced Spatial Data Analysis and Visualization</title>
+      <link>https://lmdavalos.github.io/project/spatial_data_analysis/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/spatial_data_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chance or necessity? Adaptive vs. non adaptive evolution in plant-frugivore interactions</title>
+      <link>https://lmdavalos.github.io/project/chance_or_necessity/</link>
+      <pubDate>Sun, 15 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/chance_or_necessity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering genomic and developmental mechanisms that underlie sensory innovations critical to adaptive diversification</title>
+      <link>https://lmdavalos.github.io/project/discovering_genomic_and_developmental_mechanisms/</link>
+      <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/discovering_genomic_and_developmental_mechanisms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversification in Noctilionoid Bats</title>
+      <link>https://lmdavalos.github.io/project/diversification_of_noctilionoid_bats/</link>
+      <pubDate>Mon, 08 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/diversification_of_noctilionoid_bats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical Biogeography of the Antilles</title>
+      <link>https://lmdavalos.github.io/project/historical_biogeography_antilles/</link>
+      <pubDate>Sat, 01 Jun 2002 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/historical_biogeography_antilles/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
