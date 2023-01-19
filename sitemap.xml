@@ -2,6 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lmdavalos.github.io/publication-type/2/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/authors/alexandra-van-der-geer/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/authors/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/extinction/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/fossils/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/authors/grace-i.-saville/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/holocene/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/island-biogeography/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/lemurs/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/authors/admin/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/authors/luis-valente/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/madagascar/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/mammal/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/authors/nathan-m.-michielsen/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/authors/nathan-s.-upham/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/phylogeny/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/publication_types/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/publication/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/quaternary/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/authors/steven-m.-goodman/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tags/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/publication/journal_macroevolutionary_impact_mammal_extinctions_madagascar/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lmdavalos.github.io/authors/voahangy-soarimalala/</loc>
+    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lmdavalos.github.io/publication-type/3/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,9 +83,6 @@
     <loc>https://lmdavalos.github.io/authors/austin-b.-osmanski/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/authors/</loc>
-    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmdavalos.github.io/tag/bayesian/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -21,9 +90,6 @@
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/authors/claudia-crookshanks/</loc>
-    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/authors/david-a.-ray/</loc>
@@ -47,6 +113,9 @@
     <loc>https://lmdavalos.github.io/tag/hierarchical-models/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://lmdavalos.github.io/publication/preprint_insight_into_mammalian_tes/</loc>
+    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lmdavalos.github.io/authors/jacquelyn-roberts/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -68,9 +137,6 @@
     <loc>https://lmdavalos.github.io/authors/kevin-a.m.-sullivan/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/authors/admin/</loc>
-    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmdavalos.github.io/authors/llewellyn-d.-densmore/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -89,22 +155,10 @@
     <loc>https://lmdavalos.github.io/tag/phylogenetic-regression/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/publication_types/</loc>
-    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/publication/</loc>
-    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmdavalos.github.io/authors/richard-d.-stevens/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/authors/robert-hubley/</loc>
-    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tags/</loc>
-    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/publication/preprint_insight_into_mammalian_tes/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/tag/transposable-elements/</loc>
@@ -118,9 +172,6 @@
   </url><url>
     <loc>https://lmdavalos.github.io/post/22-12-13-deudas-ambientales-2022/</loc>
     <lastmod>2022-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/publication-type/2/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/tag/2050/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
@@ -341,9 +392,6 @@
     <loc>https://lmdavalos.github.io/authors/michelle-s.-koo/</loc>
     <lastmod>2022-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/authors/nathan-s.-upham/</loc>
-    <lastmod>2022-09-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmdavalos.github.io/authors/neeka-sewnath/</loc>
     <lastmod>2022-09-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -407,9 +455,6 @@
     <loc>https://lmdavalos.github.io/authors/alexa-sadier/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/authors/alexandra-van-der-geer/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmdavalos.github.io/authors/bhart-anjan-bullar/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -428,46 +473,19 @@
     <loc>https://lmdavalos.github.io/authors/elizabeth-r.-dumont/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/tag/extinction/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/fossils/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmdavalos.github.io/tag/frugivory/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/tag/gene-family-evolution/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/authors/grace-i.-saville/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmdavalos.github.io/authors/gregory-l.-mutumi/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/holocene/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/island-biogeography/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/authors/kalina-t.-j.-davies/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/authors/karen-e.-sears/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/lemurs/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/authors/luis-valente/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/madagascar/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/mammal/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/authors/matteo-fabbri/</loc>
@@ -482,9 +500,6 @@
     <loc>https://lmdavalos.github.io/authors/nancy-b.-simmons/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/authors/nathan-m.-michielsen/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmdavalos.github.io/tag/olfaction/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -494,28 +509,13 @@
     <loc>https://lmdavalos.github.io/tag/phyllostomidae/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/tag/phylogeny/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/quaternary/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmdavalos.github.io/authors/ronald-p.-hall/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/authors/stephen-j.-rossiter/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lmdavalos.github.io/authors/steven-m.-goodman/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/publication/preprint_macroevolutionary_impact_mammal_extinctions_madagascar/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lmdavalos.github.io/authors/thomas-p.-yohe/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lmdavalos.github.io/authors/voahangy-soarimalala/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lmdavalos.github.io/post/22-06-26-sipperly-botany/</loc>
