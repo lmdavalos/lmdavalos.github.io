@@ -5,12 +5,20 @@
     <link>https://lmdavalos.github.io/tag/current/</link>
       <atom:link href="https://lmdavalos.github.io/tag/current/index.xml" rel="self" type="application/rss+xml" />
     <description>current</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2023</copyright><lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2023</copyright><lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmdavalos.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>current</title>
       <link>https://lmdavalos.github.io/tag/current/</link>
     </image>
+    
+    <item>
+      <title>A Path to Climate Stability: Unleashing the Power of Azolla for Carbon Sequestration</title>
+      <link>https://lmdavalos.github.io/project/azolla_carbon_capture/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/azolla_carbon_capture/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Integrated mechanisms of environment-host-virome interactions</title>
@@ -19,6 +27,14 @@
       <guid>https://lmdavalos.github.io/project/integrated_mechanisms_environment_host_virome/</guid>
       <description>&lt;p&gt;Human disruption of the environment is thought to play a central role in disease emergence in wildlife populations by reducing the availability of foods and refuge that animals rely upon, thereby stressing the animals and making them more susceptible to viruses. However, the mechanisms governing relationships among the environment, the wildlife host, and the viral communities they support are poorly known. To address this problem, the project will take advantage of a single cohesive wild system of Egyptian fruit bats (Rousettus aegyptiacus) to sample animals of different sex, age, and reproductive condition from caves that support different numbers of bats, are subject to variable levels of hunting, and are surrounded by different qualities of foraging habitat and hence food resources. Using each individual bat as the unit of observation, analyses will aim to relate landscape resources, and individual condition and immunity to viral profiles, thus answering three key questions: (1) how do host abundance, reproduction, age, and condition differentially or interactively influence viral diversity; (2) how do molecular immune mechanisms respond to environmental and physiological stressors in wild populations; and (3) how do gene expression profiles and viral infection influence one another in the wild? The results should allow links to be discerned that connect environmental gradients of human disturbance to virome diversity via organismal conditions, thereby providing essential new information for understanding disease dynamics in the wild, modeling risks, and thus preventing the next pandemic. Moreover, the project’s integrated and mechanistic systems approach to studying fundamental processes in disease emergence is expected to be generalizable across taxa at the human-wildlife disease interface.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Biochemical and genomic characterization of APOBEC-virus coevolution in bats</title>
+      <link>https://lmdavalos.github.io/project/biochemical_and_genomic_characterization_apobec/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/biochemical_and_genomic_characterization_apobec/</guid>
+      <description></description>
     </item>
     
     <item>
