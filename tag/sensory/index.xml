@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sensory | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/tag/sensory/</link>
+      <atom:link href="https://lmdavalos.github.io/tag/sensory/index.xml" rel="self" type="application/rss+xml" />
+    <description>sensory</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2023</copyright><lastBuildDate>Sun, 09 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>sensory</title>
+      <link>https://lmdavalos.github.io/tag/sensory/</link>
+    </image>
+    
+    <item>
+      <title>Disentangling mechanical and sensory modules in the radiation of Noctilionoid bats</title>
+      <link>https://lmdavalos.github.io/publication/journal_disentangling_mechanical_sensory_modules_radiation_noctilionoid_bats/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_disentangling_mechanical_sensory_modules_radiation_noctilionoid_bats/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
