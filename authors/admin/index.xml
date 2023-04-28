@@ -5,7 +5,7 @@
     <link>https://lmdavalos.github.io/authors/admin/</link>
       <atom:link href="https://lmdavalos.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Liliana M. Dávalos</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2023</copyright><lastBuildDate>Sun, 09 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© L. Dávalos 2019-2023</copyright><lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmdavalos.github.io/authors/admin/avatar_huf1865c63f73e078ea6a7835545ef59cd_2236979_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Liliana M. Dávalos</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>Disentangling mechanical and sensory modules in the radiation of Noctilionoid bats</title>
-      <link>https://lmdavalos.github.io/publication/journal_disentangling_mechanical_sensory_modules_radiation_noctilionoid_bats/</link>
-      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://lmdavalos.github.io/publication/journal_disentangling_mechanical_sensory_modules_radiation_noctilionoid_bats/</guid>
+      <title>Insights into mammalian TE diversity via the curation of 248 mammalian genome assemblies</title>
+      <link>https://lmdavalos.github.io/publication/journal_insight_into_mammalian_tes/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_insight_into_mammalian_tes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphology and niche evolution influence hummingbird speciation rates</title>
+      <link>https://lmdavalos.github.io/publication/journal_morphology_niche_evolution_influence-_hummingbird_speciation/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_morphology_niche_evolution_influence-_hummingbird_speciation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chiropterans are a hotspot for horizontal transfer of DNA transposons in Mammalia</title>
-      <link>https://lmdavalos.github.io/publication/preprint_chiropterans_hotspot_horizontal_transfer_dna_transposons/</link>
-      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://lmdavalos.github.io/publication/preprint_chiropterans_hotspot_horizontal_transfer_dna_transposons/</guid>
+      <link>https://lmdavalos.github.io/publication/journal_chiropterans_hotspot_horizontal_transfer_dna_transposons/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_chiropterans_hotspot_horizontal_transfer_dna_transposons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangling mechanical and sensory modules in the radiation of Noctilionoid bats</title>
+      <link>https://lmdavalos.github.io/publication/journal_disentangling_mechanical_sensory_modules_radiation_noctilionoid_bats/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_disentangling_mechanical_sensory_modules_radiation_noctilionoid_bats/</guid>
       <description></description>
     </item>
     
@@ -41,14 +57,6 @@
       <link>https://lmdavalos.github.io/publication/journal_macroevolutionary_impact_mammal_extinctions_madagascar/</link>
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://lmdavalos.github.io/publication/journal_macroevolutionary_impact_mammal_extinctions_madagascar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Insights into mammalian TE diversity via the curation of 248 mammalian genome assemblies</title>
-      <link>https://lmdavalos.github.io/publication/preprint_insight_into_mammalian_tes/</link>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://lmdavalos.github.io/publication/preprint_insight_into_mammalian_tes/</guid>
       <description></description>
     </item>
     
