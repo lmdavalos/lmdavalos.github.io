@@ -1,0 +1,1792 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.2.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Liliana M. Dávalos" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Understanding variation of traits within and among species through time and across space is central to many questions in biology. Many resources assemble species-level trait data, but the data and metadata underlying those trait measurements are often not reported. Here, we introduce FuTRES (Functional Trait Resource for Environmental Studies; pronounced few- tress), an online datastore and community resource for individual-level trait reporting that utilizes a semantic framework. FuTRES already stores millions of trait measurements for paleobiological, zooarchaeological, and modern specimens, with a current focus on mammals. We compare dynamically-derived extant mammal species&#39; body size measurements in FuTRES with summary values from other compilations, highlighting potential issues with simply reporting a single mean estimate. We then show that individual-level data improves estimates of body mass – including uncertainty – for zooarchaeological specimens. FuTRES facilitates trait data integration and discoverability, accelerating new research agendas, especially scaling from intra- to interspecific trait variability." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://lmdavalos.github.io/publication/journal_challenges_interdisciplinary_aggregation_specimen_level/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#3f51b5" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.e0fdc8dd3293d443eb337d05f22a677f.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://lmdavalos.github.io/publication/journal_challenges_interdisciplinary_aggregation_specimen_level/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+    <meta property="twitter:site" content="@LabDavalos" />
+    <meta property="twitter:creator" content="@LabDavalos" />
+  
+  <meta property="og:site_name" content="Dávalos Lab" />
+  <meta property="og:url" content="https://lmdavalos.github.io/publication/journal_challenges_interdisciplinary_aggregation_specimen_level/" />
+  <meta property="og:title" content="A solution to the challenges of interdisciplinary aggregation and use of specimen-level trait data | Dávalos Lab" />
+  <meta property="og:description" content="Understanding variation of traits within and among species through time and across space is central to many questions in biology. Many resources assemble species-level trait data, but the data and metadata underlying those trait measurements are often not reported. Here, we introduce FuTRES (Functional Trait Resource for Environmental Studies; pronounced few- tress), an online datastore and community resource for individual-level trait reporting that utilizes a semantic framework. FuTRES already stores millions of trait measurements for paleobiological, zooarchaeological, and modern specimens, with a current focus on mammals. We compare dynamically-derived extant mammal species&#39; body size measurements in FuTRES with summary values from other compilations, highlighting potential issues with simply reporting a single mean estimate. We then show that individual-level data improves estimates of body mass – including uncertainty – for zooarchaeological specimens. FuTRES facilitates trait data integration and discoverability, accelerating new research agendas, especially scaling from intra- to interspecific trait variability." /><meta property="og:image" content="https://lmdavalos.github.io/publication/journal_challenges_interdisciplinary_aggregation_specimen_level/featured.png" />
+    <meta property="twitter:image" content="https://lmdavalos.github.io/publication/journal_challenges_interdisciplinary_aggregation_specimen_level/featured.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2022-09-12T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2022-09-12T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://lmdavalos.github.io/publication/journal_challenges_interdisciplinary_aggregation_specimen_level/"
+  },
+  "headline": "A solution to the challenges of interdisciplinary aggregation and use of specimen-level trait data",
+  
+  "image": [
+    "https://lmdavalos.github.io/publication/journal_challenges_interdisciplinary_aggregation_specimen_level/featured.png"
+  ],
+  
+  "datePublished": "2022-09-12T00:00:00Z",
+  "dateModified": "2022-09-12T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Meghan A. Balk"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Dávalos Lab",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://lmdavalos.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Understanding variation of traits within and among species through time and across space is central to many questions in biology. Many resources assemble species-level trait data, but the data and metadata underlying those trait measurements are often not reported. Here, we introduce FuTRES (Functional Trait Resource for Environmental Studies; pronounced few- tress), an online datastore and community resource for individual-level trait reporting that utilizes a semantic framework. FuTRES already stores millions of trait measurements for paleobiological, zooarchaeological, and modern specimens, with a current focus on mammals. We compare dynamically-derived extant mammal species' body size measurements in FuTRES with summary values from other compilations, highlighting potential issues with simply reporting a single mean estimate. We then show that individual-level data improves estimates of body mass – including uncertainty – for zooarchaeological specimens. FuTRES facilitates trait data integration and discoverability, accelerating new research agendas, especially scaling from intra- to interspecific trait variability."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>A solution to the challenges of interdisciplinary aggregation and use of specimen-level trait data | Dávalos Lab</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="b3566f65c47f7b4bad69303c88e4854a" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.4be02a3b391999348b0c7478778a0e4b.js"></script>
+
+  
+
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Dávalos Lab</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Dávalos Lab</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#news"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/courses/"><span>Courses</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/join_lab/"><span>Join</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://davaloslab.blogspot.com/" target="_blank" rel="noopener"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/Davalos_CV_current.pdf"><span>CV (PI)</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://photos.google.com/u/1/share/AF1QipNosBFI-ygTS-3eUyUkvaUHhJ6ur56s724VyYD1Yx79PpLYDWQGSWHD9kE-kQWd0Q?key=RDdwWGU2R09XRXdMaFpBQVg1eHNGTHdUZEJJZEZR" target="_blank" rel="noopener"><span>Photos</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>A solution to the challenges of interdisciplinary aggregation and use of specimen-level trait data</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/meghan-a.-balk/">Meghan A. Balk</a></span>, <span >
+      <a href="/authors/john-deck/">John Deck</a></span>, <span >
+      <a href="/authors/kitty-f.-emery/">Kitty F. Emery</a></span>, <span >
+      <a href="/authors/ramona-l.-walls/">Ramona L. Walls</a></span>, <span >
+      <a href="/authors/dana-reuter/">Dana Reuter</a></span>, <span >
+      <a href="/authors/raphael-lafrance/">Raphael LaFrance</a></span>, <span >
+      <a href="/authors/joaquin-arroyo-cabrales/">Joaquín Arroyo-Cabrales</a></span>, <span >
+      <a href="/authors/paul-barrett/">Paul Barrett</a></span>, <span >
+      <a href="/authors/jessica-blois/">Jessica Blois</a></span>, <span >
+      <a href="/authors/arianne-boileau/">Arianne Boileau</a></span>, <span >
+      <a href="/authors/laura-brenskelle/">Laura Brenskelle</a></span>, <span >
+      <a href="/authors/nicole-r.-cannarozzi/">Nicole R. Cannarozzi</a></span>, <span >
+      <a href="/authors/j.-alberto-cruz/">J. Alberto Cruz</a></span>, <span >
+      <a href="/authors/admin/">Liliana M. Dávalos</a></span>, <span >
+      <a href="/authors/noe-u.-de-la-sancha/">Noé U. de la Sancha</a></span>, <span >
+      <a href="/authors/prasiddhi-gyawali/">Prasiddhi Gyawali</a></span>, <span >
+      <a href="/authors/maggie-m.-hantak/">Maggie M. Hantak</a></span>, <span >
+      <a href="/authors/samantha-hopkins/">Samantha Hopkins</a></span>, <span >
+      <a href="/authors/brooks-kohli/">Brooks Kohli</a></span>, <span >
+      <a href="/authors/jessica-n.-king/">Jessica N. King</a></span>, <span >
+      <a href="/authors/michelle-s.-koo/">Michelle S. Koo</a></span>, <span >
+      <a href="/authors/a.-michelle-lawing/">A. Michelle Lawing</a></span>, <span >
+      <a href="/authors/helena-machado/">Helena Machado</a></span>, <span >
+      <a href="/authors/samantha-m.-mccrane/">Samantha M. McCrane</a></span>, <span >
+      <a href="/authors/bryan-mclean/">Bryan McLean</a></span>, <span >
+      <a href="/authors/michele-e.-morgan/">Michèle E. Morgan</a></span>, <span >
+      <a href="/authors/suzanne-pilaar-birch/">Suzanne Pilaar Birch</a></span>, <span >
+      <a href="/authors/denne-reed/">Denne Reed</a></span>, <span >
+      <a href="/authors/elizabeth-j.-reitz/">Elizabeth J. Reitz</a></span>, <span >
+      <a href="/authors/neeka-sewnath/">Neeka Sewnath</a></span>, <span >
+      <a href="/authors/nathan-s.-upham/">Nathan S. Upham</a></span>, <span >
+      <a href="/authors/amelia-villasenor/">Amelia Villaseñor</a></span>, <span >
+      <a href="/authors/laurel-r.-yohe/">Laurel R. Yohe</a></span>, <span >
+      <a href="/authors/edward-b.-davis/">Edward B. Davis</a></span>, <span >
+      <a href="/authors/robert-p.-guralnick/">Robert P. Guralnick</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2022-09-12
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://www.cell.com/action/showPdf?pii=S2589-0042%2822%2901373-6" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/publication/journal_challenges_interdisciplinary_aggregation_specimen_level/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header" href="/project/spatial_data_analysis/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://www.cell.com/iscience/fulltext/S2589-0042%2822%2901373-6" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1016/j.isci.2022.105101" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 720px;">
+  <div style="position: relative">
+    <img src="/publication/journal_challenges_interdisciplinary_aggregation_specimen_level/featured_huf7ab8f83f3ece714e0d7c56066efcc84_970873_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Understanding variation of traits within and among species through time and across space is central to many questions in biology. Many resources assemble species-level trait data, but the data and metadata underlying those trait measurements are often not reported. Here, we introduce FuTRES (Functional Trait Resource for Environmental Studies; pronounced few- tress), an online datastore and community resource for individual-level trait reporting that utilizes a semantic framework. FuTRES already stores millions of trait measurements for paleobiological, zooarchaeological, and modern specimens, with a current focus on mammals. We compare dynamically-derived extant mammal species&rsquo; body size measurements in FuTRES with summary values from other compilations, highlighting potential issues with simply reporting a single mean estimate. We then show that individual-level data improves estimates of body mass – including uncertainty – for zooarchaeological specimens. FuTRES facilitates trait data integration and discoverability, accelerating new research agendas, especially scaling from intra- to interspecific trait variability.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#2">
+              Journal article
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>iScience</em> 25, 105101</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/traits/">traits</a>
+  
+  <a class="badge badge-light" href="/tag/allometry/">allometry</a>
+  
+  <a class="badge badge-light" href="/tag/ontology/">ontology</a>
+  
+  <a class="badge badge-light" href="/tag/body-mass/">body mass</a>
+  
+  <a class="badge badge-light" href="/tag/specimens/">specimens</a>
+  
+  <a class="badge badge-light" href="/tag/total-evidence/">total evidence</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://lmdavalos.github.io/publication/journal_challenges_interdisciplinary_aggregation_specimen_level/&amp;text=A%20solution%20to%20the%20challenges%20of%20interdisciplinary%20aggregation%20and%20use%20of%20specimen-level%20trait%20data" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://lmdavalos.github.io/publication/journal_challenges_interdisciplinary_aggregation_specimen_level/&amp;t=A%20solution%20to%20the%20challenges%20of%20interdisciplinary%20aggregation%20and%20use%20of%20specimen-level%20trait%20data" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=A%20solution%20to%20the%20challenges%20of%20interdisciplinary%20aggregation%20and%20use%20of%20specimen-level%20trait%20data&amp;body=https://lmdavalos.github.io/publication/journal_challenges_interdisciplinary_aggregation_specimen_level/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://lmdavalos.github.io/publication/journal_challenges_interdisciplinary_aggregation_specimen_level/&amp;title=A%20solution%20to%20the%20challenges%20of%20interdisciplinary%20aggregation%20and%20use%20of%20specimen-level%20trait%20data" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=A%20solution%20to%20the%20challenges%20of%20interdisciplinary%20aggregation%20and%20use%20of%20specimen-level%20trait%20data%20https://lmdavalos.github.io/publication/journal_challenges_interdisciplinary_aggregation_specimen_level/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://lmdavalos.github.io/publication/journal_challenges_interdisciplinary_aggregation_specimen_level/&amp;title=A%20solution%20to%20the%20challenges%20of%20interdisciplinary%20aggregation%20and%20use%20of%20specimen-level%20trait%20data" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/admin/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu64118515f353834f3c620f341716a119_10059533_270x270_fill_lanczos_center_3.png" alt="Liliana M. Dávalos"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/admin/">Liliana M. Dávalos</a></h5>
+      <h6 class="card-subtitle">Professor of Conservation Biology</h6>
+      <p class="card-text">I’m interested in how biology and the environment shape biodiversity in time and space.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://en.wikipedia.org/wiki/Liliana_M._D%C3%A1valos" target="_blank" rel="noopener">
+        <i class="fab fa-wikipedia-w"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?hl=en&amp;user=XSwScHgAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://datadryad.org/discover?query=davalos%2C&#43;liliana&amp;submit=Go&amp;filtertype=*&amp;filter=&amp;rpp=20&amp;sort_by=score&amp;order=DESC" target="_blank" rel="noopener">
+        <i class="ai ai-dryad"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/lmdavalos" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-4327-7697" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Liliana_Davalos" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.slideshare.net/lmdavalos" target="_blank" rel="noopener">
+        <i class="fab fa-slideshare"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/LabDavalos" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/journal_allometry_of_daily_energy_expenditure/">The allometry of daily energy expenditure in hummingbirds: an energy budget approach</a></li>
+      
+      <li><a href="/publication/journal_phylogeny_and_divergence_times/">Phylogeny and divergence times of lemurs inferred with recent and ancient fossils in the tree</a></li>
+      
+      <li><a href="/publication/journal_ecological_constraints_on_highly_evolvable_olfactor_receptor_genes/">Ecological constraints on highly evolvable olfactory receptor genes and morphology in neotropical bats</a></li>
+      
+      <li><a href="/publication/journal_dietary_nectar-feedin_bats_and_birds_show_parallel/">Nectar-Feeding Bats and Birds Show Parallel Molecular Adaptations in Sugar Metabolism Enzymes</a></li>
+      
+      <li><a href="/publication/journal_genome_sampling_immunity/">Large-Scale Genome Sampling Reveals Unique Immunity and Metabolic Adaptations in Bats</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+  
+
+  
+  <p class="powered-by">
+    © L. Dávalos 2019-2023
+  </p>
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/en/js/wowchemy.min.1286c8f8fea0f32a1b7b462029c63fd6.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>
