@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hall, Mark | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/author/hall-mark/</link>
+      <atom:link href="https://lmdavalos.github.io/author/hall-mark/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hall, Mark</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://lmdavalos.github.io/author/hall-mark/avatar_hu8afb77f386ab44587407204e7f6d648c_216760_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Hall, Mark</title>
+      <link>https://lmdavalos.github.io/author/hall-mark/</link>
+    </image>
+    
+  </channel>
+</rss>
