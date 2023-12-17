@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luis Valente | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/author/luis-valente/</link>
+      <atom:link href="https://lmdavalos.github.io/author/luis-valente/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luis Valente</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/media/icon_hud44501404c914d67889d8518d1a662c7_303770_512x512_fill_lanczos_center_3.png</url>
+      <title>Luis Valente</title>
+      <link>https://lmdavalos.github.io/author/luis-valente/</link>
+    </image>
+    
+    <item>
+      <title>The macroevolutionary impact of recent and imminent mammal extinctions on Madagascar</title>
+      <link>https://lmdavalos.github.io/publication/journal_macroevolutionary_impact_mammal_extinctions_madagascar/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_macroevolutionary_impact_mammal_extinctions_madagascar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent extinctions disturb path to equilibrium diversity in Caribbean bats</title>
+      <link>https://lmdavalos.github.io/publication/journal_recent_extinctions_disturb_path/</link>
+      <pubDate>Mon, 09 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_recent_extinctions_disturb_path/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
