@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Contact</title>
-      <link>https://lmdavalos.github.io/contact/</link>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://lmdavalos.github.io/contact/</guid>
+      <title>People</title>
+      <link>https://lmdavalos.github.io/alumni/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/alumni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
       <link>https://lmdavalos.github.io/people/</link>
-      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://lmdavalos.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://lmdavalos.github.io/contact/</link>
+      <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/contact/</guid>
       <description></description>
     </item>
     
@@ -106,6 +114,33 @@
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://lmdavalos.github.io/publication/preprint_evolvability_cancer_associated_under_apobec3_selection/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>BIO 336: Conservation Biology</title>
+      <link>https://lmdavalos.github.io/course/24-08-26-bio-336/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/course/24-08-26-bio-336/</guid>
+      <description>&lt;p&gt;To be taught Fall 2024. Active learning course. Introduces the scientific foundations of conservation biology, along with real-world examples. Seven learning units: demography, population genetics, between-species interactions, island biogeography, biogeochemistry, and environmental economics. Classroom is flipped, course includes pre- and post-assessments of class content, activities in every class period, numerous take-home exercises, online-based textbooks, and open-notes exams.&lt;/p&gt;
+&lt;p&gt;The course has been part of a &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=0942789&amp;amp;HistoricalAwards=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSF-funded project&lt;/a&gt; to evaluate the effectiveness of one-semester interventions in building critical thinking skills. Results show that students do gain &lt;a href=&#34;https://online.ucpress.edu/cse/article/5/1/1536396/118929/Using-Case-Studies-to-Improve-the-Critical&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;some critical thinking skills&lt;/a&gt; as part of the course.&lt;/p&gt;
+&lt;p&gt;Credits: 3&lt;/p&gt;
+&lt;p&gt;Hours: 2 lectures (80-min each) per week.&lt;/p&gt;
+&lt;p&gt;Grading type: A-F&lt;/p&gt;
+&lt;p&gt;Instructor: &lt;a href=&#34;../author/davalos-liliana-m./&#34;&gt;Liliana M. Dávalos&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GLI 320: Global, Cultural, and Environmental Issues</title>
+      <link>https://lmdavalos.github.io/course/24-08-26-gli-320/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/course/24-08-26-gli-320/</guid>
+      <description>&lt;p&gt;To be taught Fall 2024. Provides a critical understanding of how environmental problems and conflicts have roots in global social processes (such as culture, community, and political and economic inequality), and how these social forces in turn bear on the ways individuals and groups understand environmental problems and politically mobilize to change them. Specific emphases of the course deal with the links, at a global scale, between environmental degradation and various social problems like violence, spreading of disease, and international migration.&lt;/p&gt;
+&lt;p&gt;Prerequisite: GLI 211&lt;/p&gt;
+&lt;p&gt;DEC:     H&lt;/p&gt;
+&lt;p&gt;SBC:     STAS&lt;/p&gt;
+&lt;p&gt;3 credits&lt;/p&gt;
+&lt;p&gt;Instructor: &lt;a href=&#34;../author/davalos-liliana-m./&#34;&gt;Liliana M. Dávalos&lt;/a&gt;&lt;/p&gt;
+&lt;!--more--&gt;</description>
     </item>
     
     <item>
@@ -293,6 +328,14 @@ Upload your CV and cover letter to the &lt;a href=&#34;https://stonybrooku.taleo
       <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://lmdavalos.github.io/publication/preprint_reference_quality_bat_genomes_illuminate_adaptations_viral/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>BEE 690: Ethics in Genetics and Genomics</title>
+      <link>https://lmdavalos.github.io/course/23-01-22-bee-690/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/course/23-01-22-bee-690/</guid>
+      <description>&lt;p&gt;Taught Spring 2023. A seminar on ethics and genetics and genomics.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -985,6 +1028,19 @@ NSF, potentially followed by additional proposals. We aim to&lt;/p&gt;
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://lmdavalos.github.io/publication/book_section_protocols_molecular_evolutionary_analysis/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>BIO 211: Statistics and Data Analysis: A Conceptual Approach</title>
+      <link>https://lmdavalos.github.io/course/18-08-26-bio-211/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/course/18-08-26-bio-211/</guid>
+      <description>&lt;p&gt;Currently taught by &lt;a href=&#34;https://www.pascaltitle.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pascal Title&lt;/a&gt;. This course is an introduction to probability and data analysis emphasizing the nature of science, statistical literacy, thinking, and reasoning. While focused on statistical concepts such as probability and distributions, examples and applications are based on competencies relevant to biological data and interpretations in light of biological models. The course applies active learning, with both lectures and recitation periods built around student engagement and hands-on activities. These include, but are not limited to, discussing the primary literature and plotting, analyzing, and interpreting published and simulated data.&lt;/p&gt;
+&lt;p&gt;Pre- or Corequisite: MAT 123 or higher, or level 4 or higher on the mathematics placement examination. May not be taken by students with credit in AMS 110, 310, 311, 412, EBH 230, or ECO 320&lt;/p&gt;
+&lt;p&gt;DEC:     C&lt;/p&gt;
+&lt;p&gt;SBC:     STEM+&lt;/p&gt;
+&lt;p&gt;4 credits&lt;/p&gt;
+&lt;p&gt;Instructor (current): &lt;a href=&#34;https://www.pascaltitle.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pascal Title&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
