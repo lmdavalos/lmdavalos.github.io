@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amy L. Russell* | Dávalos Lab</title>
+    <title>Amy L. Russell | Dávalos Lab</title>
     <link>https://lmdavalos.github.io/author/amy-l.-russell/</link>
       <atom:link href="https://lmdavalos.github.io/author/amy-l.-russell/index.xml" rel="self" type="application/rss+xml" />
-    <description>Amy L. Russell*</description>
+    <description>Amy L. Russell</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmdavalos.github.io/media/icon_hud44501404c914d67889d8518d1a662c7_303770_512x512_fill_lanczos_center_3.png</url>
-      <title>Amy L. Russell*</title>
+      <title>Amy L. Russell</title>
       <link>https://lmdavalos.github.io/author/amy-l.-russell/</link>
     </image>
     
@@ -25,6 +25,14 @@
       <link>https://lmdavalos.github.io/publication/journal_coalescent-based_estimator/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://lmdavalos.github.io/publication/journal_coalescent-based_estimator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From the Field to the Lab: Best Practices for Field Preservation of Bat Specimens for Molecular Analyses</title>
+      <link>https://lmdavalos.github.io/publication/journal_from_the_field_to_the_lab/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_from_the_field_to_the_lab/</guid>
       <description></description>
     </item>
     
