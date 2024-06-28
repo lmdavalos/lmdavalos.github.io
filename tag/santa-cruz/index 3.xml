@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Santa Cruz | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/tag/santa-cruz/</link>
+      <atom:link href="https://lmdavalos.github.io/tag/santa-cruz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Santa Cruz</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/media/icon_hud44501404c914d67889d8518d1a662c7_303770_512x512_fill_lanczos_center_3.png</url>
+      <title>Santa Cruz</title>
+      <link>https://lmdavalos.github.io/tag/santa-cruz/</link>
+    </image>
+    
+    <item>
+      <title>Los orígenes de la cocaína. Colonización y desarrollo fallido en los Andes amazónicos</title>
+      <link>https://lmdavalos.github.io/publication/edited_books_origenes_cocaina/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/edited_books_origenes_cocaina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Origins of Cocaine: Colonization and Failed Development in the Amazon Andes</title>
+      <link>https://lmdavalos.github.io/publication/edited_books_origins_of_cocaine/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/edited_books_origins_of_cocaine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
