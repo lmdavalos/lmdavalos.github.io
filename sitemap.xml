@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lmdavalos.github.io/people/</loc>
+    <lastmod>2024-08-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lmdavalos.github.io/publication/</loc>
     <lastmod>2024-06-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,6 +98,54 @@
     <lastmod>2024-06-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lmdavalos.github.io/tag/artibeus-jamaicensis/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/publication/thesis_sex_chromosomes_evolution_models/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/gene-family-evolution/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/genomics/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/humulus/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/humulus-japonicus/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/neo-sex-chromosomes/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/paul-donat/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/phyllostomidae/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/phyllostomus-discolor/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/stenodermatinae/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/publication-type/thesis/</loc>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lmdavalos.github.io/tag/adaptation/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -162,15 +214,7 @@
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/tag/phyllostomidae/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/santiago-claramunt/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/stenodermatinae/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -187,10 +231,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/publication/journal_evolvability_cancer_associated_under_apobec3_selection/</loc>
-    <lastmod>2024-03-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/genomics/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -259,10 +299,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/alumni/</loc>
-    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/people/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -546,10 +582,6 @@
     <lastmod>2023-09-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/tag/gene-family-evolution/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/graham-m.-hughes/</loc>
     <lastmod>2023-09-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -611,14 +643,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/publication/thesis_shrinking_shrews/</loc>
-    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/publication-type/thesis/</loc>
-    <lastmod>2023-09-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/william-thomas/</loc>
     <lastmod>2023-09-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2227,10 +2251,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/publication/journal_diversity_olfactory_receptors_diet_genus/</loc>
-    <lastmod>2021-07-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/paul-donat/</loc>
     <lastmod>2021-07-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
