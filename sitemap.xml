@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lmdavalos.github.io/post/24-09-18-batcave/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/post/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/team/</loc>
+    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lmdavalos.github.io/publication/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -192,6 +204,10 @@
   </url><url>
     <loc>https://lmdavalos.github.io/author/troy-richter/</loc>
     <lastmod>2024-06-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/post/24-05-14-donat-hooding/</loc>
+    <lastmod>2024-05-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/publication/thesis_sex_chromosomes_evolution_models/</loc>
@@ -487,10 +503,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/juliane-schaer/</loc>
-    <lastmod>2023-11-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/post/</loc>
     <lastmod>2023-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -5060,16 +5072,25 @@
     <loc>https://lmdavalos.github.io/author/amena-islam/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lmdavalos.github.io/author/angela-rasmussen/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lmdavalos.github.io/author/anna-mcpherran/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/anne-szeto/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lmdavalos.github.io/author/benneth-obitte/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lmdavalos.github.io/author/bhavana-patil/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/cameron-morales/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/cassandra-bonavita/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/categories/</loc>
@@ -5144,10 +5165,13 @@
     <loc>https://lmdavalos.github.io/author/kenneth-he/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/kristen-rayfield/</loc>
+    <loc>https://lmdavalos.github.io/author/kristen-m.-rayfield/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/laura-barger/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/liliana-m.-davalos/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/margarita-bartasunaite/</loc>
@@ -5186,7 +5210,10 @@
     <loc>https://lmdavalos.github.io/author/sayonthoni-das-tuhi/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/trinity-chen/</loc>
+    <loc>https://lmdavalos.github.io/author/simon-anthony/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/tigga-kingston/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/xiaoyu-zhang/</loc>
