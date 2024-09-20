@@ -2,11 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lmdavalos.github.io/post/24-09-18-batcave/</loc>
-    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
+    <loc>https://lmdavalos.github.io/geeks/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/post/24-09-19-fulbright-amazonia-symposium/</loc>
+    <lastmod>2024-09-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/post/</loc>
+    <lastmod>2024-09-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/post/24-09-18-batcave/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -114,10 +122,6 @@
     <lastmod>2024-09-10T00:00:01+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/john-d.-nieland/</loc>
-    <lastmod>2024-09-10T00:00:01+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/joon-hyun-song/</loc>
     <lastmod>2024-09-10T00:00:01+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -179,6 +183,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/tag/hypothalamus/</loc>
+    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/john-d.-nieland/</loc>
     <lastmod>2024-06-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -5072,6 +5080,9 @@
     <loc>https://lmdavalos.github.io/author/amena-islam/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lmdavalos.github.io/author/ane-alencar/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lmdavalos.github.io/author/angela-rasmussen/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -5120,6 +5131,9 @@
     <loc>https://lmdavalos.github.io/author/gabrielle-donnelly/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lmdavalos.github.io/author/galia-selaya/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lmdavalos.github.io/author/genna-tudda/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -5150,6 +5164,9 @@
     <loc>https://lmdavalos.github.io/author/jonah-rothleder/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lmdavalos.github.io/author/juan-pablo-inamagua/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lmdavalos.github.io/author/julie-micko/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -5171,9 +5188,6 @@
     <loc>https://lmdavalos.github.io/author/laura-barger/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/liliana-m.-davalos/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/margarita-bartasunaite/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -5190,6 +5204,12 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/tag/preface/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/rayane-pacheco/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/sabina-ribeiro/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/samantha-delserra/</loc>
