@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speciation | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/tag/speciation/</link>
+      <atom:link href="https://lmdavalos.github.io/tag/speciation/index.xml" rel="self" type="application/rss+xml" />
+    <description>speciation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/media/icon_hud44501404c914d67889d8518d1a662c7_303770_512x512_fill_lanczos_center_3.png</url>
+      <title>speciation</title>
+      <link>https://lmdavalos.github.io/tag/speciation/</link>
+    </image>
+    
+    <item>
+      <title>Morphology and niche evolution influence hummingbird speciation rates</title>
+      <link>https://lmdavalos.github.io/publication/journal_morphology_niche_evolution_influence_hummingbird_speciation/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_morphology_niche_evolution_influence_hummingbird_speciation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eating down the food chain: generalism is not an evolutionary dead end for herbivores</title>
+      <link>https://lmdavalos.github.io/publication/journal_eating_down_the_food_chain/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_eating_down_the_food_chain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bats (Chiroptera: Noctilionoidea) Challenge a Recent Origin of Extant Neotropical Diversity</title>
+      <link>https://lmdavalos.github.io/publication/journal_bats_chiroptera_noctilionoidea/</link>
+      <pubDate>Wed, 10 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_bats_chiroptera_noctilionoidea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The river-refuge hypothesis and other contributions of Márcio Ayres to conservation science</title>
+      <link>https://lmdavalos.github.io/publication/book_section_river_refuge_hypothesis/</link>
+      <pubDate>Sat, 06 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/book_section_river_refuge_hypothesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
