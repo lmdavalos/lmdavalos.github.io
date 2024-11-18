@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mirena Medina | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/author/mirena-medina/</link>
+      <atom:link href="https://lmdavalos.github.io/author/mirena-medina/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mirena Medina</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://lmdavalos.github.io/author/mirena-medina/avatar_hu6b0f04e7709d0719c55e200d508ed4b1_4717813_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Mirena Medina</title>
+      <link>https://lmdavalos.github.io/author/mirena-medina/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angela Rasmussen | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/author/angela-rasmussen/</link>
+      <atom:link href="https://lmdavalos.github.io/author/angela-rasmussen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Angela Rasmussen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://lmdavalos.github.io/author/angela-rasmussen/avatar_hu789af5602b0564dea21bcf1e67237882_20966_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Angela Rasmussen</title>
+      <link>https://lmdavalos.github.io/author/angela-rasmussen/</link>
+    </image>
+    
+  </channel>
+</rss>
