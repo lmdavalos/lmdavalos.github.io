@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bait capture | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/tag/bait-capture/</link>
+      <atom:link href="https://lmdavalos.github.io/tag/bait-capture/index.xml" rel="self" type="application/rss+xml" />
+    <description>bait capture</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/media/icon_hud44501404c914d67889d8518d1a662c7_303770_512x512_fill_lanczos_center_3.png</url>
+      <title>bait capture</title>
+      <link>https://lmdavalos.github.io/tag/bait-capture/</link>
+    </image>
+    
+    <item>
+      <title>Pervasive genomic signatures of local adaptation to altitude across highland specialist Andean hummingbird populations</title>
+      <link>https://lmdavalos.github.io/publication/journal_pervasive_genomic_signatures_of_local/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_pervasive_genomic_signatures_of_local/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the performance of targeted sequence capture, RNA-Seq, and degenerate-primer PCR cloning for sequencing the largest mammalian multigene family</title>
+      <link>https://lmdavalos.github.io/publication/journal_targeted_sequence_capture_outperforms/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_targeted_sequence_capture_outperforms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
