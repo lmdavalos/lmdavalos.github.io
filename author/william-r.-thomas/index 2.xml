@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William R. Thomas | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/author/william-r.-thomas/</link>
+      <atom:link href="https://lmdavalos.github.io/author/william-r.-thomas/index.xml" rel="self" type="application/rss+xml" />
+    <description>William R. Thomas</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/author/william-r.-thomas/avatar_hud72581ccf3074f1d12ee3c72dfdeb342_244040_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>William R. Thomas</title>
+      <link>https://lmdavalos.github.io/author/william-r.-thomas/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic metabolic and molecular changes during seasonal shrinking in Sorex araneus</title>
+      <link>https://lmdavalos.github.io/publication/preprint_molecular_mechanisms_seasonal_brain_shrinkage_regrowth_sorex/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/preprint_molecular_mechanisms_seasonal_brain_shrinkage_regrowth_sorex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression comparisons between captive and wild shrew brains reveal captivity effects</title>
+      <link>https://lmdavalos.github.io/publication/preprint_large_captivity_effect_comparisons_captive_wild_shrews/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:01 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/preprint_large_captivity_effect_comparisons_captive_wild_shrews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal and comparative evidence of adaptive gene expression in mammalian brain size plasticity</title>
+      <link>https://lmdavalos.github.io/publication/journal_seasonal_comparative_evidence_adaptive_gene_expression/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_seasonal_comparative_evidence_adaptive_gene_expression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery and biological confirmation of a highly divergent Tacaribe virus in metatranscriptomic data from neotropical bats</title>
+      <link>https://lmdavalos.github.io/publication/journal_discovery_biological_confirmation_highly_divergent_tacaribe_virus/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_discovery_biological_confirmation_highly_divergent_tacaribe_virus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shrinking Shrews: Evolutionary history and molecular mechanisms of a unique wintering strategy</title>
+      <link>https://lmdavalos.github.io/publication/thesis_shrinking_shrews/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/thesis_shrinking_shrews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Histological and MRI brain atlas of the common shrew, Sorex araneus, with brain region-specific gene expression profiles</title>
+      <link>https://lmdavalos.github.io/publication/journal_histological_mri_brain_atlas/</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_histological_mri_brain_atlas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

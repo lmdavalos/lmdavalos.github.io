@@ -5,7 +5,7 @@
     <link>https://lmdavalos.github.io/author/emma-c.-teeling/</link>
       <atom:link href="https://lmdavalos.github.io/author/emma-c.-teeling/index.xml" rel="self" type="application/rss+xml" />
     <description>Emma C. Teeling</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmdavalos.github.io/media/icon_hud44501404c914d67889d8518d1a662c7_303770_512x512_fill_lanczos_center_3.png</url>
       <title>Emma C. Teeling</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Chiropterans are a hotspot for horizontal transfer of DNA transposons in Mammalia</title>
-      <link>https://lmdavalos.github.io/publication/journal_chiropterans_hotspot_horizontal_transfer_dna_transposons/</link>
-      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://lmdavalos.github.io/publication/journal_chiropterans_hotspot_horizontal_transfer_dna_transposons/</guid>
+      <title>Bat genomes illuminate adaptations to viral tolerance and disease resistance</title>
+      <link>https://lmdavalos.github.io/publication/journal_reference_quality_bat_genomes_illuminate_adaptations_viral/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_reference_quality_bat_genomes_illuminate_adaptations_viral/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Reference-quality bat genomes illuminate adaptations to viral tolerance and disease resistance</title>
-      <link>https://lmdavalos.github.io/publication/preprint_reference_quality_bat_genomes_illuminate_adaptations_viral/</link>
-      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://lmdavalos.github.io/publication/preprint_reference_quality_bat_genomes_illuminate_adaptations_viral/</guid>
+      <title>Chiropterans are a hotspot for horizontal transfer of DNA transposons in Mammalia</title>
+      <link>https://lmdavalos.github.io/publication/journal_chiropterans_hotspot_horizontal_transfer_dna_transposons/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_chiropterans_hotspot_horizontal_transfer_dna_transposons/</guid>
       <description></description>
     </item>
     
@@ -65,6 +65,14 @@
       <link>https://lmdavalos.github.io/publication/journal_bat_biology_genomes/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       <guid>https://lmdavalos.github.io/publication/journal_bat_biology_genomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Cluster of Olfactory Receptor Genes Linked to Frugivory in Bats</title>
+      <link>https://lmdavalos.github.io/publication/journal_a_cluster_of_olfactory_receptor_genes/</link>
+      <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_a_cluster_of_olfactory_receptor_genes/</guid>
       <description></description>
     </item>
     
