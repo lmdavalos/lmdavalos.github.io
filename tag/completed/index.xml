@@ -5,12 +5,21 @@
     <link>https://lmdavalos.github.io/tag/completed/</link>
       <atom:link href="https://lmdavalos.github.io/tag/completed/index.xml" rel="self" type="application/rss+xml" />
     <description>completed</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmdavalos.github.io/media/icon_hud44501404c914d67889d8518d1a662c7_303770_512x512_fill_lanczos_center_3.png</url>
       <title>completed</title>
       <link>https://lmdavalos.github.io/tag/completed/</link>
     </image>
+    
+    <item>
+      <title>A Path to Climate Stability: Unleashing the Power of Azolla for Carbon Sequestration</title>
+      <link>https://lmdavalos.github.io/project/azolla_carbon_capture/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/project/azolla_carbon_capture/</guid>
+      <description>&lt;p&gt;We propose to explore Azolla as a solution to present-day scalable carbon capture by linking it with the Nitro-Oxidation Process (NOP) for sequestration. While the NOP has been found to be effective at producing nanocelluloses for application ranging from soil amendments to water filters, its potential for stabilizing carbon has yet to be evaluated. Because the NOP separates carbon in cellulose from effluents that contain remaining elements, this process can enable efficient phosphorus (and other nutrient element) recycling. This dual potential for carbon storage and nutrient recovery, however, remains to be tested. Demonstrating maximal carbon capture rates, and the suitability of the NOP to both stabilize Azolla biomass and reuse nutrients will make this project competitive with a diverse suite of potential funders.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Bat goblet cells as immuno-hotspots for infection of coronavirus</title>
