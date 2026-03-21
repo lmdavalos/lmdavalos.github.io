@@ -5,12 +5,20 @@
     <link>https://lmdavalos.github.io/tag/immunity/</link>
       <atom:link href="https://lmdavalos.github.io/tag/immunity/index.xml" rel="self" type="application/rss+xml" />
     <description>immunity</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2025 16:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmdavalos.github.io/media/icon_hud44501404c914d67889d8518d1a662c7_303770_512x512_fill_lanczos_center_3.png</url>
       <title>immunity</title>
       <link>https://lmdavalos.github.io/tag/immunity/</link>
     </image>
+    
+    <item>
+      <title>Exon Targeted Retrieval and Classification Toolbox (ExTRaCT): a gene search pipeline to find APOBEC3 Z-domains in novel bat genomes</title>
+      <link>https://lmdavalos.github.io/publication/preprint_exon_targeted_reetrieval_extract/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/preprint_exon_targeted_reetrieval_extract/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bat genomes illuminate adaptations to viral tolerance and disease resistance</title>
