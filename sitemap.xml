@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lmdavalos.github.io/post/</loc>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/post/26-04-15-uncover-how-shrinking-shrews-brain/</loc>
+    <lastmod>2026-04-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/post/26-03-30-work-on-amazon-disasters-wins-award/</loc>
+    <lastmod>2026-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lmdavalos.github.io/publication/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -30,7 +42,7 @@
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/publication/preprint_exon_targeted_reetrieval_extract/</loc>
+    <loc>https://lmdavalos.github.io/publication/preprint_exon_targeted_retrieval_extract/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -60,10 +72,6 @@
   </url><url>
     <loc>https://lmdavalos.github.io/author/thomas-maccarthy/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/post/</loc>
-    <lastmod>2026-01-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/post/26-01-25-new-genome-assembly-offers-clues/</loc>
@@ -2818,10 +2826,6 @@
     <lastmod>2021-07-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/david-ray/</loc>
-    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/federico-g.-hoffmann/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4730,6 +4734,10 @@
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lmdavalos.github.io/tag/character/</loc>
+    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lmdavalos.github.io/publication/journal_keeping_it_simple/</loc>
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4747,10 +4755,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/mathew-lavin/</loc>
-    <lastmod>2011-11-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/maximum-likelihood-models/</loc>
     <lastmod>2011-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -4927,6 +4931,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/tag/apicomplexa/</loc>
+    <lastmod>2008-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/maximum-likelihood-models/</loc>
     <lastmod>2008-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
