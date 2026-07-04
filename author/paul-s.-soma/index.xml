@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul S. Soma | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/author/paul-s.-soma/</link>
+      <atom:link href="https://lmdavalos.github.io/author/paul-s.-soma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul S. Soma</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/media/icon_hud44501404c914d67889d8518d1a662c7_303770_512x512_fill_lanczos_center_3.png</url>
+      <title>Paul S. Soma</title>
+      <link>https://lmdavalos.github.io/author/paul-s.-soma/</link>
+    </image>
+    
+    <item>
+      <title>Pathogenesis and host response to a novel Tacaribe virus isolate in experimentally-infected Jamaican fruit bats</title>
+      <link>https://lmdavalos.github.io/publication/preprint_pathogenesis_host_response_tacaribe/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/preprint_pathogenesis_host_response_tacaribe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
