@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brenen Wynd | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/author/brenen-wynd/</link>
+      <atom:link href="https://lmdavalos.github.io/author/brenen-wynd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brenen Wynd</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://lmdavalos.github.io/author/brenen-wynd/avatar_hu8c6d315dae7060ded9c9b3caa41c0b1b_2787101_270x270_fill_q75_lanczos_center.JPG</url>
+      <title>Brenen Wynd</title>
+      <link>https://lmdavalos.github.io/author/brenen-wynd/</link>
+    </image>
+    
+  </channel>
+</rss>
