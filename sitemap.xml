@@ -2,6 +2,618 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lmdavalos.github.io/publication/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/akshamal-m.-gamage/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/alain-ondzie/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/alejandro-gonzales-irribarren/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/alex-v.-borisenko/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/alexander-ben-hamadou/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/andrew-spalton/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/annette-denzinger/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/ariadna-e.-morales/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/publication-type/article-journal/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/authors/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/bastian-fromm/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/bats/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/bayesian-phylogenetics/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/bernal-rodriguez-herrera/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/biogeography/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/bismark-a.-opoku/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/bonhwang-koo/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/brian-d.-lloyd/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/brian-p.-otoole/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/burton-k.-lim/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/carola-greve/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/chromosomal-rearrangements/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/comparative-genomics/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/constance-scharff/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/daniel-whitby/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/danny-rojas/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/darrell-k.-lizamore/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/david-a.-ray/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/david-enard/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/deirdre-m.-jafferally/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/denis-m.-larkin/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/dimitrios-georgios-kontopoulos/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/dina-k.n.-dechmann/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/dineilys-v.-aparicio/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/dispersal-extirpation-cladogenesis/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/dominik-w.-melville/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/edgar-g.-gutierrez/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/elena-hilario/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/emma-c.-teeling/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/emma-l.-stone/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/erich-d.-jarvis/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/eugene-w.-myers/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/evans-e.-nkrumah/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/evgeny-v.-leushkin/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/fernando-simal/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/fossils/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/francisco-x.-castellanos/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/francy-j.-perez-llanos/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/genome-sequencing-and-assembly/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/genomics/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/giulio-formenti/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/graham-m.-hughes/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/guoying-qi/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/haris-nicolaou/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/harris-a.-lewin/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/huabin-zhao/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/indranee-roopsind/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/ine-alvarez-van-tussenbroek/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/ismael-galvan/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/jackson-fuller/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/jenna-e.-kohles/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/joanne-e.-gillum/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/jonathan-gray/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/jorge-brocca/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/jorge-ortega/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/jose-i.-carvajal/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/juan-m.-vazquez/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/judith-l.-eger/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/kendra-l.-phelps/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/kimberly-a.-nevonen/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/kirsty-mccaffrey/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/laura-uelze/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/laurel-r.-yohe/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/leon-hilgers/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/liliana-m.-davalos/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/lin-fa-wang/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/lina-m.-arcila-hernandez/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/linelle-ann-l.-abueg/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/linet-c.-watson/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/livia-loureiro/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/lucia-carbone/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/m.-cristina-macswiney-g/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/m.-elise-lauterbur/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/magdalena-meyer/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/mailyn-a.-gonzalez/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/maksym-prylutskyi/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/marek-uvizl/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/mark-blaxter/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/mark-d.-engstrom/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/martin-pippel/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/martina-nagy/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/matthew-f.-jones/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/matthieu-muffato/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/meike-mai/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/melissa-r.-de-waal/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/michael-hackenberg/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/michael-hiller/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/michael-letko/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/michael-w.-guernsey/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/mirjam-knornschild/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/monika-zavodna/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/morphology/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/myrtani-pieri/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/nadav-ahituv/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/nair-cabezon/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/nancy-b.-simmons/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/nathan-s.-upham/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/neil-j.-gemmell/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/nicolas-nesi/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/nicole-m.-foley/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/ning-zhang/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/paola-pulido-santacruz/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/paul-davis/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/peter-h.-sudmant/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/peter-vallo/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/petr-benda/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/phylogenetics/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/pipat-soisook/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/publication_types/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/publication/journal_genomes_fossils_revise_bat_family_phylogeny/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/robert-m.-timm/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/sahieda-a.-joemratie/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/sam-talbot/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/sarah-h.-olson/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/sarahjane-power/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/sebastien-j.-puechmaille/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/seth-j.-eiseb/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/shenglin-liu/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/simone-sommer/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/sonja-c.-vernes/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/stephanie-n.-seifert/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/stephen-j.-rossiter/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/steven-m.-goodman/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/suzanne-j.-hand/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/sylke-winkler/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tags/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/thomas-w.-horsley/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/tilman-schell/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/tom-brown/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/vincent-j.-munster/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/wharton-o.-y.-chan/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/william-j.-murphy/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/william-o.-mgoola/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/william-r.-thomas/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/william-s.-pearman/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/yan-liang-%E6%A2%81%E5%A6%8D/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/yelena-guttman/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/york-winter/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/yury-v.-malovichko/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/zacharias-norman/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/zahran-a.-alabdulsalam/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/author/zixia-huang/</loc>
+    <lastmod>2026-09-23T16:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lmdavalos.github.io/course/</loc>
     <lastmod>2026-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,23 +626,11 @@
     <lastmod>2026-08-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/publication/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/tag/angiosperm/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/ard-a.-louis/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/publication-type/article-journal/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/authors/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -54,19 +654,7 @@
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/liliana-m.-davalos/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/nora-s.-martin/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/phylogenetics/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/publication_types/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -75,10 +663,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/tag/simple-leaves/</loc>
-    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tags/</loc>
     <lastmod>2026-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -162,15 +746,7 @@
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/bonhwang-koo/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/brendan-pinto/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/brian-p.-otoole/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -250,10 +826,6 @@
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/denis-m.-larkin/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/diego-n.-de-panis/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -266,15 +838,7 @@
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/emma-c.-teeling/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/emma-de-jong/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/erich-d.-jarvis/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -283,10 +847,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/erik-garrison/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/eugene-w.-myers/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -318,15 +878,7 @@
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/tag/genomics/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/george-butler/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/giulio-formenti/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -347,10 +899,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/h.-william-detrich/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/harris-a.-lewin/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -442,10 +990,6 @@
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/kirsty-mccaffrey/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/klaus-peter-koepfli/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -466,10 +1010,6 @@
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/linelle-ann-l.-abueg/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/lisa-m.-komoroske/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -479,10 +1019,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/m.-thomas-p.-gilbert/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/maksym-prylutskyi/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -498,19 +1034,11 @@
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/mark-blaxter/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/mark-de-bruyn/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/mark-diekhans/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/martin-pippel/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -542,10 +1070,6 @@
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/michael-hiller/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/michael-paulini/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -571,10 +1095,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/nathalia-d.-dalessandre/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/neil-j.-gemmell/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -611,10 +1131,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/pedro-a.-galante/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/peter-h.-sudmant/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -710,15 +1226,7 @@
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/sonja-c.-vernes/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/tag/sorex-araneus/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/sylke-winkler/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -747,10 +1255,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/thomas-near/</loc>
-    <lastmod>2026-06-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/tom-brown/</loc>
     <lastmod>2026-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -890,10 +1394,6 @@
     <lastmod>2026-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/nathan-s.-upham/</loc>
-    <lastmod>2026-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/samuel-t.-turvey/</loc>
     <lastmod>2026-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -970,23 +1470,11 @@
     <lastmod>2026-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/tag/chromosomal-rearrangements/</loc>
-    <lastmod>2026-01-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/david-a.-ray/</loc>
-    <lastmod>2026-01-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/tag/dehnels-phenomenon/</loc>
     <lastmod>2026-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/diana-d.-moreno-santillan/</loc>
-    <lastmod>2026-01-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/dina-k.n.-dechmann/</loc>
     <lastmod>2026-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1023,10 +1511,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/tanya-m.-lama/</loc>
-    <lastmod>2026-01-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/william-r.-thomas/</loc>
     <lastmod>2026-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1115,10 +1599,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/ane-alencar/</loc>
-    <lastmod>2025-11-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/bats/</loc>
     <lastmod>2025-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1246,19 +1726,11 @@
     <lastmod>2025-10-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/nicolas-nesi/</loc>
-    <lastmod>2025-10-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/publication/journal_reduced_gene_expression_missense_mutation_transporter_albino/</loc>
     <lastmod>2025-10-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/rosie-drinkwater/</loc>
-    <lastmod>2025-10-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/stephen-j.-rossiter/</loc>
     <lastmod>2025-10-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1386,10 +1858,6 @@
     <lastmod>2025-01-29T16:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/ariadna-e.-morales/</loc>
-    <lastmod>2025-01-29T16:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/arinjay-banerjee/</loc>
     <lastmod>2025-01-29T16:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1402,31 +1870,11 @@
     <lastmod>2025-01-29T16:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/burton-k.-lim/</loc>
-    <lastmod>2025-01-29T16:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/comparative-genomics/</loc>
-    <lastmod>2025-01-29T16:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/tag/coronaviruses/</loc>
     <lastmod>2025-01-29T16:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/dimitrios-georgios-kontopoulos/</loc>
-    <lastmod>2025-01-29T16:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/eugene-myers/</loc>
-    <lastmod>2025-01-29T16:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/genome-sequencing-and-assembly/</loc>
-    <lastmod>2025-01-29T16:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/graham-m.-hughes/</loc>
     <lastmod>2025-01-29T16:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1438,15 +1886,7 @@
     <lastmod>2025-01-29T16:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/leon-hilgers/</loc>
-    <lastmod>2025-01-29T16:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/paolo-devanna/</loc>
-    <lastmod>2025-01-29T16:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/sebastien-j.-puechmaille/</loc>
     <lastmod>2025-01-29T16:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1475,10 +1915,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/yue-dong/</loc>
-    <lastmod>2025-01-29T16:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/zixia-huang/</loc>
     <lastmod>2025-01-29T16:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1511,10 +1947,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/tag/generalized-joint-attribute-modeling/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/laurel-r.-yohe/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2046,15 +2478,7 @@
     <lastmod>2023-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/martina-nagy/</loc>
-    <lastmod>2023-11-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/merlin-tuttle/</loc>
-    <lastmod>2023-11-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/mirjam-knornschild/</loc>
     <lastmod>2023-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2099,10 +2523,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/amy-l.-russell/</loc>
-    <lastmod>2023-09-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/francisco-x.-castellanos/</loc>
     <lastmod>2023-09-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2314,10 +2734,6 @@
     <lastmod>2023-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/danny-rojas/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/elisa-barreto/</loc>
     <lastmod>2023-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2406,10 +2822,6 @@
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/tag/fossils/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/grace-i.-saville/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2434,7 +2846,7 @@
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/tag/mammal/</loc>
+    <loc>https://lmdavalos.github.io/tag/mammals/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2447,10 +2859,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/tag/quaternary/</loc>
-    <lastmod>2023-01-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/steven-m.-goodman/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2843,14 +3251,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/miluska-k.r.-sanchez/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/morphology/</loc>
-    <lastmod>2022-07-29T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/nancy-b.-simmons/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -3518,10 +3918,6 @@
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/m.-elise-lauterbur/</loc>
-    <lastmod>2021-08-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/tag/volatile-organic-compounds/</loc>
     <lastmod>2021-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3559,10 +3955,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/federico-g.-hoffmann/</loc>
-    <lastmod>2021-06-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/author/huabin-zhao/</loc>
     <lastmod>2021-06-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -4494,8 +4886,8 @@
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/tag/bayesian-phylogenetics/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <loc>https://lmdavalos.github.io/tag/mammal/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/tag/biogeobears/</loc>
@@ -4507,10 +4899,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/tag/cubanycteris/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/dispersal/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -4539,10 +4927,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/author/valeria-da-c.-tavares/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/vicariance/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -5214,10 +5598,6 @@
     <lastmod>2014-01-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://lmdavalos.github.io/author/william-j.-murphy/</loc>
-    <lastmod>2014-01-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://lmdavalos.github.io/author/adam-c.-algar/</loc>
     <lastmod>2013-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -5562,6 +5942,10 @@
     <lastmod>2010-03-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lmdavalos.github.io/tag/dispersal/</loc>
+    <lastmod>2010-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lmdavalos.github.io/publication/book_section_earth_history_evolution_caribbean_bats/</loc>
     <lastmod>2010-03-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -5571,6 +5955,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/tag/systematics/</loc>
+    <lastmod>2010-03-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://lmdavalos.github.io/tag/vicariance/</loc>
     <lastmod>2010-03-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -5706,6 +6094,10 @@
     <lastmod>2006-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://lmdavalos.github.io/tag/event-based-biogeography/</loc>
+    <lastmod>2006-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://lmdavalos.github.io/tag/mormoops/</loc>
     <lastmod>2006-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -5743,10 +6135,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://lmdavalos.github.io/tag/cytochrome-b/</loc>
-    <lastmod>2005-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://lmdavalos.github.io/tag/event-based-biogeography/</loc>
     <lastmod>2005-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
