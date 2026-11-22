@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adaptive evolution | Dávalos Lab</title>
+    <link>https://lmdavalos.github.io/tag/adaptive-evolution/</link>
+      <atom:link href="https://lmdavalos.github.io/tag/adaptive-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <description>adaptive evolution</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmdavalos.github.io/media/icon_hud44501404c914d67889d8518d1a662c7_303770_512x512_fill_lanczos_center_3.png</url>
+      <title>adaptive evolution</title>
+      <link>https://lmdavalos.github.io/tag/adaptive-evolution/</link>
+    </image>
+    
+    <item>
+      <title>Integrated genomics and transcriptomics reveal mechanisms of extreme dietary adaptation in vampire bats</title>
+      <link>https://lmdavalos.github.io/publication/preprint_integrated_genomics_transcriptomics_vampire_bats/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/preprint_integrated_genomics_transcriptomics_vampire_bats/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
