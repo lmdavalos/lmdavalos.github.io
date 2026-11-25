@@ -5,12 +5,20 @@
     <link>https://lmdavalos.github.io/author/tigga-kingston/</link>
       <atom:link href="https://lmdavalos.github.io/author/tigga-kingston/index.xml" rel="self" type="application/rss+xml" />
     <description>Tigga Kingston</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Nov 2026 16:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmdavalos.github.io/author/tigga-kingston/avatar_hu8328d05c1baee76730e96b581c9cc258_886210_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Tigga Kingston</title>
       <link>https://lmdavalos.github.io/author/tigga-kingston/</link>
     </image>
+    
+    <item>
+      <title>Prioritizing the next decade of research in bat infectious disease (batID)</title>
+      <link>https://lmdavalos.github.io/publication/journal_prioritzing_next_decade_dsease_batid/</link>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 +0000</pubDate>
+      <guid>https://lmdavalos.github.io/publication/journal_prioritzing_next_decade_dsease_batid/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
